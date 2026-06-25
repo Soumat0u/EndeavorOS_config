@@ -1,0 +1,145 @@
+@import "colors.css";
+
+/*======= MODULE INDEPENDENT =======*/
+#distro-group {
+  margin: 4px 5px;
+  background-color: @surface_container;
+  border-radius: 20px;
+  color: @primary;
+}
+
+#custom-distro {
+  color: @primary;
+  padding: 6px 15px 6px 10px;
+}
+
+#custom-kitty {
+  color: @color2;
+  padding: 0px 10px;
+}
+
+#custom-antigravity {
+  color: @color5;
+  padding: 0px 10px;
+}
+
+#custom-thunar {
+  color: @color3;
+  padding: 0px 10px 0px 8px;
+}
+
+#custom-chrome {
+  color: @color4;
+  padding: 0px 10px;
+}
+
+#custom-whatsapp {
+  color: @color2;
+  padding: 0px 10px;
+}
+
+#custom-spotify {
+  color: @color5;
+  padding: 0px 15px 0px 10px;
+}
+
+#power-profiles-daemon,
+#idle_inhibitor {
+  margin: 4px 5px;
+  padding: 6px 15px 6px 10px;
+  background-color: @surface_container;
+  border-radius: 20px;
+  color: @secondary_fixed_dim;
+}
+
+#custom-resources {
+  color: @primary;
+  padding: 0px 10px 0px 8px;
+}
+
+/*======= MODULE CAPSUL =======*/
+#audio,
+#connections,
+#resources,
+#waypaper {
+  margin: 4px 5px;
+  padding: 6px 6px;
+  background-color: @surface_container;
+  border-radius: 20px;
+}
+
+#custom-brightness-dp1,
+#custom-brightness-dp2 {
+  margin: 4px 5px;
+  padding: 6px 18px 6px 14px;
+  background-color: @surface_container;
+  border-radius: 20px;
+  color: @primary;
+}
+
+#audio { color: @primary; }
+#connections { color: @primary; }
+#resources { color: @primary; }
+#waypaper { color: @primary; }
+
+
+#disk,
+#memory,
+#cpu,
+#custom-gpu,
+#temperature,
+#bluetooth {
+  margin-right: 2px;
+  padding: 0 8px;
+}
+
+#network {
+  padding: 0px 10px 0px 4px;
+}
+
+#custom-updates {
+  margin: 4px 5px;
+  padding: 6px 14px;
+  background-color: @surface_container;
+  border-radius: 20px;
+  color: @primary;
+}
+
+#pulseaudio {
+  margin: 4px 5px;
+  padding: 6px 18px 6px 14px;
+  background-color: @surface_container;
+  border-radius: 20px;
+  color: @primary;
+}
+
+#custom-waypaper {
+  margin-right: 12px;
+  margin-left: 8px;
+}
+
+#custom-waypaper-random {
+  margin-right: 8px;
+}
+
+/*======= TRAY =======*/
+#tray-group {
+  margin: 4px 5px;
+  background-color: @surface_container;
+  border-radius: 20px;
+}
+
+#custom-tray-arrow {
+  padding: 6px 14px 6px 10px;
+  color: @primary;
+}
+
+#tray {
+  padding: 6px 10px;
+}
+
+#tray>.passive,
+#tray>.active,
+#tray>.needs-attention {
+  -gtk-icon-effect: none;
+}

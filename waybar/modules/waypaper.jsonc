@@ -1,0 +1,14 @@
+{
+  "custom/waypaper": {
+    "format": "󰋩",
+    "on-click": "setsid -f waypaper",
+    "tooltip": true,
+    "tooltip-format": "Change Wallpaper"
+  },
+  "custom/waypaper-random": {
+    "format": "",
+    "on-click": "waypaper --random",
+    "tooltip": true,
+    "tooltip-format": "Random Wallpaper"
+  }
+}

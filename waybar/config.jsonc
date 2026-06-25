@@ -1,0 +1,41 @@
+{
+  "layer": "top",
+  "position": "bottom",
+  "exclusive": false,
+  "passthrough": false,
+  "on-sigusr1": "hide",
+  "on-sigusr2": "show",
+  "height": 52,
+  "spacing": 6,
+  "include": [
+    "./modules/groups.jsonc",
+    "./modules/distro.jsonc",
+    "./modules/storage.jsonc",
+    "./modules/system.jsonc",
+    "./modules/power-profiles-daemon.jsonc",
+    "./modules/workspace.jsonc",
+    "./modules/idle-ihibitor.jsonc",
+    "./modules/audio.jsonc",
+    "./modules/connections.jsonc",
+    "./modules/battery.jsonc",
+    "./modules/clock.jsonc",
+    "./modules/tray-notif.jsonc",
+    "./modules/waypaper.jsonc"
+  ],
+  "modules-left": [
+    "group/distro-group",
+    "group/storage",
+    "group/system"
+  ],
+  "modules-center": [
+    "hyprland/workspaces",
+    "idle_inhibitor"
+  ],
+  "modules-right": [
+    "group/waypaper",
+    "group/audio",
+    "group/connections",
+    "clock",
+    "group/tray-group"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "output": "DP-2",
+  "layer": "top",
+  "position": "bottom",
+  "exclusive": false,
+  "passthrough": false,
+  "height": 52,
+  "spacing": 6,
+  "include": [
+    "./modules/groups.jsonc",
+    "./modules/distro.jsonc",
+    "./modules/storage.jsonc",
+    "./modules/system.jsonc",
+    "./modules/power-profiles-daemon.jsonc",
+    "./modules/workspace.jsonc",
+    "./modules/idle-ihibitor.jsonc",
+    "./modules/updates.jsonc",
+    "./modules/audio.jsonc",
+    "./modules/connections.jsonc",
+    "./modules/battery.jsonc",
+    "./modules/clock.jsonc",
+    "./modules/tray-notif.jsonc",
+    "./modules/waypaper.jsonc",
+    "./modules/backlight.jsonc"
+  ],
+  "modules-left": [
+    "group/distro-group",
+    "group/resources",
+    "custom/updates"
+  ],
+  "modules-center": [
+    "hyprland/workspaces",
+    "clock"
+  ],
+  "modules-right": [
+    "group/waypaper",
+    "custom/brightness-dp2",
+    "pulseaudio",
+    "group/connections"
+  ]
+}

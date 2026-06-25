@@ -1,0 +1,68 @@
+// HollowSec Renk Paleti Entegrasyonu
+$surface: #101510;
+$on-surface: #e0e4db;
+$primary: #9cd49f;
+$secondary-container: #3a4b3a;
+$on-primary-container: #b7f1b9;
+
+// --- SIYAH EKRAN COZUMU BURADA ---
+// EWW disi pencere arka plan rengini tamamen kaldiriyoruz
+window {
+  background-color: transparent;
+  background: transparent;
+  box-shadow: none;
+}
+
+// Aktif GTK temasının (Adwaita vb.) ".background" sınıfı "window"dan daha
+// yüksek özgüllükle siyah/gri arka plan basıyor, bunu da eziyoruz
+window.background {
+  background-color: transparent;
+  background-image: none;
+}
+
+
+// Ana Kutu Stili (Sadece senin widget'ın görünür kalacak)
+.main-box {
+  background-color: $surface !important;
+  color: $on-surface !important;
+  border: 2px solid $primary !important;
+  border-radius: 14px !important;
+  padding: 20px;
+}
+
+// Satır Yapısı
+.slider-row {
+  margin: 5px 0px;
+}
+
+// Etiketler
+.slider-label {
+  color: $on-surface;
+  font-weight: bold;
+  font-size: 13px;
+  margin-right: 15px;
+  font-family: "JetBrainsMono Nerd Font";
+}
+
+// Slider Çubuğu (Trough)
+scale trough {
+  background-color: $secondary-container;
+  border-radius: 999px;
+  min-width: 180px;
+  min-height: 10px;
+}
+
+// Slider Aktif/Dolu Alan (Highlight)
+scale progress {
+  background-color: $primary;
+  border-radius: 999px;
+}
+
+// Kaydırma Yuvarlağı (Slider Button)
+scale slider {
+  background-color: $on-primary-container;
+  border: 2px solid $primary;
+  border-radius: 999px;
+  min-width: 14px;
+  min-height: 14px;
+}

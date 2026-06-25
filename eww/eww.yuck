@@ -1,0 +1,40 @@
+(defvar vivid_cur "50")
+(defvar led_cur "50")
+(defvar pos_x "0")
+(defvar pos_y "0")
+
+(defwindow brightness_menu
+  :monitor 0
+  ;; Genişliği ve yüksekliği sadece widget'ın boyutu kadar yapıyoruz!
+  :geometry (geometry :x "0px"
+                      :y "0px"
+                      :width "340px"
+                      :height "150px"
+                      :anchor "top left")
+  :stacking "overlay"
+  :exclusive false
+  :focusable false
+  :wm-ignore true
+  
+  ;; Pozisyonu dinamik olarak padding ile itiyoruz
+  (box :style "padding-left: ${pos_x}px; padding-top: ${pos_y}px;" 
+       :valign "start" 
+       :halign "start"
+    (brightness_layout)))
+
+(defwidget brightness_layout []
+  (box :class "main-box" :orientation "vertical" :space-evenly false :spacing 15
+    (box :class "slider-row" :orientation "horizontal" :space-evenly false
+      (label :class "slider-label" :text "󰃠 VIVID:")
+      (scale :class "slider-bar"
+             :min 0
+             :max 101
+             :value vivid_cur
+             :onchange "ddcutil setvcp 10 {} --bus 4 &"))
+    (box :class "slider-row" :orientation "horizontal" :space-evenly false
+      (label :class "slider-label" :text "󰃠 LED:")
+      (scale :class "slider-bar"
+             :min 0
+             :max 101
+             :value led_cur
+             :onchange "ddcutil setvcp 10 {} --bus 10 &"))))

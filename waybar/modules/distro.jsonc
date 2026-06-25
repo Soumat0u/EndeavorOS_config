@@ -1,0 +1,36 @@
+{
+  "custom/distro": {
+    "format": "",
+    "tooltip": false
+  },
+  "custom/kitty": {
+    "format": "󰆍",
+    "on-click": "kitty",
+    "tooltip": false
+  },
+  "custom/antigravity": {
+    "format": "󰚌",
+    "on-click": "antigravity-ide",
+    "tooltip": false
+  },
+  "custom/thunar": {
+    "format": "",
+    "on-click": "thunar",
+    "tooltip": false
+  },
+  "custom/chrome": {
+    "format": "",
+    "on-click": "flatpak run com.google.Chrome",
+    "tooltip": false
+  },
+  "custom/whatsapp": {
+    "format": "",
+    "on-click": "flatpak run --command=/app/bin/chrome com.google.Chrome --profile-directory=Default --app-id=hnpfjngllnobngcgfapefoaidbinmjnm",
+    "tooltip": false
+  },
+  "custom/spotify": {
+    "format": "",
+    "on-click": "spotify",
+    "tooltip": false
+  }
+}

@@ -1,0 +1,16 @@
+window {
+    background-color: rgba(13, 17, 13, 0.85); /* Koyu yeşil-siyah şeffaf arka plan */
+    border: 2px solid #00ff99; /* Jade Yeşili ince çerçeve */
+    border-radius: 12px;
+}
+
+progress {
+    background-color: #00ff99; /* Doluluk rengi neon yeşil */
+    border-radius: 6px;
+    margin: 8px;
+}
+
+/* Simge rengini de yeşile uyduralım */
+image {
+    color: #00ff99;
+}

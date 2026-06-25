@@ -1,0 +1,13 @@
+{
+    "bluetooth": {
+        "format": " ",
+        "format-disabled": "󰂲  Off",
+        "tooltip-format": "{controller_alias}\t{controller_address}",
+        "tooltip-format-connected": "{controller_alias}\t{controller_address}\n\n{device_enumerate}",
+        "tooltip-format-enumerate-connected": "{device_alias}\t{device_address}",
+        // Sol tık ile Blueman arayüzünü açar:
+        "on-click": "blueman-manager",
+        // Sağ tık ile Bluetooth'u açar/kapatır:
+        "on-click-right": "rfkill toggle bluetooth"
+    }
+}

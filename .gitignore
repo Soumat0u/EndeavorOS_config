@@ -1,0 +1,54 @@
+# Default-deny: sadece açıkça izin verilen dosya/klasörler dahil edilir.
+# Tarayıcı profilleri, mail, wallet, IDE state, oyun launcher cache gibi
+# hassas/büyük klasörler kasıtlı olarak hariç tutuluyor.
+/*
+
+!/.gitignore
+!/README.md
+
+!/hypr/
+!/waybar/
+!/kitty/
+!/fish/
+!/rofi/
+!/rofi.safak/
+!/eww/
+!/btop/
+!/mpv/
+!/fastfetch/
+!/dunst/
+!/foot/
+!/fuzzel/
+!/wofi/
+!/wlogout/
+!/swaync/
+!/swayosd/
+!/avizo/
+!/cava/
+!/hyperion/
+!/matugen/
+!/wallust/
+!/starship.toml
+!/starship/
+!/tmux.conf
+!/gtk-3.0/
+!/gtk-4.0/
+!/gtkrc
+!/gtkrc-2.0
+!/zsh/
+!/waypaper/
+!/veneer/
+!/snappy-switcher/
+!/monitors.xml
+!/qtengine/
+!/QtProject.conf
+!/Trolltech.conf
+!/xsettingsd/
+
+# adi1090x-rofi ve waybar/waybar_auto_hide kendi git geçmişine sahip
+# harici klonlar (submodule karmaşası yaratmamak için dahil edilmedi)
+/adi1090x-rofi/
+/waybar/waybar_auto_hide/
+
+# Üst düzey izinlerin altındaki kendi .git dizinleri (varsa) asla eklenmesin
+**/.git/

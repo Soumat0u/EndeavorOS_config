@@ -1,0 +1,13 @@
+{
+    "cpu": {
+        "interval": 10,
+        "format": "󰍛 {usage}%",
+        "max-length": 10
+    },
+    "memory": {
+        "interval": 30,
+        "format": "󰾆 {percentage}%",
+        "format-alt": "󰾆 {used}GB",
+        "max-length": 10
+    }
+}

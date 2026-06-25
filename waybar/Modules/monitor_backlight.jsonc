@@ -1,0 +1,8 @@
+{
+  "custom/monitor_backlight": {
+    "format": "󰃠 ",
+    "on-click": "~/.config/waybar/Scripts/monitor_control.sh",
+    "tooltip": true,
+    "tooltip-format": "Monitör Parlaklık Arayüzünü Aç"
+  }
+}

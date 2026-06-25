@@ -1,0 +1,4 @@
+;; Eww Main Yuck
+
+(include "./widgets/ClockRainmeter/variables.yuck")
+(include "./widgets/ClockRainmeter/clock.yuck")

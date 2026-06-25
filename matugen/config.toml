@@ -1,0 +1,91 @@
+[config]
+reload_apps = false
+
+# ── Waybar ──
+[templates.waybar-colors]
+input_path = "~/.config/matugen/templates/waybar-colors.css"
+output_path = "~/.config/waybar/tokens/colors.css"
+post_hook = "pkill -SIGUSR2 waybar"
+
+[templates.waybar-state]
+input_path = "~/.config/matugen/templates/waybar-state.css"
+output_path = "~/.config/waybar/tokens/state.css"
+
+# ── Hyprland ──
+[templates.hyprland]
+input_path = "~/.config/matugen/templates/hyprland-colors.lua"
+output_path = "~/.config/hypr/colors.lua"
+post_hook = "hyprctl reload"
+
+# ── Kitty ──
+[templates.kitty]
+input_path = "~/.config/matugen/templates/kitty-theme.conf"
+output_path = "~/.config/kitty/kitty-theme.conf"
+post_hook = "kill -SIGUSR1 $(pgrep -f 'kitty') 2>/dev/null || true"
+
+# ── SwayNC ──
+[templates.swaync]
+input_path = "~/.config/matugen/templates/swaync-variables.css"
+output_path = "~/.config/swaync/tokens/variables.css"
+post_hook = "timeout 1 swaync-client -rs 2>/dev/null || true"
+
+# ── Wofi ──
+[templates.wofi]
+input_path = "~/.config/matugen/templates/wofi-style.css"
+output_path = "~/.config/wofi/style.css"
+
+# ── Wlogout ──
+[templates.wlogout]
+input_path = "~/.config/matugen/templates/wlogout-style.css"
+output_path = "~/.config/wlogout/style.css"
+
+# ── SwayOSD ──
+[templates.swayosd]
+input_path = "~/.config/matugen/templates/swayosd-style.css"
+output_path = "~/.config/swayosd/style.css"
+
+# ── Rofi ──
+[templates.rofi]
+input_path = "~/.config/matugen/templates/rofi-colors.rasi"
+output_path = "~/.config/rofi/colors.rasi"
+
+# ── Fuzzel ──
+[templates.fuzzel]
+input_path = "~/.config/matugen/templates/fuzzel-colors.ini"
+output_path = "~/.config/fuzzel/fuzzel-colors.ini"
+
+# ── Hyprlock ──
+[templates.hyprlock]
+input_path = "~/.config/matugen/templates/hyprlock-colors.conf"
+output_path = "~/.config/hypr/hyprlock-colors.conf"
+
+# ── Cava ──
+[templates.cava]
+input_path = "~/.config/matugen/templates/cava-colors"
+output_path = "~/.config/cava/config"
+
+# ── Starship ──
+[templates.starship]
+input_path = "~/.config/matugen/templates/starship-colors.toml"
+output_path = "~/.config/starship/colors.toml"
+post_hook = "~/.config/matugen/scripts/update-starship.sh"
+
+# ── Zsh ──
+[templates.zsh]
+input_path = "~/.config/matugen/templates/zsh-colors.sh"
+output_path = "~/.config/zsh/matugen-colors.sh"
+
+# ── Fastfetch ──
+[templates.fastfetch]
+input_path = "~/.config/matugen/templates/fastfetch-config.jsonc"
+output_path = "~/.config/fastfetch/config.jsonc"
+
+# ── GTK 3 ──
+[templates.gtk3]
+input_path = "~/.config/matugen/templates/gtk-colors.css"
+output_path = "~/.config/gtk-3.0/gtk.css"
+
+# ── GTK 4 ──
+[templates.gtk4]
+input_path = "~/.config/matugen/templates/gtk-colors.css"
+output_path = "~/.config/gtk-4.0/gtk.css"

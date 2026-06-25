@@ -1,0 +1,41 @@
+{
+    "label": "lock",
+    "action": "hyprlock",
+    "text": "Kilitle",
+    "keybind": "l"
+}
+
+{
+    "label": "logout",
+    "action": "/home/safak/.config/wlogout/close-chrome.sh && pkill Hyprland",
+    "text": "Oturumu 
+   Kapat","keybind": "e"
+}
+
+{
+    "label": "suspend",
+    "action": "systemctl suspend",
+    "text": "Uyku",
+    "keybind": "u"
+}
+
+{
+    "label": "shutdown",
+    "action": "/home/safak/.config/wlogout/close-chrome.sh && systemctl poweroff",
+    "text": "Kapat",
+    "keybind": "s"
+}
+
+{
+    "label": "hibernate",
+    "action": "systemctl hibernate",
+    "text": "Derin
+   Uyku","keybind": "h"
+}
+
+{
+    "label": "reboot",
+    "action": "/home/safak/.config/wlogout/close-chrome.sh && systemctl reboot",
+    "text": "Yeniden
+  Başlat","keybind": "r"
+}

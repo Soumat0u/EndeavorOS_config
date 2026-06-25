@@ -1,0 +1,17 @@
+{
+    "pulseaudio": {
+        "format": "{icon} {volume}%",
+        "format-muted": "󰝟 Muted",
+        "on-click": "pavucontrol",
+        "format-icons": {
+            "default": ["󰕿", "󰖀", "󰕾"]
+        }
+    },
+    "network": {
+        "format-wifi": "󰤨 {essid}",
+        "format-ethernet": "󰈀 Wired",
+        "format-disconnected": "󰤮 Disconnected",
+        "tooltip-format-wifi": "Signal: {signaldBm}dBm",
+        "on-click": "nm-connection-editor"
+    }
+}

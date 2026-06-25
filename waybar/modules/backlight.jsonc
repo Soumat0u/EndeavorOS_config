@@ -1,0 +1,20 @@
+{
+  "custom/brightness-dp1": {
+    "format": "󰃠 {}",
+    "exec": "~/.config/waybar/Scripts/brightness.sh DP-1",
+    "on-scroll-up": "~/.config/waybar/Scripts/brightness.sh DP-1 up && pkill -RTMIN+8 waybar",
+    "on-scroll-down": "~/.config/waybar/Scripts/brightness.sh DP-1 down && pkill -RTMIN+8 waybar",
+    "return-type": "json",
+    "tooltip": true,
+    "signal": 8
+  },
+  "custom/brightness-dp2": {
+    "format": "󰃠 {}",
+    "exec": "~/.config/waybar/Scripts/brightness.sh DP-2",
+    "on-scroll-up": "~/.config/waybar/Scripts/brightness.sh DP-2 up && pkill -RTMIN+8 waybar",
+    "on-scroll-down": "~/.config/waybar/Scripts/brightness.sh DP-2 down && pkill -RTMIN+8 waybar",
+    "return-type": "json",
+    "tooltip": true,
+    "signal": 8
+  }
+}

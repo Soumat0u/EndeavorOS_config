@@ -1,0 +1,28 @@
+backend = "wal"
+color_space = "lch"
+check_contrast = true
+palette = "dark"
+filter = false
+
+[templates]
+waybar_colors = { template = "waybar-colors.css", target = "~/.config/waybar/tokens/colors.css" }
+waybar_state = { template = "waybar-state.css", target = "~/.config/waybar/tokens/state.css" }
+hyprland = { template = "hyprland-colors.lua", target = "~/.config/hypr/colors.lua" }
+kitty = { template = "kitty-theme.conf", target = "~/.config/kitty/kitty-theme.conf" }
+swaync = { template = "swaync-variables.css", target = "~/.config/swaync/tokens/variables.css" }
+wofi = { template = "wofi-style.css", target = "~/.config/wofi/style.css" }
+swayosd = { template = "swayosd-style.css", target = "~/.config/swayosd/style.css" }
+rofi = { template = "rofi-adi1090x.rasi", target = "~/.config/rofi/colors/wallust.rasi" }
+fuzzel = { template = "fuzzel-colors.ini", target = "~/.config/fuzzel/fuzzel-colors.ini" }
+hyprlock = { template = "hyprlock-colors.conf", target = "~/.config/hypr/hyprlock-colors.conf" }
+cava = { template = "cava-colors", target = "~/.config/cava/config" }
+starship = { template = "starship-colors.toml", target = "~/.config/starship/starship.toml" }
+gtk3 = { template = "gtk-colors.css", target = "~/.config/gtk-3.0/gtk.css" }
+gtk4 = { template = "gtk-colors.css", target = "~/.config/gtk-4.0/gtk.css" }
+zsh = { template = "zsh-colors.sh", target = "~/.config/zsh/matugen-colors.sh" }
+fastfetch = { template = "fastfetch-config.jsonc", target = "~/.config/fastfetch/config.jsonc" }
+snappy = { template = "snappy-switcher.ini", target = "~/.config/snappy-switcher/themes/wallust.ini" }
+test_tera = { template = "/tmp/test.tera", target = "/tmp/out.tera" }
+sddm = { template = "sddm-sugar-dark.conf", target = "/tmp/sddm-wallust-colors.conf" }
+dunst = { template = "dunst-dunstrc.conf", target = "~/.config/dunst/dunstrc" }
+wlogout = { template = "wlogout-style.css", target = "~/.config/wlogout/style.css" }

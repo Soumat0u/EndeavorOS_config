@@ -1,0 +1,3333 @@
+[15:22:48.153] === autohide-multi.sh started (PID=72281) ===
+[15:22:48.154] Killing existing waybar/autohide processes...
+[15:22:48.584] Existing processes killed, starting monitor detection
+[15:22:48.600] launch_bar(DP-2): starting waybar
+[15:22:48.601] launch_bar(DP-2): PID=72299
+[15:22:48.903] launch_bar(DP-2): PID 72299 alive OK
+[15:22:49.206] launch_bar(DP-1): starting waybar
+[15:22:49.208] launch_bar(DP-1): PID=72334
+[15:22:49.510] launch_bar(DP-1): PID 72334 alive OK
+[15:22:51.062] launch_bar(DP-1): starting waybar
+[15:22:51.064] launch_bar(DP-1): PID=72546
+[15:22:51.366] launch_bar(DP-1): PID 72546 alive OK
+[15:23:56.470] === autohide-multi.sh started (PID=72935) ===
+[15:23:56.471] Killing existing waybar/autohide processes...
+[15:23:56.901] Existing processes killed, starting monitor detection
+[15:23:56.916] launch_bar(DP-2): starting waybar
+[15:23:56.918] launch_bar(DP-2): PID=72984
+[15:23:57.220] launch_bar(DP-2): PID 72984 alive OK
+[15:23:57.522] launch_bar(DP-1): starting waybar
+[15:23:57.524] launch_bar(DP-1): PID=73018
+[15:23:57.826] launch_bar(DP-1): PID 73018 alive OK
+[15:23:59.377] launch_bar(DP-1): starting waybar
+[15:23:59.378] launch_bar(DP-1): PID=73230
+[15:23:59.681] launch_bar(DP-1): PID 73230 alive OK
+[15:24:00.417] launch_bar(DP-2): starting waybar
+[15:24:00.419] launch_bar(DP-2): PID=73407
+[15:24:00.722] launch_bar(DP-2): PID 73407 alive OK
+[15:24:01.607] launch_bar(DP-1): starting waybar
+[15:24:01.609] launch_bar(DP-1): PID=73621
+[15:24:01.911] launch_bar(DP-1): PID 73621 alive OK
+[15:25:25.445] === autohide-multi.sh started (PID=74609) ===
+[15:25:25.446] Killing existing waybar/autohide processes...
+[15:25:25.878] Existing processes killed, starting monitor detection
+[15:25:25.893] launch_bar(DP-2): starting waybar
+[15:25:25.895] launch_bar(DP-2): PID=74658
+[15:25:26.197] launch_bar(DP-2): PID 74658 alive OK
+[15:25:26.499] launch_bar(DP-1): starting waybar
+[15:25:26.501] launch_bar(DP-1): PID=74692
+[15:25:26.803] launch_bar(DP-1): PID 74692 alive OK
+[15:26:29.741] === autohide-multi.sh started (PID=75315) ===
+[15:26:29.742] Killing existing waybar/autohide processes...
+[15:26:30.172] Existing processes killed, starting monitor detection
+[15:26:30.187] launch_bar(DP-2): starting waybar
+[15:26:30.189] launch_bar(DP-2): PID=75367
+[15:26:30.491] launch_bar(DP-2): PID 75367 alive OK
+[15:26:30.793] launch_bar(DP-1): starting waybar
+[15:26:30.795] launch_bar(DP-1): PID=75402
+[15:26:31.098] launch_bar(DP-1): PID 75402 alive OK
+[15:26:32.928] launch_bar(DP-1): starting waybar
+[15:26:32.929] launch_bar(DP-1): PID=75665
+[15:26:33.231] launch_bar(DP-1): PID 75665 alive OK
+[15:27:06.492] launch_bar(DP-1): starting waybar
+[15:27:06.494] launch_bar(DP-1): PID=82056
+[15:27:06.796] launch_bar(DP-1): PID 82056 alive OK
+[15:29:06.022] launch_bar(DP-1): starting waybar
+[15:29:06.024] launch_bar(DP-1): PID=109627
+[15:29:06.327] launch_bar(DP-1): PID 109627 alive OK
+[15:30:11.257] launch_bar(DP-2): starting waybar
+[15:30:11.259] launch_bar(DP-2): PID=126301
+[15:30:11.562] launch_bar(DP-2): PID 126301 died, retrying...
+[23:17:02.094] === autohide-multi.sh started (PID=1981) ===
+[23:17:02.095] Killing existing waybar/autohide processes...
+[23:17:02.522] Existing processes killed, starting monitor detection
+[23:17:02.544] launch_bar(DP-2): starting waybar
+[23:17:02.545] launch_bar(DP-2): PID=2009
+[23:17:02.847] launch_bar(DP-2): PID 2009 alive OK
+[23:17:03.150] launch_bar(DP-1): starting waybar
+[23:17:03.152] launch_bar(DP-1): PID=2085
+[23:17:03.454] launch_bar(DP-1): PID 2085 alive OK
+[23:17:12.291] launch_bar(DP-1): starting waybar
+[23:17:12.293] launch_bar(DP-1): PID=4316
+[23:17:12.595] launch_bar(DP-1): PID 4316 alive OK
+[23:17:30.614] launch_bar(DP-2): starting waybar
+[23:17:30.616] launch_bar(DP-2): PID=9144
+[23:17:30.919] launch_bar(DP-2): PID 9144 alive OK
+[23:17:33.973] launch_bar(DP-1): starting waybar
+[23:17:33.975] launch_bar(DP-1): PID=9797
+[23:17:34.277] launch_bar(DP-1): PID 9797 alive OK
+[23:17:37.868] launch_bar(DP-1): starting waybar
+[23:17:37.870] launch_bar(DP-1): PID=10520
+[23:17:38.172] launch_bar(DP-1): PID 10520 alive OK
+[23:17:45.636] launch_bar(DP-1): starting waybar
+[23:17:45.637] launch_bar(DP-1): PID=12095
+[23:17:45.939] launch_bar(DP-1): PID 12095 alive OK
+[23:17:48.177] === autohide-multi.sh started (PID=12478) ===
+[23:17:48.178] Killing existing waybar/autohide processes...
+[23:17:48.610] Existing processes killed, starting monitor detection
+[23:17:48.625] launch_bar(DP-2): starting waybar
+[23:17:48.627] launch_bar(DP-2): PID=12500
+[23:17:48.929] launch_bar(DP-2): PID 12500 alive OK
+[23:17:49.231] launch_bar(DP-1): starting waybar
+[23:17:49.233] launch_bar(DP-1): PID=12560
+[23:17:49.535] launch_bar(DP-1): PID 12560 alive OK
+[23:17:51.095] launch_bar(DP-1): starting waybar
+[23:17:51.097] launch_bar(DP-1): PID=12841
+[23:17:51.399] launch_bar(DP-1): PID 12841 alive OK
+[23:17:54.272] === autohide-multi.sh started (PID=13328) ===
+[23:17:54.273] Killing existing waybar/autohide processes...
+[23:17:54.705] Existing processes killed, starting monitor detection
+[23:17:54.719] launch_bar(DP-2): starting waybar
+[23:17:54.721] launch_bar(DP-2): PID=13350
+[23:17:55.023] launch_bar(DP-2): PID 13350 alive OK
+[23:17:55.325] launch_bar(DP-1): starting waybar
+[23:17:55.327] launch_bar(DP-1): PID=13394
+[23:17:55.630] launch_bar(DP-1): PID 13394 alive OK
+[23:18:01.881] launch_bar(DP-1): starting waybar
+[23:18:01.882] launch_bar(DP-1): PID=14642
+[23:18:02.184] launch_bar(DP-1): PID 14642 alive OK
+[23:18:07.950] launch_bar(DP-1): starting waybar
+[23:18:07.952] launch_bar(DP-1): PID=15803
+[23:18:08.254] launch_bar(DP-1): PID 15803 alive OK
+[23:18:14.393] launch_bar(DP-1): starting waybar
+[23:18:14.395] launch_bar(DP-1): PID=17063
+[23:18:14.697] launch_bar(DP-1): PID 17063 alive OK
+[23:18:17.561] launch_bar(DP-2): starting waybar
+[23:18:17.563] launch_bar(DP-2): PID=17641
+[23:18:17.865] launch_bar(DP-2): PID 17641 alive OK
+[23:19:04.449] === autohide-multi.sh started (PID=26775) ===
+[23:19:04.450] Killing existing waybar/autohide processes...
+[23:19:04.881] Existing processes killed, starting monitor detection
+[23:19:04.896] launch_bar(DP-2): starting waybar
+[23:19:04.898] launch_bar(DP-2): PID=26797
+[23:19:05.200] launch_bar(DP-2): PID 26797 alive OK
+[23:19:05.502] launch_bar(DP-1): starting waybar
+[23:19:05.504] launch_bar(DP-1): PID=26858
+[23:19:05.806] launch_bar(DP-1): PID 26858 alive OK
+[23:19:44.640] === autohide-multi.sh started (PID=34172) ===
+[23:19:44.641] Killing existing waybar/autohide processes...
+[23:19:45.071] Existing processes killed, starting monitor detection
+[23:19:45.086] launch_bar(DP-2): starting waybar
+[23:19:45.087] launch_bar(DP-2): PID=34194
+[23:19:45.390] launch_bar(DP-2): PID 34194 alive OK
+[23:19:45.692] launch_bar(DP-1): starting waybar
+[23:19:45.694] launch_bar(DP-1): PID=34254
+[23:19:45.996] launch_bar(DP-1): PID 34254 alive OK
+[23:19:48.543] launch_bar(DP-1): starting waybar
+[23:19:48.545] launch_bar(DP-1): PID=34717
+[23:19:48.847] launch_bar(DP-1): PID 34717 alive OK
+[14:52:11.762] === autohide-multi.sh started (PID=2088) ===
+[14:52:11.763] Killing existing waybar/autohide processes...
+[14:52:12.190] Existing processes killed, starting monitor detection
+[14:52:12.213] launch_bar(DP-2): starting waybar
+[14:52:12.215] launch_bar(DP-2): PID=2117
+[14:52:12.517] launch_bar(DP-2): PID 2117 alive OK
+[14:52:12.819] launch_bar(DP-1): starting waybar
+[14:52:12.821] launch_bar(DP-1): PID=2188
+[14:52:13.124] launch_bar(DP-1): PID 2188 alive OK
+[14:52:40.425] launch_bar(DP-1): starting waybar
+[14:52:40.426] launch_bar(DP-1): PID=8135
+[14:52:40.729] launch_bar(DP-1): PID 8135 alive OK
+[14:56:31.093] launch_bar(DP-1): starting waybar
+[14:56:31.095] launch_bar(DP-1): PID=52822
+[14:56:31.397] launch_bar(DP-1): PID 52822 alive OK
+[15:01:30.222] launch_bar(DP-1): starting waybar
+[15:01:30.224] launch_bar(DP-1): PID=110066
+[15:01:30.526] launch_bar(DP-1): PID 110066 alive OK
+[15:12:14.639] launch_bar(DP-1): starting waybar
+[15:12:14.640] launch_bar(DP-1): PID=232773
+[15:12:14.943] launch_bar(DP-1): PID 232773 alive OK
+[15:14:13.613] launch_bar(DP-1): starting waybar
+[15:14:13.615] launch_bar(DP-1): PID=255378
+[15:14:13.917] launch_bar(DP-1): PID 255378 alive OK
+[15:14:16.315] === autohide-multi.sh started (PID=255873) ===
+[15:14:16.316] Killing existing waybar/autohide processes...
+[15:14:16.743] Existing processes killed, starting monitor detection
+[15:14:16.758] launch_bar(DP-2): starting waybar
+[15:14:16.760] launch_bar(DP-2): PID=255895
+[15:14:17.062] launch_bar(DP-2): PID 255895 alive OK
+[15:14:17.364] launch_bar(DP-1): starting waybar
+[15:14:17.366] launch_bar(DP-1): PID=255962
+[15:14:17.668] launch_bar(DP-1): PID 255962 alive OK
+[15:14:18.383] === autohide-multi.sh started (PID=256086) ===
+[15:14:18.384] Killing existing waybar/autohide processes...
+[15:14:18.811] Existing processes killed, starting monitor detection
+[15:14:18.826] launch_bar(DP-2): starting waybar
+[15:14:18.829] launch_bar(DP-2): PID=256108
+[15:14:19.131] launch_bar(DP-2): PID 256108 alive OK
+[15:14:19.433] launch_bar(DP-1): starting waybar
+[15:14:19.435] launch_bar(DP-1): PID=256194
+[15:14:19.737] launch_bar(DP-1): PID 256194 alive OK
+[15:14:22.869] launch_bar(DP-1): starting waybar
+[15:14:22.871] launch_bar(DP-1): PID=256777
+[15:14:23.173] launch_bar(DP-1): PID 256777 alive OK
+[15:14:46.695] launch_bar(DP-1): starting waybar
+[15:14:46.697] launch_bar(DP-1): PID=261363
+[15:14:47.000] launch_bar(DP-1): PID 261363 alive OK
+[15:14:55.240] launch_bar(DP-1): starting waybar
+[15:14:55.242] launch_bar(DP-1): PID=263051
+[15:14:55.544] launch_bar(DP-1): PID 263051 alive OK
+[15:16:41.028] launch_bar(DP-1): starting waybar
+[15:16:41.030] launch_bar(DP-1): PID=283253
+[15:16:41.332] launch_bar(DP-1): PID 283253 alive OK
+[15:25:40.569] launch_bar(DP-1): starting waybar
+[15:25:40.571] launch_bar(DP-1): PID=386398
+[15:25:40.873] launch_bar(DP-1): PID 386398 alive OK
+[15:58:46.514] launch_bar(DP-1): starting waybar
+[15:58:46.515] launch_bar(DP-1): PID=764147
+[15:58:46.818] launch_bar(DP-1): PID 764147 alive OK
+[15:59:06.536] launch_bar(DP-1): starting waybar
+[15:59:06.538] launch_bar(DP-1): PID=767939
+[15:59:06.840] launch_bar(DP-1): PID 767939 alive OK
+[15:59:31.987] launch_bar(DP-2): starting waybar
+[15:59:31.989] launch_bar(DP-2): PID=773142
+[15:59:32.292] launch_bar(DP-2): PID 773142 alive OK
+[15:59:33.781] launch_bar(DP-2): starting waybar
+[15:59:33.783] launch_bar(DP-2): PID=773482
+[15:59:34.085] launch_bar(DP-2): PID 773482 alive OK
+[15:59:35.595] launch_bar(DP-2): starting waybar
+[15:59:35.597] launch_bar(DP-2): PID=773840
+[15:59:35.900] launch_bar(DP-2): PID 773840 alive OK
+[15:59:38.661] launch_bar(DP-1): starting waybar
+[15:59:38.662] launch_bar(DP-1): PID=774407
+[15:59:38.965] launch_bar(DP-1): PID 774407 alive OK
+[15:59:39.890] launch_bar(DP-1): starting waybar
+[15:59:39.892] launch_bar(DP-1): PID=774649
+[15:59:40.195] launch_bar(DP-1): PID 774649 alive OK
+[16:00:24.317] launch_bar(DP-1): starting waybar
+[16:00:24.319] launch_bar(DP-1): PID=783374
+[16:00:24.621] launch_bar(DP-1): PID 783374 alive OK
+[21:03:46.903] === autohide-multi.sh started (PID=1968) ===
+[21:03:46.904] Killing existing waybar/autohide processes...
+[21:03:47.332] Existing processes killed, starting monitor detection
+[21:03:47.356] launch_bar(DP-2): starting waybar
+[21:03:47.358] launch_bar(DP-2): PID=1996
+[21:03:47.660] launch_bar(DP-2): PID 1996 alive OK
+[21:03:47.962] launch_bar(DP-1): starting waybar
+[21:03:47.964] launch_bar(DP-1): PID=2072
+[21:03:48.267] launch_bar(DP-1): PID 2072 alive OK
+[21:03:55.436] === autohide-multi.sh started (PID=3412) ===
+[21:03:55.437] Killing existing waybar/autohide processes...
+[21:03:55.721] === autohide-multi.sh started (PID=3423) ===
+[21:03:55.722] Killing existing waybar/autohide processes...
+[21:03:55.863] Existing processes killed, starting monitor detection
+[21:03:55.878] launch_bar(DP-2): starting waybar
+[21:03:55.880] launch_bar(DP-2): PID=3445
+[21:03:56.146] Existing processes killed, starting monitor detection
+[21:03:56.161] launch_bar(DP-2): starting waybar
+[21:03:56.162] launch_bar(DP-2): PID=3499
+[21:03:56.182] launch_bar(DP-2): PID 3445 alive OK
+[21:03:56.464] launch_bar(DP-2): PID 3499 alive OK
+[21:03:56.484] launch_bar(DP-1): starting waybar
+[21:03:56.486] launch_bar(DP-1): PID=3545
+[21:03:56.766] launch_bar(DP-1): starting waybar
+[21:03:56.768] launch_bar(DP-1): PID=3577
+[21:03:56.788] launch_bar(DP-1): PID 3545 alive OK
+[21:03:57.070] launch_bar(DP-1): PID 3577 alive OK
+[21:03:58.428] === autohide-multi.sh started (PID=3830) ===
+[21:03:58.429] Killing existing waybar/autohide processes...
+[21:03:58.854] Existing processes killed, starting monitor detection
+[21:03:58.870] launch_bar(DP-2): starting waybar
+[21:03:58.871] launch_bar(DP-2): PID=3852
+[21:03:59.173] launch_bar(DP-2): PID 3852 alive OK
+[21:03:59.476] launch_bar(DP-1): starting waybar
+[21:03:59.478] launch_bar(DP-1): PID=3912
+[21:03:59.780] launch_bar(DP-1): PID 3912 alive OK
+[21:04:04.114] === autohide-multi.sh started (PID=4632) ===
+[21:04:04.115] Killing existing waybar/autohide processes...
+[21:04:04.540] Existing processes killed, starting monitor detection
+[21:04:04.555] launch_bar(DP-2): starting waybar
+[21:04:04.557] launch_bar(DP-2): PID=4654
+[21:04:04.859] launch_bar(DP-2): PID 4654 alive OK
+[21:04:05.161] launch_bar(DP-1): starting waybar
+[21:04:05.162] launch_bar(DP-1): PID=4698
+[18:04:06.731] launch_bar(DP-1): PID 4698 alive OK
+[18:04:08.465] === autohide-multi.sh started (PID=4881) ===
+[18:04:08.466] Killing existing waybar/autohide processes...
+[18:04:08.891] Existing processes killed, starting monitor detection
+[18:04:08.907] launch_bar(DP-2): starting waybar
+[18:04:08.909] launch_bar(DP-2): PID=4903
+[18:04:09.211] launch_bar(DP-2): PID 4903 alive OK
+[18:04:09.513] launch_bar(DP-1): starting waybar
+[18:04:09.515] launch_bar(DP-1): PID=4947
+[18:04:09.817] launch_bar(DP-1): PID 4947 alive OK
+[18:04:13.265] === autohide-multi.sh started (PID=5527) ===
+[18:04:13.266] Killing existing waybar/autohide processes...
+[18:04:13.691] Existing processes killed, starting monitor detection
+[18:04:13.706] launch_bar(DP-2): starting waybar
+[18:04:13.707] launch_bar(DP-2): PID=5549
+[18:04:14.010] launch_bar(DP-2): PID 5549 alive OK
+[18:04:14.312] launch_bar(DP-1): starting waybar
+[18:04:14.314] launch_bar(DP-1): PID=5609
+[18:04:14.616] launch_bar(DP-1): PID 5609 alive OK
+[18:04:20.019] === autohide-multi.sh started (PID=6581) ===
+[18:04:20.019] Killing existing waybar/autohide processes...
+[18:04:20.445] Existing processes killed, starting monitor detection
+[18:04:20.459] launch_bar(DP-2): starting waybar
+[18:04:20.461] launch_bar(DP-2): PID=6603
+[18:04:20.763] launch_bar(DP-2): PID 6603 alive OK
+[18:04:21.065] launch_bar(DP-1): starting waybar
+[18:04:21.067] launch_bar(DP-1): PID=6647
+[18:04:21.369] launch_bar(DP-1): PID 6647 alive OK
+[18:04:22.356] === autohide-multi.sh started (PID=6696) ===
+[18:04:22.356] Killing existing waybar/autohide processes...
+[18:04:22.781] Existing processes killed, starting monitor detection
+[18:04:22.796] launch_bar(DP-2): starting waybar
+[18:04:22.798] launch_bar(DP-2): PID=6758
+[18:04:23.100] launch_bar(DP-2): PID 6758 alive OK
+[18:04:23.402] launch_bar(DP-1): starting waybar
+[18:04:23.404] launch_bar(DP-1): PID=6802
+[18:04:23.706] launch_bar(DP-1): PID 6802 alive OK
+[18:04:24.478] === autohide-multi.sh started (PID=6850) ===
+[18:04:24.479] Killing existing waybar/autohide processes...
+[18:04:24.907] Existing processes killed, starting monitor detection
+[18:04:24.922] launch_bar(DP-2): starting waybar
+[18:04:24.924] launch_bar(DP-2): PID=6894
+[18:04:25.226] launch_bar(DP-2): PID 6894 alive OK
+[18:04:25.528] launch_bar(DP-1): starting waybar
+[18:04:25.530] launch_bar(DP-1): PID=6972
+[18:04:25.832] launch_bar(DP-1): PID 6972 alive OK
+[18:04:30.199] launch_bar(DP-1): starting waybar
+[18:04:30.201] launch_bar(DP-1): PID=7773
+[18:04:30.503] launch_bar(DP-1): PID 7773 alive OK
+[18:04:42.299] launch_bar(DP-1): starting waybar
+[18:04:42.300] launch_bar(DP-1): PID=10747
+[18:04:42.602] launch_bar(DP-1): PID 10747 alive OK
+[18:08:55.769] launch_bar(DP-1): starting waybar
+[18:08:55.771] launch_bar(DP-1): PID=58949
+[18:08:56.073] launch_bar(DP-1): PID 58949 alive OK
+[18:09:06.086] launch_bar(DP-2): starting waybar
+[18:09:06.088] launch_bar(DP-2): PID=61189
+[18:09:06.390] launch_bar(DP-2): PID 61189 alive OK
+[18:09:08.468] launch_bar(DP-1): starting waybar
+[18:09:08.471] launch_bar(DP-1): PID=61686
+[18:09:08.773] launch_bar(DP-1): PID 61686 alive OK
+[18:15:48.755] launch_bar(DP-2): starting waybar
+[18:15:48.757] launch_bar(DP-2): PID=137638
+[18:15:49.059] launch_bar(DP-2): PID 137638 alive OK
+[18:15:51.674] launch_bar(DP-2): starting waybar
+[18:15:51.676] launch_bar(DP-2): PID=138209
+[18:15:51.978] launch_bar(DP-2): PID 138209 alive OK
+[18:15:57.011] launch_bar(DP-2): starting waybar
+[18:15:57.012] launch_bar(DP-2): PID=139525
+[18:15:57.314] launch_bar(DP-2): PID 139525 alive OK
+[18:16:01.103] launch_bar(DP-2): starting waybar
+[18:16:01.105] launch_bar(DP-2): PID=140337
+[18:16:01.408] launch_bar(DP-2): PID 140337 alive OK
+[18:25:35.380] launch_bar(DP-1): starting waybar
+[18:25:35.382] launch_bar(DP-1): PID=252195
+[18:25:35.684] launch_bar(DP-1): PID 252195 alive OK
+[18:25:41.820] launch_bar(DP-1): starting waybar
+[18:25:41.821] launch_bar(DP-1): PID=253446
+[18:25:42.123] launch_bar(DP-1): PID 253446 alive OK
+[18:28:21.439] launch_bar(DP-1): starting waybar
+[18:28:21.441] launch_bar(DP-1): PID=283686
+[18:28:21.743] launch_bar(DP-1): PID 283686 alive OK
+[18:29:08.169] launch_bar(DP-2): starting waybar
+[18:29:08.171] launch_bar(DP-2): PID=292571
+[18:29:08.474] launch_bar(DP-2): PID 292571 alive OK
+[18:29:09.920] launch_bar(DP-2): starting waybar
+[18:29:09.922] launch_bar(DP-2): PID=292886
+[18:29:10.224] launch_bar(DP-2): PID 292886 alive OK
+[18:29:13.682] launch_bar(DP-2): starting waybar
+[18:29:13.683] launch_bar(DP-2): PID=293599
+[18:29:13.986] launch_bar(DP-2): PID 293599 alive OK
+[18:29:42.502] launch_bar(DP-2): starting waybar
+[18:29:42.505] launch_bar(DP-2): PID=299171
+[18:29:42.807] launch_bar(DP-2): PID 299171 alive OK
+[18:29:43.966] launch_bar(DP-2): starting waybar
+[18:29:43.968] launch_bar(DP-2): PID=299432
+[18:29:44.271] launch_bar(DP-2): PID 299432 alive OK
+[18:30:53.574] launch_bar(DP-1): starting waybar
+[18:30:53.576] launch_bar(DP-1): PID=312651
+[18:30:53.878] launch_bar(DP-1): PID 312651 alive OK
+[18:32:21.305] launch_bar(DP-1): starting waybar
+[18:32:21.307] launch_bar(DP-1): PID=335997
+[18:32:21.609] launch_bar(DP-1): PID 335997 alive OK
+[18:32:26.502] launch_bar(DP-2): starting waybar
+[18:32:26.504] launch_bar(DP-2): PID=337162
+[18:32:26.806] launch_bar(DP-2): PID 337162 alive OK
+[18:32:28.290] launch_bar(DP-2): starting waybar
+[18:32:28.292] launch_bar(DP-2): PID=337500
+[18:32:28.594] launch_bar(DP-2): PID 337500 alive OK
+[18:32:31.100] launch_bar(DP-1): starting waybar
+[18:32:31.102] launch_bar(DP-1): PID=338033
+[18:32:31.404] launch_bar(DP-1): PID 338033 alive OK
+[18:32:32.611] launch_bar(DP-2): starting waybar
+[18:32:32.613] launch_bar(DP-2): PID=338310
+[18:32:32.915] launch_bar(DP-2): PID 338310 alive OK
+[18:37:26.993] launch_bar(DP-2): starting waybar
+[18:37:26.995] launch_bar(DP-2): PID=432556
+[18:37:27.297] launch_bar(DP-2): PID 432556 alive OK
+[18:37:29.634] launch_bar(DP-1): starting waybar
+[18:37:29.636] launch_bar(DP-1): PID=433064
+[18:37:29.938] launch_bar(DP-1): PID 433064 alive OK
+[18:37:36.268] launch_bar(DP-1): starting waybar
+[18:37:36.270] launch_bar(DP-1): PID=434329
+[18:37:36.572] launch_bar(DP-1): PID 434329 alive OK
+[18:37:40.330] launch_bar(DP-1): starting waybar
+[18:37:40.331] launch_bar(DP-1): PID=435111
+[18:37:40.633] launch_bar(DP-1): PID 435111 alive OK
+[18:37:54.544] launch_bar(DP-1): starting waybar
+[18:37:54.546] launch_bar(DP-1): PID=437983
+[18:37:54.848] launch_bar(DP-1): PID 437983 alive OK
+[18:52:02.885] launch_bar(DP-2): starting waybar
+[18:52:02.887] launch_bar(DP-2): PID=719705
+[18:52:03.189] launch_bar(DP-2): PID 719705 alive OK
+[19:01:15.369] launch_bar(DP-2): starting waybar
+[19:01:15.371] launch_bar(DP-2): PID=843344
+[19:01:15.674] launch_bar(DP-2): PID 843344 alive OK
+[19:02:29.714] launch_bar(DP-2): starting waybar
+[19:02:29.716] launch_bar(DP-2): PID=858992
+[19:02:30.018] launch_bar(DP-2): PID 858992 alive OK
+[19:09:07.986] launch_bar(DP-1): starting waybar
+[19:09:07.988] launch_bar(DP-1): PID=935012
+[19:09:08.290] launch_bar(DP-1): PID 935012 alive OK
+[19:09:18.915] launch_bar(DP-1): starting waybar
+[19:09:18.917] launch_bar(DP-1): PID=937052
+[19:09:19.219] launch_bar(DP-1): PID 937052 alive OK
+[19:09:20.372] launch_bar(DP-1): starting waybar
+[19:09:20.374] launch_bar(DP-1): PID=937314
+[19:09:20.677] launch_bar(DP-1): PID 937314 alive OK
+[19:38:09.749] launch_bar(DP-1): starting waybar
+[19:38:09.751] launch_bar(DP-1): PID=1266196
+[19:38:10.053] launch_bar(DP-1): PID 1266196 alive OK
+[01:04:04.738] === autohide-multi.sh started (PID=1972) ===
+[01:04:04.739] Killing existing waybar/autohide processes...
+[01:04:05.166] Existing processes killed, starting monitor detection
+[01:04:05.189] launch_bar(DP-2): starting waybar
+[01:04:05.191] launch_bar(DP-2): PID=2000
+[01:04:05.493] launch_bar(DP-2): PID 2000 alive OK
+[01:04:05.795] launch_bar(DP-1): starting waybar
+[01:04:05.797] launch_bar(DP-1): PID=2069
+[01:04:06.099] launch_bar(DP-1): PID 2069 alive OK
+[01:04:56.220] launch_bar(DP-1): starting waybar
+[01:04:56.222] launch_bar(DP-1): PID=12962
+[01:04:56.525] launch_bar(DP-1): PID 12962 alive OK
+[01:09:36.630] launch_bar(DP-1): starting waybar
+[01:09:36.632] launch_bar(DP-1): PID=67334
+[01:09:36.935] launch_bar(DP-1): PID 67334 alive OK
+[01:09:55.059] launch_bar(DP-1): starting waybar
+[01:09:55.061] launch_bar(DP-1): PID=70823
+[01:09:55.364] launch_bar(DP-1): PID 70823 alive OK
+[01:11:16.830] launch_bar(DP-1): starting waybar
+[01:11:16.832] launch_bar(DP-1): PID=86708
+[01:11:17.134] launch_bar(DP-1): PID 86708 alive OK
+[01:23:44.222] launch_bar(DP-1): starting waybar
+[01:23:44.224] launch_bar(DP-1): PID=238784
+[01:23:44.527] launch_bar(DP-1): PID 238784 alive OK
+[01:32:50.289] launch_bar(DP-2): starting waybar
+[01:32:50.290] launch_bar(DP-2): PID=351188
+[01:32:50.593] launch_bar(DP-2): PID 351188 alive OK
+[16:17:38.382] === autohide-multi.sh started (PID=1972) ===
+[16:17:38.383] Killing existing waybar/autohide processes...
+[16:17:38.811] Existing processes killed, starting monitor detection
+[16:17:38.835] launch_bar(DP-2): starting waybar
+[16:17:38.837] launch_bar(DP-2): PID=2000
+[16:17:39.139] launch_bar(DP-2): PID 2000 alive OK
+[16:17:39.442] launch_bar(DP-1): starting waybar
+[16:17:39.443] launch_bar(DP-1): PID=2069
+[16:17:39.746] launch_bar(DP-1): PID 2069 alive OK
+[16:19:13.700] launch_bar(DP-1): starting waybar
+[16:19:13.701] launch_bar(DP-1): PID=21331
+[16:19:14.004] launch_bar(DP-1): PID 21331 alive OK
+[16:23:11.964] launch_bar(DP-1): starting waybar
+[16:23:11.966] launch_bar(DP-1): PID=66776
+[16:23:12.269] launch_bar(DP-1): PID 66776 alive OK
+[16:26:15.314] launch_bar(DP-2): starting waybar
+[16:26:15.315] launch_bar(DP-2): PID=101978
+[16:26:15.618] launch_bar(DP-2): PID 101978 alive OK
+[16:35:52.445] launch_bar(DP-2): starting waybar
+[16:35:52.447] launch_bar(DP-2): PID=212691
+[16:35:52.749] launch_bar(DP-2): PID 212691 alive OK
+[16:38:30.370] launch_bar(DP-2): starting waybar
+[16:38:30.372] launch_bar(DP-2): PID=242795
+[16:38:30.674] launch_bar(DP-2): PID 242795 alive OK
+[16:41:38.874] launch_bar(DP-1): starting waybar
+[16:41:38.875] launch_bar(DP-1): PID=278748
+[16:41:39.178] launch_bar(DP-1): PID 278748 alive OK
+[16:41:45.207] launch_bar(DP-1): starting waybar
+[16:41:45.209] launch_bar(DP-1): PID=279951
+[16:41:45.511] launch_bar(DP-1): PID 279951 alive OK
+[16:44:36.530] launch_bar(DP-1): starting waybar
+[16:44:36.532] launch_bar(DP-1): PID=312532
+[16:44:36.834] launch_bar(DP-1): PID 312532 alive OK
+[17:02:59.656] launch_bar(DP-1): starting waybar
+[17:02:59.658] launch_bar(DP-1): PID=526290
+[17:02:59.960] launch_bar(DP-1): PID 526290 alive OK
+[17:03:13.300] launch_bar(DP-1): starting waybar
+[17:03:13.302] launch_bar(DP-1): PID=528858
+[17:03:13.605] launch_bar(DP-1): PID 528858 alive OK
+[17:03:18.100] launch_bar(DP-1): starting waybar
+[17:03:18.102] launch_bar(DP-1): PID=529754
+[17:03:18.404] launch_bar(DP-1): PID 529754 alive OK
+[17:03:23.496] launch_bar(DP-1): starting waybar
+[17:03:23.498] launch_bar(DP-1): PID=530769
+[17:03:23.800] launch_bar(DP-1): PID 530769 alive OK
+[17:03:32.789] launch_bar(DP-1): starting waybar
+[17:03:32.791] launch_bar(DP-1): PID=532532
+[17:03:33.093] launch_bar(DP-1): PID 532532 alive OK
+[17:03:41.433] launch_bar(DP-1): starting waybar
+[17:03:41.435] launch_bar(DP-1): PID=534157
+[17:03:41.738] launch_bar(DP-1): PID 534157 alive OK
+[17:05:59.542] launch_bar(DP-1): starting waybar
+[17:05:59.544] launch_bar(DP-1): PID=560443
+[17:05:59.846] launch_bar(DP-1): PID 560443 alive OK
+[17:08:11.925] launch_bar(DP-1): starting waybar
+[17:08:11.927] launch_bar(DP-1): PID=585442
+[17:08:12.229] launch_bar(DP-1): PID 585442 alive OK
+[17:08:24.640] launch_bar(DP-1): starting waybar
+[17:08:24.641] launch_bar(DP-1): PID=587833
+[17:08:24.943] launch_bar(DP-1): PID 587833 alive OK
+[17:10:59.717] launch_bar(DP-1): starting waybar
+[17:10:59.719] launch_bar(DP-1): PID=618081
+[17:11:00.021] launch_bar(DP-1): PID 618081 alive OK
+[17:11:03.444] launch_bar(DP-2): starting waybar
+[17:11:03.445] launch_bar(DP-2): PID=618821
+[17:11:03.748] launch_bar(DP-2): PID 618821 died, retrying...
+[17:11:04.252] launch_bar(DP-2): retry PID=618909
+[17:11:04.256] launch_bar(DP-1): starting waybar
+[17:11:04.258] launch_bar(DP-1): PID=618920
+[17:11:04.560] launch_bar(DP-1): PID 618920 died, retrying...
+[17:11:05.064] launch_bar(DP-1): retry PID=618933
+[17:11:05.206] launch_bar(DP-2): starting waybar
+[17:11:05.208] launch_bar(DP-2): PID=618967
+[17:11:05.510] launch_bar(DP-2): PID 618967 died, retrying...
+[17:11:06.014] launch_bar(DP-2): retry PID=619032
+[17:11:06.015] launch_bar(DP-1): starting waybar
+[17:11:06.017] launch_bar(DP-1): PID=619037
+[17:11:06.319] launch_bar(DP-1): PID 619037 died, retrying...
+[17:11:06.823] launch_bar(DP-1): retry PID=619048
+[17:11:06.964] launch_bar(DP-2): starting waybar
+[17:11:06.966] launch_bar(DP-2): PID=619082
+[17:11:07.268] launch_bar(DP-2): PID 619082 died, retrying...
+[17:11:07.772] launch_bar(DP-2): retry PID=619091
+[17:11:07.773] launch_bar(DP-1): starting waybar
+[17:11:07.775] launch_bar(DP-1): PID=619096
+[17:11:08.077] launch_bar(DP-1): PID 619096 died, retrying...
+[17:11:08.580] launch_bar(DP-1): retry PID=619107
+[17:11:08.722] launch_bar(DP-2): starting waybar
+[17:11:08.724] launch_bar(DP-2): PID=619141
+[17:11:09.026] launch_bar(DP-2): PID 619141 died, retrying...
+[17:11:09.530] launch_bar(DP-2): retry PID=619150
+[17:11:09.531] launch_bar(DP-1): starting waybar
+[17:11:09.533] launch_bar(DP-1): PID=619155
+[17:11:09.836] launch_bar(DP-1): PID 619155 died, retrying...
+[17:11:10.339] launch_bar(DP-1): retry PID=619166
+[17:11:10.481] launch_bar(DP-2): starting waybar
+[17:11:10.483] launch_bar(DP-2): PID=619200
+[17:11:10.785] launch_bar(DP-2): PID 619200 died, retrying...
+[17:11:11.289] launch_bar(DP-2): retry PID=619209
+[17:11:11.290] launch_bar(DP-1): starting waybar
+[17:11:11.292] launch_bar(DP-1): PID=619214
+[17:11:11.594] launch_bar(DP-1): PID 619214 died, retrying...
+[17:11:12.098] launch_bar(DP-1): retry PID=619225
+[17:11:12.239] launch_bar(DP-2): starting waybar
+[17:11:12.241] launch_bar(DP-2): PID=619259
+[17:11:12.543] launch_bar(DP-2): PID 619259 died, retrying...
+[17:11:13.047] launch_bar(DP-2): retry PID=619268
+[17:11:13.047] launch_bar(DP-1): starting waybar
+[17:11:13.050] launch_bar(DP-1): PID=619273
+[17:11:13.352] launch_bar(DP-1): PID 619273 died, retrying...
+[17:11:13.856] launch_bar(DP-1): retry PID=619284
+[17:11:13.998] launch_bar(DP-2): starting waybar
+[17:11:14.000] launch_bar(DP-2): PID=619318
+[17:11:14.302] launch_bar(DP-2): PID 619318 died, retrying...
+[17:11:14.806] launch_bar(DP-2): retry PID=619327
+[17:11:14.807] launch_bar(DP-1): starting waybar
+[17:11:14.809] launch_bar(DP-1): PID=619332
+[17:11:15.111] launch_bar(DP-1): PID 619332 died, retrying...
+[17:11:15.615] launch_bar(DP-1): retry PID=619343
+[17:11:15.757] launch_bar(DP-2): starting waybar
+[17:11:15.759] launch_bar(DP-2): PID=619377
+[17:11:16.061] launch_bar(DP-2): PID 619377 died, retrying...
+[17:11:16.565] launch_bar(DP-2): retry PID=619386
+[17:11:16.566] launch_bar(DP-1): starting waybar
+[17:11:16.568] launch_bar(DP-1): PID=619391
+[17:11:16.870] launch_bar(DP-1): PID 619391 died, retrying...
+[17:11:17.374] launch_bar(DP-1): retry PID=619402
+[17:11:17.515] launch_bar(DP-2): starting waybar
+[17:11:17.517] launch_bar(DP-2): PID=619436
+[17:11:17.819] launch_bar(DP-2): PID 619436 died, retrying...
+[17:11:18.323] launch_bar(DP-2): retry PID=619445
+[17:11:18.323] launch_bar(DP-1): starting waybar
+[17:11:18.326] launch_bar(DP-1): PID=619450
+[17:11:18.628] launch_bar(DP-1): PID 619450 died, retrying...
+[17:11:19.131] launch_bar(DP-1): retry PID=619461
+[17:11:19.273] launch_bar(DP-2): starting waybar
+[17:11:19.275] launch_bar(DP-2): PID=619495
+[17:11:19.577] launch_bar(DP-2): PID 619495 died, retrying...
+[17:11:20.081] launch_bar(DP-2): retry PID=619504
+[17:11:20.081] launch_bar(DP-1): starting waybar
+[17:11:20.083] launch_bar(DP-1): PID=619509
+[17:11:20.386] launch_bar(DP-1): PID 619509 died, retrying...
+[17:11:20.889] launch_bar(DP-1): retry PID=619520
+[20:23:44.793] === autohide-multi.sh started (PID=1980) ===
+[20:23:44.794] Killing existing waybar/autohide processes...
+[20:23:45.220] Existing processes killed, starting monitor detection
+[20:23:45.242] launch_bar(DP-2): starting waybar
+[20:23:45.244] launch_bar(DP-2): PID=2008
+[20:23:45.547] launch_bar(DP-2): PID 2008 alive OK
+[20:23:45.849] launch_bar(DP-1): starting waybar
+[20:23:45.851] launch_bar(DP-1): PID=2077
+[20:23:46.153] launch_bar(DP-1): PID 2077 alive OK
+[20:26:01.106] launch_bar(DP-2): starting waybar
+[20:26:01.108] launch_bar(DP-2): PID=28971
+[20:26:01.410] launch_bar(DP-2): PID 28971 alive OK
+[21:18:32.681] launch_bar(DP-2): starting waybar
+[21:18:32.683] launch_bar(DP-2): PID=624535
+[21:18:32.985] launch_bar(DP-2): PID 624535 alive OK
+[21:19:22.102] launch_bar(DP-1): starting waybar
+[21:19:22.104] launch_bar(DP-1): PID=634310
+[21:19:22.406] launch_bar(DP-1): PID 634310 alive OK
+[21:19:33.858] launch_bar(DP-2): starting waybar
+[21:19:33.860] launch_bar(DP-2): PID=636579
+[21:19:34.162] launch_bar(DP-2): PID 636579 alive OK
+[21:19:43.632] launch_bar(DP-1): starting waybar
+[21:19:43.633] launch_bar(DP-1): PID=638484
+[21:19:43.936] launch_bar(DP-1): PID 638484 alive OK
+[21:20:35.930] launch_bar(DP-2): starting waybar
+[21:20:35.932] launch_bar(DP-2): PID=648538
+[21:20:36.234] launch_bar(DP-2): PID 648538 alive OK
+[21:20:36.682] launch_bar(DP-1): starting waybar
+[21:20:36.684] launch_bar(DP-1): PID=648674
+[21:20:36.986] launch_bar(DP-1): PID 648674 alive OK
+[21:20:39.704] launch_bar(DP-1): starting waybar
+[21:20:39.706] launch_bar(DP-1): PID=649255
+[21:20:40.008] launch_bar(DP-1): PID 649255 alive OK
+[21:21:17.217] launch_bar(DP-1): starting waybar
+[21:21:17.219] launch_bar(DP-1): PID=656448
+[21:21:17.522] launch_bar(DP-1): PID 656448 alive OK
+[21:21:55.895] launch_bar(DP-1): starting waybar
+[21:21:55.896] launch_bar(DP-1): PID=663777
+[21:21:56.199] launch_bar(DP-1): PID 663777 alive OK
+[21:21:57.788] launch_bar(DP-1): starting waybar
+[21:21:57.790] launch_bar(DP-1): PID=664138
+[21:21:58.092] launch_bar(DP-1): PID 664138 alive OK
+[21:27:59.526] launch_bar(DP-1): starting waybar
+[21:27:59.528] launch_bar(DP-1): PID=748167
+[21:27:59.830] launch_bar(DP-1): PID 748167 alive OK
+[21:35:52.314] launch_bar(DP-1): starting waybar
+[21:35:52.316] launch_bar(DP-1): PID=841787
+[21:35:52.618] launch_bar(DP-1): PID 841787 alive OK
+[21:47:35.193] launch_bar(DP-1): starting waybar
+[21:47:35.195] launch_bar(DP-1): PID=978738
+[21:47:35.497] launch_bar(DP-1): PID 978738 alive OK
+[21:48:14.753] launch_bar(DP-2): starting waybar
+[21:48:14.754] launch_bar(DP-2): PID=986533
+[21:48:15.057] launch_bar(DP-2): PID 986533 alive OK
+[21:48:30.133] launch_bar(DP-2): starting waybar
+[21:48:30.135] launch_bar(DP-2): PID=989453
+[21:48:30.437] launch_bar(DP-2): PID 989453 alive OK
+[21:59:46.798] launch_bar(DP-1): starting waybar
+[21:59:46.800] launch_bar(DP-1): PID=1120112
+[21:59:47.102] launch_bar(DP-1): PID 1120112 alive OK
+[22:02:29.322] launch_bar(DP-2): starting waybar
+[22:02:29.324] launch_bar(DP-2): PID=1151544
+[22:02:29.626] launch_bar(DP-2): PID 1151544 alive OK
+[22:14:08.458] launch_bar(DP-2): starting waybar
+[22:14:08.460] launch_bar(DP-2): PID=1298087
+[22:14:08.762] launch_bar(DP-2): PID 1298087 alive OK
+[22:14:54.061] launch_bar(DP-1): starting waybar
+[22:14:54.063] launch_bar(DP-1): PID=1307456
+[22:14:54.365] launch_bar(DP-1): PID 1307456 alive OK
+[22:16:28.175] launch_bar(DP-1): starting waybar
+[22:16:28.178] launch_bar(DP-1): PID=1327006
+[22:16:28.480] launch_bar(DP-1): PID 1327006 alive OK
+[22:17:43.736] launch_bar(DP-1): starting waybar
+[22:17:43.738] launch_bar(DP-1): PID=1342043
+[22:17:44.040] launch_bar(DP-1): PID 1342043 alive OK
+[22:18:52.971] launch_bar(DP-1): starting waybar
+[22:18:52.973] launch_bar(DP-1): PID=1355946
+[22:18:53.276] launch_bar(DP-1): PID 1355946 alive OK
+[22:22:25.832] launch_bar(DP-2): starting waybar
+[22:22:25.834] launch_bar(DP-2): PID=1399216
+[22:22:26.137] launch_bar(DP-2): PID 1399216 alive OK
+[22:22:33.704] launch_bar(DP-1): starting waybar
+[22:22:33.706] launch_bar(DP-1): PID=1400820
+[22:22:34.009] launch_bar(DP-1): PID 1400820 alive OK
+[22:22:35.291] launch_bar(DP-2): starting waybar
+[22:22:35.292] launch_bar(DP-2): PID=1401123
+[22:22:35.595] launch_bar(DP-2): PID 1401123 alive OK
+[22:23:14.804] launch_bar(DP-2): starting waybar
+[22:23:14.806] launch_bar(DP-2): PID=1409192
+[22:23:15.108] launch_bar(DP-2): PID 1409192 alive OK
+[22:26:13.869] launch_bar(DP-2): starting waybar
+[22:26:13.872] launch_bar(DP-2): PID=1445709
+[22:26:14.174] launch_bar(DP-2): PID 1445709 alive OK
+[14:27:15.109] === autohide-multi.sh started (PID=1920) ===
+[14:27:15.110] Killing existing waybar/autohide processes...
+[14:27:15.537] Existing processes killed, starting monitor detection
+[14:27:15.562] launch_bar(DP-2): starting waybar
+[14:27:15.564] launch_bar(DP-2): PID=1942
+[14:27:15.866] launch_bar(DP-2): PID 1942 alive OK
+[14:27:16.168] launch_bar(DP-1): starting waybar
+[14:27:16.170] launch_bar(DP-1): PID=2042
+[14:27:16.472] launch_bar(DP-1): PID 2042 alive OK
+[14:27:57.099] launch_bar(DP-1): starting waybar
+[14:27:57.101] launch_bar(DP-1): PID=10846
+[14:27:57.403] launch_bar(DP-1): PID 10846 alive OK
+[14:37:31.590] launch_bar(DP-1): starting waybar
+[14:37:31.592] launch_bar(DP-1): PID=121024
+[14:37:31.894] launch_bar(DP-1): PID 121024 alive OK
+[14:43:26.094] launch_bar(DP-1): starting waybar
+[14:43:26.096] launch_bar(DP-1): PID=188852
+[14:43:26.398] launch_bar(DP-1): PID 188852 alive OK
+[14:49:55.716] launch_bar(DP-1): starting waybar
+[14:49:55.717] launch_bar(DP-1): PID=263398
+[14:49:56.019] launch_bar(DP-1): PID 263398 alive OK
+[16:48:47.883] === autohide-multi.sh started (PID=1919) ===
+[16:48:47.884] Killing existing waybar/autohide processes...
+[16:48:48.311] Existing processes killed, starting monitor detection
+[16:48:48.334] launch_bar(DP-2): starting waybar
+[16:48:48.335] launch_bar(DP-2): PID=1941
+[16:48:48.637] launch_bar(DP-2): PID 1941 alive OK
+[16:48:48.940] launch_bar(DP-1): starting waybar
+[16:48:48.942] launch_bar(DP-1): PID=2034
+[16:48:49.244] launch_bar(DP-1): PID 2034 alive OK
+[16:49:34.795] launch_bar(DP-2): starting waybar
+[16:49:34.797] launch_bar(DP-2): PID=12007
+[16:49:35.099] launch_bar(DP-2): PID 12007 alive OK
+[16:50:51.572] launch_bar(DP-1): starting waybar
+[16:50:51.573] launch_bar(DP-1): PID=26753
+[16:50:51.876] launch_bar(DP-1): PID 26753 alive OK
+[16:59:29.419] launch_bar(DP-2): starting waybar
+[16:59:29.421] launch_bar(DP-2): PID=125675
+[16:59:29.723] launch_bar(DP-2): PID 125675 alive OK
+[17:13:20.153] launch_bar(DP-2): starting waybar
+[17:13:20.155] launch_bar(DP-2): PID=285077
+[17:13:20.458] launch_bar(DP-2): PID 285077 alive OK
+[17:13:24.733] launch_bar(DP-2): starting waybar
+[17:13:24.735] launch_bar(DP-2): PID=286092
+[17:13:25.038] launch_bar(DP-2): PID 286092 alive OK
+[17:15:30.567] launch_bar(DP-2): starting waybar
+[17:15:30.569] launch_bar(DP-2): PID=310241
+[17:15:30.871] launch_bar(DP-2): PID 310241 alive OK
+[17:18:54.352] launch_bar(DP-1): starting waybar
+[17:18:54.354] launch_bar(DP-1): PID=349277
+[17:18:54.657] launch_bar(DP-1): PID 349277 alive OK
+[17:18:55.963] launch_bar(DP-1): starting waybar
+[17:18:55.965] launch_bar(DP-1): PID=349562
+[17:18:56.267] launch_bar(DP-1): PID 349562 alive OK
+[17:23:28.301] launch_bar(DP-1): starting waybar
+[17:23:28.303] launch_bar(DP-1): PID=401209
+[17:23:28.637] launch_bar(DP-1): PID 401209 alive OK
+[17:26:49.594] launch_bar(DP-1): starting waybar
+[17:26:49.596] launch_bar(DP-1): PID=439646
+[17:26:49.898] launch_bar(DP-1): PID 439646 alive OK
+[17:31:45.321] launch_bar(DP-1): starting waybar
+[17:31:45.322] launch_bar(DP-1): PID=499082
+[17:31:45.625] launch_bar(DP-1): PID 499082 alive OK
+[17:43:46.269] launch_bar(DP-2): starting waybar
+[17:43:46.271] launch_bar(DP-2): PID=638926
+[17:43:46.573] launch_bar(DP-2): PID 638926 alive OK
+[18:11:38.468] launch_bar(DP-1): starting waybar
+[18:11:38.470] launch_bar(DP-1): PID=961663
+[18:11:38.772] launch_bar(DP-1): PID 961663 alive OK
+[18:11:41.209] launch_bar(DP-1): starting waybar
+[18:11:41.210] launch_bar(DP-1): PID=962243
+[18:11:41.513] launch_bar(DP-1): PID 962243 alive OK
+[18:21:47.146] launch_bar(DP-1): starting waybar
+[18:21:47.148] launch_bar(DP-1): PID=1078234
+[18:21:47.450] launch_bar(DP-1): PID 1078234 alive OK
+[18:23:37.581] launch_bar(DP-1): starting waybar
+[18:23:37.583] launch_bar(DP-1): PID=1099312
+[18:23:37.885] launch_bar(DP-1): PID 1099312 alive OK
+[18:23:43.725] launch_bar(DP-1): starting waybar
+[18:23:43.727] launch_bar(DP-1): PID=1100467
+[18:23:44.029] launch_bar(DP-1): PID 1100467 alive OK
+[18:27:12.645] launch_bar(DP-2): starting waybar
+[18:27:12.646] launch_bar(DP-2): PID=1140198
+[18:27:12.949] launch_bar(DP-2): PID 1140198 alive OK
+[18:28:08.117] launch_bar(DP-2): starting waybar
+[18:28:08.119] launch_bar(DP-2): PID=1150740
+[18:28:08.421] launch_bar(DP-2): PID 1150740 alive OK
+[18:28:11.003] launch_bar(DP-2): starting waybar
+[18:28:11.005] launch_bar(DP-2): PID=1151272
+[18:28:11.307] launch_bar(DP-2): PID 1151272 alive OK
+[18:28:13.328] launch_bar(DP-1): starting waybar
+[18:28:13.330] launch_bar(DP-1): PID=1151698
+[18:28:13.632] launch_bar(DP-1): PID 1151698 alive OK
+[18:58:06.279] launch_bar(DP-1): starting waybar
+[18:58:06.281] launch_bar(DP-1): PID=1499552
+[18:58:06.583] launch_bar(DP-1): PID 1499552 alive OK
+[19:40:47.020] launch_bar(DP-1): starting waybar
+[19:40:47.022] launch_bar(DP-1): PID=2000870
+[19:40:47.324] launch_bar(DP-1): PID 2000870 alive OK
+[19:55:56.805] launch_bar(DP-1): starting waybar
+[19:55:56.807] launch_bar(DP-1): PID=2174848
+[19:55:57.109] launch_bar(DP-1): PID 2174848 alive OK
+[20:09:14.770] launch_bar(DP-1): starting waybar
+[20:09:14.772] launch_bar(DP-1): PID=2326778
+[20:09:15.106] launch_bar(DP-1): PID 2326778 alive OK
+[20:10:11.497] launch_bar(DP-1): starting waybar
+[20:10:11.499] launch_bar(DP-1): PID=2337632
+[20:10:11.802] launch_bar(DP-1): PID 2337632 alive OK
+[20:11:10.598] launch_bar(DP-2): starting waybar
+[20:11:10.600] launch_bar(DP-2): PID=2348868
+[20:11:10.902] launch_bar(DP-2): PID 2348868 alive OK
+[20:12:17.628] launch_bar(DP-2): starting waybar
+[20:12:17.630] launch_bar(DP-2): PID=2363384
+[20:12:17.932] launch_bar(DP-2): PID 2363384 alive OK
+[20:22:08.774] launch_bar(DP-1): starting waybar
+[20:22:08.776] launch_bar(DP-1): PID=2476524
+[20:22:09.078] launch_bar(DP-1): PID 2476524 alive OK
+[20:22:13.539] launch_bar(DP-2): starting waybar
+[20:22:13.541] launch_bar(DP-2): PID=2477411
+[20:22:13.844] launch_bar(DP-2): PID 2477411 alive OK
+[20:22:15.722] launch_bar(DP-1): starting waybar
+[20:22:15.723] launch_bar(DP-1): PID=2477824
+[20:22:16.026] launch_bar(DP-1): PID 2477824 alive OK
+[20:22:19.349] launch_bar(DP-2): starting waybar
+[20:22:19.351] launch_bar(DP-2): PID=2478523
+[20:22:19.653] launch_bar(DP-2): PID 2478523 alive OK
+[20:22:21.404] launch_bar(DP-2): starting waybar
+[20:22:21.406] launch_bar(DP-2): PID=2478907
+[20:22:21.709] launch_bar(DP-2): PID 2478907 alive OK
+[20:22:23.082] launch_bar(DP-2): starting waybar
+[20:22:23.084] launch_bar(DP-2): PID=2479247
+[20:22:23.387] launch_bar(DP-2): PID 2479247 alive OK
+[20:22:26.285] launch_bar(DP-2): starting waybar
+[20:22:26.287] launch_bar(DP-2): PID=2479866
+[20:22:26.589] launch_bar(DP-2): PID 2479866 alive OK
+[20:22:27.594] launch_bar(DP-1): starting waybar
+[20:22:27.596] launch_bar(DP-1): PID=2480100
+[20:22:27.898] launch_bar(DP-1): PID 2480100 alive OK
+[20:22:31.079] launch_bar(DP-2): starting waybar
+[20:22:31.081] launch_bar(DP-2): PID=2480761
+[20:22:31.383] launch_bar(DP-2): PID 2480761 alive OK
+[20:22:32.412] launch_bar(DP-2): starting waybar
+[20:22:32.414] launch_bar(DP-2): PID=2481011
+[20:22:32.716] launch_bar(DP-2): PID 2481011 alive OK
+[20:22:37.764] launch_bar(DP-1): starting waybar
+[20:22:37.766] launch_bar(DP-1): PID=2482037
+[20:22:38.068] launch_bar(DP-1): PID 2482037 alive OK
+[20:22:39.509] launch_bar(DP-1): starting waybar
+[20:22:39.511] launch_bar(DP-1): PID=2482353
+[20:22:39.813] launch_bar(DP-1): PID 2482353 alive OK
+[20:22:42.870] launch_bar(DP-1): starting waybar
+[20:22:42.872] launch_bar(DP-1): PID=2482997
+[20:22:43.174] launch_bar(DP-1): PID 2482997 alive OK
+[20:22:51.094] launch_bar(DP-1): starting waybar
+[20:22:51.096] launch_bar(DP-1): PID=2484569
+[20:22:51.398] launch_bar(DP-1): PID 2484569 alive OK
+[20:22:58.352] launch_bar(DP-1): starting waybar
+[20:22:58.354] launch_bar(DP-1): PID=2485976
+[20:22:58.656] launch_bar(DP-1): PID 2485976 alive OK
+[20:23:04.150] launch_bar(DP-2): starting waybar
+[20:23:04.151] launch_bar(DP-2): PID=2487071
+[20:23:04.454] launch_bar(DP-2): PID 2487071 alive OK
+[20:27:08.546] launch_bar(DP-1): starting waybar
+[20:27:08.548] launch_bar(DP-1): PID=2533672
+[20:27:08.851] launch_bar(DP-1): PID 2533672 alive OK
+[20:28:29.712] launch_bar(DP-1): starting waybar
+[20:28:29.714] launch_bar(DP-1): PID=2549089
+[20:28:30.017] launch_bar(DP-1): PID 2549089 alive OK
+[20:28:32.452] launch_bar(DP-1): starting waybar
+[20:28:32.454] launch_bar(DP-1): PID=2549588
+[20:28:32.756] launch_bar(DP-1): PID 2549588 alive OK
+[20:33:15.596] launch_bar(DP-2): starting waybar
+[20:33:15.598] launch_bar(DP-2): PID=2603646
+[20:33:15.900] launch_bar(DP-2): PID 2603646 alive OK
+[21:00:26.373] launch_bar(DP-2): starting waybar
+[21:00:26.375] launch_bar(DP-2): PID=2914895
+[21:00:26.677] launch_bar(DP-2): PID 2914895 alive OK
+[21:15:27.782] launch_bar(DP-1): starting waybar
+[21:15:27.783] launch_bar(DP-1): PID=3088811
+[21:15:28.086] launch_bar(DP-1): PID 3088811 alive OK
+[21:19:52.994] launch_bar(DP-2): starting waybar
+[21:19:52.996] launch_bar(DP-2): PID=3139399
+[21:19:53.298] launch_bar(DP-2): PID 3139399 alive OK
+[21:25:06.771] launch_bar(DP-2): starting waybar
+[21:25:06.773] launch_bar(DP-2): PID=3199490
+[21:25:07.107] launch_bar(DP-2): PID 3199490 alive OK
+[21:27:27.662] launch_bar(DP-1): starting waybar
+[21:27:27.664] launch_bar(DP-1): PID=3226534
+[21:27:27.967] launch_bar(DP-1): PID 3226534 alive OK
+[21:27:32.402] launch_bar(DP-2): starting waybar
+[21:27:32.404] launch_bar(DP-2): PID=3227413
+[21:27:32.706] launch_bar(DP-2): PID 3227413 alive OK
+[21:36:52.326] launch_bar(DP-1): starting waybar
+[21:36:52.328] launch_bar(DP-1): PID=3334910
+[21:36:52.630] launch_bar(DP-1): PID 3334910 alive OK
+[21:42:06.583] launch_bar(DP-1): starting waybar
+[21:42:06.585] launch_bar(DP-1): PID=3395137
+[21:42:06.888] launch_bar(DP-1): PID 3395137 alive OK
+[21:42:15.450] launch_bar(DP-1): starting waybar
+[21:42:15.452] launch_bar(DP-1): PID=3396797
+[21:42:15.754] launch_bar(DP-1): PID 3396797 alive OK
+[21:42:22.329] launch_bar(DP-1): starting waybar
+[21:42:22.331] launch_bar(DP-1): PID=3398392
+[21:42:22.633] launch_bar(DP-1): PID 3398392 alive OK
+[21:42:26.772] launch_bar(DP-1): starting waybar
+[21:42:26.774] launch_bar(DP-1): PID=3399216
+[21:42:27.077] launch_bar(DP-1): PID 3399216 alive OK
+[20:14:09.224] === autohide-multi.sh started (PID=1907) ===
+[20:14:09.225] Killing existing waybar/autohide processes...
+[20:14:09.652] Existing processes killed, starting monitor detection
+[20:14:09.673] launch_bar(DP-2): starting waybar
+[20:14:09.675] launch_bar(DP-2): PID=1929
+[20:14:09.977] launch_bar(DP-2): PID 1929 alive OK
+[20:14:10.279] launch_bar(DP-1): starting waybar
+[20:14:10.281] launch_bar(DP-1): PID=2023
+[20:14:10.583] launch_bar(DP-1): PID 2023 alive OK
+[17:26:30.249] === autohide-multi.sh started (PID=161657) ===
+[17:26:30.250] Killing existing waybar/autohide processes...
+[17:26:30.265]   kill waybar PID=1929
+[17:26:30.269] launch_bar(DP-2): starting waybar
+[17:26:30.271] launch_bar(DP-2): PID=161690
+[17:26:30.573] launch_bar(DP-2): PID 161690 alive OK
+[17:26:30.683] Existing processes killed, starting monitor detection
+[17:26:30.698] launch_bar(DP-2): starting waybar
+[17:26:30.700] launch_bar(DP-2): PID=161737
+[17:26:31.003] launch_bar(DP-2): PID 161737 alive OK
+[17:26:31.305] launch_bar(DP-1): starting waybar
+[17:26:31.307] launch_bar(DP-1): PID=161904
+[17:26:31.609] launch_bar(DP-1): PID 161904 alive OK
+[17:26:33.012] launch_bar(DP-2): starting waybar
+[17:26:33.014] launch_bar(DP-2): PID=162419
+[17:26:33.161] launch_bar(DP-2): starting waybar
+[17:26:33.163] launch_bar(DP-2): PID=162486
+[17:26:33.316] launch_bar(DP-2): PID 162419 alive OK
+[17:26:33.465] launch_bar(DP-2): PID 162486 alive OK
+[17:26:36.471] launch_bar(DP-2): starting waybar
+[17:26:36.472] launch_bar(DP-2): PID=163722
+[17:26:36.775] launch_bar(DP-2): PID 163722 alive OK
+[17:26:40.639] launch_bar(DP-2): starting waybar
+[17:26:40.641] launch_bar(DP-2): PID=164492
+[17:26:40.943] launch_bar(DP-2): PID 164492 alive OK
+[17:27:26.113] launch_bar(DP-2): starting waybar
+[17:27:26.115] launch_bar(DP-2): PID=173308
+[17:27:26.417] launch_bar(DP-2): PID 173308 alive OK
+[17:29:45.609] === autohide-multi.sh started (PID=196993) ===
+[17:29:45.610] Killing existing waybar/autohide processes...
+[17:29:46.042] Existing processes killed, starting monitor detection
+[17:29:46.058] launch_bar(DP-2): starting waybar
+[17:29:46.059] launch_bar(DP-2): PID=197011
+[17:29:46.361] launch_bar(DP-2): PID 197011 alive OK
+[17:29:46.663] launch_bar(DP-1): starting waybar
+[17:29:46.665] launch_bar(DP-1): PID=197045
+[17:29:46.968] launch_bar(DP-1): PID 197045 alive OK
+[17:29:48.518] launch_bar(DP-1): starting waybar
+[17:29:48.519] launch_bar(DP-1): PID=197257
+[17:29:48.822] launch_bar(DP-1): PID 197257 alive OK
+[17:29:51.693] launch_bar(DP-2): starting waybar
+[17:29:51.695] launch_bar(DP-2): PID=197889
+[17:29:51.997] launch_bar(DP-2): PID 197889 alive OK
+[17:29:57.450] launch_bar(DP-1): starting waybar
+[17:29:57.452] launch_bar(DP-1): PID=198973
+[17:29:57.755] launch_bar(DP-1): PID 198973 alive OK
+[17:29:59.331] launch_bar(DP-1): starting waybar
+[17:29:59.333] launch_bar(DP-1): PID=199311
+[17:29:59.635] launch_bar(DP-1): PID 199311 alive OK
+[17:30:01.356] launch_bar(DP-1): starting waybar
+[17:30:01.358] launch_bar(DP-1): PID=199676
+[17:30:01.661] launch_bar(DP-1): PID 199676 alive OK
+[17:30:42.406] launch_bar(DP-1): starting waybar
+[17:30:42.408] launch_bar(DP-1): PID=207449
+[17:30:42.710] launch_bar(DP-1): PID 207449 alive OK
+[17:30:54.717] launch_bar(DP-1): starting waybar
+[17:30:54.718] launch_bar(DP-1): PID=209762
+[17:30:55.021] launch_bar(DP-1): PID 209762 alive OK
+[17:30:59.325] launch_bar(DP-2): starting waybar
+[17:30:59.327] launch_bar(DP-2): PID=210625
+[17:30:59.630] launch_bar(DP-2): PID 210625 alive OK
+[21:47:45.790] === autohide-multi.sh started (PID=1868) ===
+[21:47:45.791] Killing existing waybar/autohide processes...
+[21:47:46.219] Existing processes killed, starting monitor detection
+[21:47:46.244] launch_bar(DP-2): starting waybar
+[21:47:46.246] launch_bar(DP-2): PID=1890
+[21:47:46.548] launch_bar(DP-2): PID 1890 alive OK
+[21:47:46.850] launch_bar(DP-1): starting waybar
+[21:47:46.851] launch_bar(DP-1): PID=1983
+[21:47:47.154] launch_bar(DP-1): PID 1983 alive OK
+[19:01:51.327] === autohide-multi.sh started (PID=188953) ===
+[19:01:51.327] Killing existing waybar/autohide processes...
+[19:01:51.755] Existing processes killed, starting monitor detection
+[19:01:51.770] launch_bar(DP-2): starting waybar
+[19:01:51.773] launch_bar(DP-2): PID=188972
+[19:01:52.075] launch_bar(DP-2): PID 188972 alive OK
+[19:01:52.377] launch_bar(DP-1): starting waybar
+[19:01:52.380] launch_bar(DP-1): PID=189005
+[19:01:52.682] launch_bar(DP-1): PID 189005 alive OK
+[19:01:54.550] launch_bar(DP-1): starting waybar
+[19:01:54.554] launch_bar(DP-1): PID=189283
+[19:01:54.856] launch_bar(DP-1): PID 189283 alive OK
+[19:01:56.159] launch_bar(DP-2): starting waybar
+[19:01:56.162] launch_bar(DP-2): PID=189563
+[19:01:56.464] launch_bar(DP-2): PID 189563 alive OK
+[19:02:09.521] launch_bar(DP-1): starting waybar
+[19:02:09.524] launch_bar(DP-1): PID=192115
+[19:02:09.826] launch_bar(DP-1): PID 192115 alive OK
+[19:02:10.982] launch_bar(DP-1): starting waybar
+[19:02:10.985] launch_bar(DP-1): PID=192374
+[19:02:11.287] launch_bar(DP-1): PID 192374 alive OK
+[19:02:12.017] launch_bar(DP-2): starting waybar
+[19:02:12.020] launch_bar(DP-2): PID=192546
+[19:02:12.322] launch_bar(DP-2): PID 192546 alive OK
+[19:02:14.067] launch_bar(DP-2): starting waybar
+[19:02:14.070] launch_bar(DP-2): PID=192921
+[19:02:14.372] launch_bar(DP-2): PID 192921 alive OK
+[19:02:15.998] launch_bar(DP-2): starting waybar
+[19:02:16.001] launch_bar(DP-2): PID=193281
+[19:02:16.303] launch_bar(DP-2): PID 193281 alive OK
+[19:13:56.327] launch_bar(DP-1): starting waybar
+[19:13:56.330] launch_bar(DP-1): PID=327011
+[19:13:56.633] launch_bar(DP-1): PID 327011 alive OK
+[19:17:03.260] === autohide-multi.sh started (PID=362220) ===
+[19:17:03.260] Killing existing waybar/autohide processes...
+[19:17:03.687] Existing processes killed, starting monitor detection
+[19:17:03.702] launch_bar(DP-2): starting waybar
+[19:17:03.704] launch_bar(DP-2): PID=362242
+[19:17:04.007] launch_bar(DP-2): PID 362242 alive OK
+[19:17:04.309] launch_bar(DP-1): starting waybar
+[19:17:04.312] launch_bar(DP-1): PID=362325
+[19:17:04.614] launch_bar(DP-1): PID 362325 alive OK
+[19:18:31.831] launch_bar(DP-2): starting waybar
+[19:18:31.834] launch_bar(DP-2): PID=380203
+[19:18:32.136] launch_bar(DP-2): PID 380203 alive OK
+[19:18:33.331] launch_bar(DP-2): starting waybar
+[19:18:33.334] launch_bar(DP-2): PID=380476
+[19:18:33.636] launch_bar(DP-2): PID 380476 alive OK
+[19:18:34.379] launch_bar(DP-1): starting waybar
+[19:18:34.382] launch_bar(DP-1): PID=380660
+[19:18:34.685] launch_bar(DP-1): PID 380660 alive OK
+[19:21:59.505] launch_bar(DP-2): starting waybar
+[19:21:59.509] launch_bar(DP-2): PID=420310
+[19:21:59.811] launch_bar(DP-2): PID 420310 alive OK
+[19:24:42.810] launch_bar(DP-1): starting waybar
+[19:24:42.813] launch_bar(DP-1): PID=452164
+[19:24:43.115] launch_bar(DP-1): PID 452164 alive OK
+[19:25:59.933] launch_bar(DP-2): starting waybar
+[19:25:59.935] launch_bar(DP-2): PID=467092
+[19:26:00.238] launch_bar(DP-2): PID 467092 alive OK
+[19:30:14.215] === autohide-multi.sh started (PID=512894) ===
+[19:30:14.216] Killing existing waybar/autohide processes...
+[19:30:14.643] Existing processes killed, starting monitor detection
+[19:30:14.657] launch_bar(DP-2): starting waybar
+[19:30:14.660] launch_bar(DP-2): PID=512916
+[19:30:14.962] launch_bar(DP-2): PID 512916 alive OK
+[19:30:15.264] launch_bar(DP-1): starting waybar
+[19:30:15.268] launch_bar(DP-1): PID=512975
+[19:30:15.570] launch_bar(DP-1): PID 512975 alive OK
+[19:33:22.506] === autohide-multi.sh started (PID=552740) ===
+[19:33:22.507] Killing existing waybar/autohide processes...
+[19:33:22.936] Existing processes killed, starting monitor detection
+[19:33:22.950] launch_bar(DP-2): starting waybar
+[19:33:22.953] launch_bar(DP-2): PID=552762
+[19:33:23.256] launch_bar(DP-2): PID 552762 alive OK
+[19:33:23.558] launch_bar(DP-1): starting waybar
+[19:33:23.561] launch_bar(DP-1): PID=552821
+[19:33:23.863] launch_bar(DP-1): PID 552821 alive OK
+[19:46:26.698] === autohide-multi.sh started (PID=714871) ===
+[19:46:26.699] Killing existing waybar/autohide processes...
+[19:46:27.127] Existing processes killed, starting monitor detection
+[19:46:27.142] launch_bar(DP-2): starting waybar
+[19:46:27.144] launch_bar(DP-2): PID=714893
+[19:46:27.447] launch_bar(DP-2): PID 714893 alive OK
+[19:46:27.749] launch_bar(DP-1): starting waybar
+[19:46:27.752] launch_bar(DP-1): PID=714953
+[19:46:28.054] launch_bar(DP-1): PID 714953 alive OK
+[19:46:56.289] launch_bar(DP-1): starting waybar
+[19:46:56.292] launch_bar(DP-1): PID=720589
+[19:46:56.595] launch_bar(DP-1): PID 720589 alive OK
+[19:47:50.043] === autohide-multi.sh started (PID=730786) ===
+[19:47:50.044] Killing existing waybar/autohide processes...
+[19:47:50.472] Existing processes killed, starting monitor detection
+[19:47:50.486] launch_bar(DP-2): starting waybar
+[19:47:50.489] launch_bar(DP-2): PID=730808
+[19:47:50.791] launch_bar(DP-2): PID 730808 alive OK
+[19:47:51.094] launch_bar(DP-1): starting waybar
+[19:47:51.096] launch_bar(DP-1): PID=730869
+[19:47:51.399] launch_bar(DP-1): PID 730869 alive OK
+[19:47:53.143] === autohide-multi.sh started (PID=731067) ===
+[19:47:53.144] Killing existing waybar/autohide processes...
+[19:47:53.571] Existing processes killed, starting monitor detection
+[19:47:53.585] launch_bar(DP-2): starting waybar
+[19:47:53.588] launch_bar(DP-2): PID=731089
+[19:47:53.890] launch_bar(DP-2): PID 731089 alive OK
+[19:47:54.193] launch_bar(DP-1): starting waybar
+[19:47:54.196] launch_bar(DP-1): PID=731132
+[19:47:54.498] launch_bar(DP-1): PID 731132 alive OK
+[19:48:00.497] === autohide-multi.sh started (PID=732123) ===
+[19:48:00.498] Killing existing waybar/autohide processes...
+[19:48:00.925] Existing processes killed, starting monitor detection
+[19:48:00.940] launch_bar(DP-2): starting waybar
+[19:48:00.942] launch_bar(DP-2): PID=732145
+[19:48:01.245] launch_bar(DP-2): PID 732145 alive OK
+[19:48:01.547] launch_bar(DP-1): starting waybar
+[19:48:01.550] launch_bar(DP-1): PID=732204
+[19:48:01.853] launch_bar(DP-1): PID 732204 alive OK
+[19:48:08.615] === autohide-multi.sh started (PID=733486) ===
+[19:48:08.616] Killing existing waybar/autohide processes...
+[19:48:09.044] Existing processes killed, starting monitor detection
+[19:48:09.059] launch_bar(DP-2): starting waybar
+[19:48:09.061] launch_bar(DP-2): PID=733508
+[19:48:09.363] launch_bar(DP-2): PID 733508 alive OK
+[19:48:09.666] launch_bar(DP-1): starting waybar
+[19:48:09.669] launch_bar(DP-1): PID=733551
+[19:48:09.971] launch_bar(DP-1): PID 733551 alive OK
+[19:48:12.107] launch_bar(DP-1): starting waybar
+[19:48:12.110] launch_bar(DP-1): PID=733906
+[19:48:12.412] launch_bar(DP-1): PID 733906 alive OK
+[19:48:17.120] === autohide-multi.sh started (PID=734753) ===
+[19:48:17.121] Killing existing waybar/autohide processes...
+[19:48:17.548] Existing processes killed, starting monitor detection
+[19:48:17.561] launch_bar(DP-2): starting waybar
+[19:48:17.564] launch_bar(DP-2): PID=734775
+[19:48:17.866] launch_bar(DP-2): PID 734775 alive OK
+[19:48:18.169] launch_bar(DP-1): starting waybar
+[19:48:18.172] launch_bar(DP-1): PID=734841
+[19:48:18.474] launch_bar(DP-1): PID 734841 alive OK
+[19:48:19.932] === autohide-multi.sh started (PID=734977) ===
+[19:48:19.933] Killing existing waybar/autohide processes...
+[19:48:20.359] Existing processes killed, starting monitor detection
+[19:48:20.373] launch_bar(DP-2): starting waybar
+[19:48:20.376] launch_bar(DP-2): PID=734999
+[19:48:20.679] launch_bar(DP-2): PID 734999 alive OK
+[19:48:20.981] launch_bar(DP-1): starting waybar
+[19:48:20.984] launch_bar(DP-1): PID=735042
+[19:48:21.286] launch_bar(DP-1): PID 735042 alive OK
+[19:48:23.319] === autohide-multi.sh started (PID=735281) ===
+[19:48:23.320] Killing existing waybar/autohide processes...
+[19:48:23.747] Existing processes killed, starting monitor detection
+[19:48:23.761] launch_bar(DP-2): starting waybar
+[19:48:23.764] launch_bar(DP-2): PID=735303
+[19:48:24.066] launch_bar(DP-2): PID 735303 alive OK
+[19:48:24.369] launch_bar(DP-1): starting waybar
+[19:48:24.371] launch_bar(DP-1): PID=735346
+[19:48:24.673] launch_bar(DP-1): PID 735346 alive OK
+[19:48:25.673] === autohide-multi.sh started (PID=735404) ===
+[19:48:25.674] Killing existing waybar/autohide processes...
+[19:48:26.100] Existing processes killed, starting monitor detection
+[19:48:26.115] launch_bar(DP-2): starting waybar
+[19:48:26.118] launch_bar(DP-2): PID=735467
+[19:48:26.420] launch_bar(DP-2): PID 735467 alive OK
+[19:48:26.722] launch_bar(DP-1): starting waybar
+[19:48:26.725] launch_bar(DP-1): PID=735510
+[19:48:27.027] launch_bar(DP-1): PID 735510 alive OK
+[19:48:27.839] === autohide-multi.sh started (PID=735580) ===
+[19:48:27.840] Killing existing waybar/autohide processes...
+[19:48:28.266] Existing processes killed, starting monitor detection
+[19:48:28.279] launch_bar(DP-2): starting waybar
+[19:48:28.282] launch_bar(DP-2): PID=735643
+[19:48:28.584] launch_bar(DP-2): PID 735643 alive OK
+[19:48:28.887] launch_bar(DP-1): starting waybar
+[19:48:28.890] launch_bar(DP-1): PID=735703
+[19:48:29.192] launch_bar(DP-1): PID 735703 alive OK
+[19:48:38.004] === autohide-multi.sh started (PID=737294) ===
+[19:48:38.005] Killing existing waybar/autohide processes...
+[19:48:38.432] Existing processes killed, starting monitor detection
+[19:48:38.446] launch_bar(DP-2): starting waybar
+[19:48:38.449] launch_bar(DP-2): PID=737316
+[19:48:38.751] launch_bar(DP-2): PID 737316 alive OK
+[19:48:39.054] launch_bar(DP-1): starting waybar
+[19:48:39.057] launch_bar(DP-1): PID=737375
+[19:48:39.359] launch_bar(DP-1): PID 737375 alive OK
+[19:50:31.494] === autohide-multi.sh started (PID=758615) ===
+[19:50:31.495] Killing existing waybar/autohide processes...
+[19:50:31.921] Existing processes killed, starting monitor detection
+[19:50:31.936] launch_bar(DP-2): starting waybar
+[19:50:31.939] launch_bar(DP-2): PID=758637
+[19:50:32.241] launch_bar(DP-2): PID 758637 alive OK
+[19:50:32.543] launch_bar(DP-1): starting waybar
+[19:50:32.546] launch_bar(DP-1): PID=758697
+[19:50:32.849] launch_bar(DP-1): PID 758697 alive OK
+[19:50:35.246] === autohide-multi.sh started (PID=759019) ===
+[19:50:35.247] Killing existing waybar/autohide processes...
+[19:50:35.674] Existing processes killed, starting monitor detection
+[19:50:35.688] launch_bar(DP-2): starting waybar
+[19:50:35.691] launch_bar(DP-2): PID=759041
+[19:50:35.993] launch_bar(DP-2): PID 759041 alive OK
+[19:50:36.295] launch_bar(DP-1): starting waybar
+[19:50:36.298] launch_bar(DP-1): PID=759084
+[19:50:36.601] launch_bar(DP-1): PID 759084 alive OK
+[19:50:40.000] launch_bar(DP-1): starting waybar
+[19:50:40.003] launch_bar(DP-1): PID=759675
+[19:50:40.305] launch_bar(DP-1): PID 759675 alive OK
+[19:50:44.044] launch_bar(DP-2): starting waybar
+[19:50:44.047] launch_bar(DP-2): PID=760422
+[19:50:44.349] launch_bar(DP-2): PID 760422 alive OK
+[19:59:42.412] launch_bar(DP-1): starting waybar
+[19:59:42.415] launch_bar(DP-1): PID=868050
+[19:59:42.718] launch_bar(DP-1): PID 868050 alive OK
+[19:59:52.873] launch_bar(DP-1): starting waybar
+[19:59:52.876] launch_bar(DP-1): PID=870015
+[19:59:53.178] launch_bar(DP-1): PID 870015 alive OK
+[20:03:04.938] === autohide-multi.sh started (PID=908374) ===
+[20:03:04.939] Killing existing waybar/autohide processes...
+[20:03:05.367] Existing processes killed, starting monitor detection
+[20:03:05.382] launch_bar(DP-2): starting waybar
+[20:03:05.385] launch_bar(DP-2): PID=908396
+[20:03:05.687] launch_bar(DP-2): PID 908396 alive OK
+[20:03:05.989] launch_bar(DP-1): starting waybar
+[20:03:05.992] launch_bar(DP-1): PID=908455
+[20:03:06.294] launch_bar(DP-1): PID 908455 alive OK
+[20:04:00.688] launch_bar(DP-1): starting waybar
+[20:04:00.692] launch_bar(DP-1): PID=919352
+[20:04:00.994] launch_bar(DP-1): PID 919352 alive OK
+[20:05:04.190] launch_bar(DP-2): starting waybar
+[20:05:04.194] launch_bar(DP-2): PID=932148
+[20:05:04.496] launch_bar(DP-2): PID 932148 alive OK
+[20:05:34.171] launch_bar(DP-2): starting waybar
+[20:05:34.174] launch_bar(DP-2): PID=937901
+[20:05:34.476] launch_bar(DP-2): PID 937901 alive OK
+[20:05:35.513] launch_bar(DP-2): starting waybar
+[20:05:35.516] launch_bar(DP-2): PID=938142
+[20:05:35.819] launch_bar(DP-2): PID 938142 alive OK
+[20:09:07.199] === autohide-multi.sh started (PID=978693) ===
+[20:09:07.200] Killing existing waybar/autohide processes...
+[20:09:07.628] Existing processes killed, starting monitor detection
+[20:09:07.642] launch_bar(DP-2): starting waybar
+[20:09:07.645] launch_bar(DP-2): PID=978715
+[20:09:07.947] launch_bar(DP-2): PID 978715 alive OK
+[20:09:08.250] launch_bar(DP-1): starting waybar
+[20:09:08.253] launch_bar(DP-1): PID=978774
+[20:09:08.556] launch_bar(DP-1): PID 978774 alive OK
+[20:10:20.064] launch_bar(DP-2): starting waybar
+[20:10:20.067] launch_bar(DP-2): PID=993414
+[20:10:20.369] launch_bar(DP-2): PID 993414 alive OK
+[20:10:22.118] launch_bar(DP-2): starting waybar
+[20:10:22.121] launch_bar(DP-2): PID=993791
+[20:10:22.423] launch_bar(DP-2): PID 993791 alive OK
+[20:10:25.455] launch_bar(DP-2): starting waybar
+[20:10:25.458] launch_bar(DP-2): PID=994414
+[20:10:25.761] launch_bar(DP-2): PID 994414 alive OK
+[20:12:49.179] === autohide-multi.sh started (PID=1021485) ===
+[20:12:49.179] Killing existing waybar/autohide processes...
+[20:12:49.608] Existing processes killed, starting monitor detection
+[20:12:49.623] launch_bar(DP-2): starting waybar
+[20:12:49.626] launch_bar(DP-2): PID=1021507
+[20:12:49.928] launch_bar(DP-2): PID 1021507 alive OK
+[20:12:50.230] launch_bar(DP-1): starting waybar
+[20:12:50.233] launch_bar(DP-1): PID=1021566
+[20:12:50.535] launch_bar(DP-1): PID 1021566 alive OK
+[20:13:42.750] launch_bar(DP-2): starting waybar
+[20:13:42.753] launch_bar(DP-2): PID=1032105
+[20:13:43.055] launch_bar(DP-2): PID 1032105 alive OK
+[20:14:52.061] launch_bar(DP-1): starting waybar
+[20:14:52.064] launch_bar(DP-1): PID=1045943
+[20:14:52.366] launch_bar(DP-1): PID 1045943 alive OK
+[20:16:01.938] launch_bar(DP-1): starting waybar
+[20:16:01.941] launch_bar(DP-1): PID=1059282
+[20:16:02.244] launch_bar(DP-1): PID 1059282 alive OK
+[20:16:03.258] launch_bar(DP-2): starting waybar
+[20:16:03.262] launch_bar(DP-2): PID=1059509
+[20:16:03.564] launch_bar(DP-2): PID 1059509 alive OK
+[20:16:04.893] launch_bar(DP-1): starting waybar
+[20:16:04.896] launch_bar(DP-1): PID=1059814
+[20:16:05.198] launch_bar(DP-1): PID 1059814 alive OK
+[20:16:16.834] launch_bar(DP-1): starting waybar
+[20:16:16.837] launch_bar(DP-1): PID=1062219
+[20:16:17.139] launch_bar(DP-1): PID 1062219 alive OK
+[20:16:26.437] launch_bar(DP-1): starting waybar
+[20:16:26.440] launch_bar(DP-1): PID=1064016
+[20:16:26.742] launch_bar(DP-1): PID 1064016 alive OK
+[20:16:38.618] launch_bar(DP-1): starting waybar
+[20:16:38.621] launch_bar(DP-1): PID=1066306
+[20:16:38.923] launch_bar(DP-1): PID 1066306 alive OK
+[20:21:30.536] === autohide-multi.sh started (PID=1121735) ===
+[20:21:30.537] Killing existing waybar/autohide processes...
+[20:21:30.966] Existing processes killed, starting monitor detection
+[20:21:30.981] launch_bar(DP-2): starting waybar
+[20:21:30.984] launch_bar(DP-2): PID=1121757
+[20:21:31.286] launch_bar(DP-2): PID 1121757 alive OK
+[20:21:31.588] launch_bar(DP-1): starting waybar
+[20:21:31.591] launch_bar(DP-1): PID=1121817
+[20:21:31.893] launch_bar(DP-1): PID 1121817 alive OK
+[20:23:34.765] launch_bar(DP-1): starting waybar
+[20:23:34.768] launch_bar(DP-1): PID=1146139
+[20:23:35.070] launch_bar(DP-1): PID 1146139 alive OK
+[20:23:40.393] launch_bar(DP-1): starting waybar
+[20:23:40.396] launch_bar(DP-1): PID=1147177
+[20:23:40.698] launch_bar(DP-1): PID 1147177 alive OK
+[20:24:00.123] launch_bar(DP-1): starting waybar
+[20:24:00.126] launch_bar(DP-1): PID=1151018
+[20:24:00.428] launch_bar(DP-1): PID 1151018 alive OK
+[20:26:31.880] launch_bar(DP-1): starting waybar
+[20:26:31.883] launch_bar(DP-1): PID=1179959
+[20:26:32.186] launch_bar(DP-1): PID 1179959 alive OK
+[20:26:41.488] launch_bar(DP-1): starting waybar
+[20:26:41.493] launch_bar(DP-1): PID=1181754
+[20:26:41.796] launch_bar(DP-1): PID 1181754 alive OK
+[20:28:10.159] launch_bar(DP-2): starting waybar
+[20:28:10.162] launch_bar(DP-2): PID=1198643
+[20:28:10.464] launch_bar(DP-2): PID 1198643 alive OK
+[20:29:21.208] launch_bar(DP-1): starting waybar
+[20:29:21.211] launch_bar(DP-1): PID=1212242
+[20:29:21.513] launch_bar(DP-1): PID 1212242 alive OK
+[20:31:02.074] launch_bar(DP-1): starting waybar
+[20:31:02.077] launch_bar(DP-1): PID=1231341
+[20:31:02.379] launch_bar(DP-1): PID 1231341 alive OK
+[20:31:03.253] launch_bar(DP-2): starting waybar
+[20:31:03.256] launch_bar(DP-2): PID=1231546
+[20:31:03.559] launch_bar(DP-2): PID 1231546 alive OK
+[20:34:18.337] launch_bar(DP-1): starting waybar
+[20:34:18.340] launch_bar(DP-1): PID=1268840
+[20:34:18.642] launch_bar(DP-1): PID 1268840 alive OK
+[20:34:20.359] launch_bar(DP-1): starting waybar
+[20:34:20.362] launch_bar(DP-1): PID=1269201
+[20:34:20.664] launch_bar(DP-1): PID 1269201 died, retrying...
+[20:34:21.169] launch_bar(DP-1): retry PID=1269300
+[20:34:21.308] launch_bar(DP-1): starting waybar
+[20:34:21.310] launch_bar(DP-1): PID=1269327
+[20:34:21.613] launch_bar(DP-1): PID 1269327 died, retrying...
+[20:34:22.119] launch_bar(DP-1): retry PID=1269337
+[20:34:22.259] launch_bar(DP-1): starting waybar
+[20:34:22.262] launch_bar(DP-1): PID=1269364
+[20:34:22.565] launch_bar(DP-1): PID 1269364 died, retrying...
+[20:34:23.069] launch_bar(DP-1): retry PID=1269385
+[20:34:23.208] launch_bar(DP-1): starting waybar
+[20:34:23.211] launch_bar(DP-1): PID=1269412
+[20:34:23.514] launch_bar(DP-1): PID 1269412 died, retrying...
+[20:34:24.019] launch_bar(DP-1): retry PID=1269471
+[20:34:24.159] launch_bar(DP-1): starting waybar
+[20:34:24.162] launch_bar(DP-1): PID=1269498
+[20:34:24.464] launch_bar(DP-1): PID 1269498 died, retrying...
+[20:34:24.969] launch_bar(DP-1): retry PID=1269506
+[20:34:25.109] launch_bar(DP-1): starting waybar
+[20:34:25.113] launch_bar(DP-1): PID=1269533
+[20:34:25.416] launch_bar(DP-1): PID 1269533 died, retrying...
+[20:34:25.921] launch_bar(DP-1): retry PID=1269541
+[20:34:26.061] launch_bar(DP-1): starting waybar
+[20:34:26.064] launch_bar(DP-1): PID=1269568
+[20:34:26.367] launch_bar(DP-1): PID 1269568 died, retrying...
+[20:34:26.872] launch_bar(DP-1): retry PID=1269576
+[20:34:27.011] launch_bar(DP-1): starting waybar
+[20:34:27.015] launch_bar(DP-1): PID=1269603
+[20:34:27.317] launch_bar(DP-1): PID 1269603 died, retrying...
+[20:34:27.822] launch_bar(DP-1): retry PID=1269611
+[20:34:27.962] launch_bar(DP-1): starting waybar
+[20:34:27.964] launch_bar(DP-1): PID=1269638
+[20:34:28.267] launch_bar(DP-1): PID 1269638 died, retrying...
+[20:34:28.772] launch_bar(DP-1): retry PID=1269646
+[20:34:28.911] launch_bar(DP-1): starting waybar
+[20:34:28.914] launch_bar(DP-1): PID=1269673
+[20:34:29.217] launch_bar(DP-1): PID 1269673 died, retrying...
+[20:34:29.722] launch_bar(DP-1): retry PID=1269681
+[20:34:29.862] launch_bar(DP-1): starting waybar
+[20:34:29.865] launch_bar(DP-1): PID=1269708
+[20:34:30.168] launch_bar(DP-1): PID 1269708 died, retrying...
+[20:34:30.673] launch_bar(DP-1): retry PID=1269716
+[20:34:30.812] launch_bar(DP-1): starting waybar
+[20:34:30.815] launch_bar(DP-1): PID=1269743
+[20:34:31.118] launch_bar(DP-1): PID 1269743 died, retrying...
+[20:34:31.623] launch_bar(DP-1): retry PID=1269751
+[20:34:31.762] launch_bar(DP-1): starting waybar
+[20:34:31.765] launch_bar(DP-1): PID=1269778
+[20:34:32.068] launch_bar(DP-1): PID 1269778 died, retrying...
+[20:34:32.572] launch_bar(DP-1): retry PID=1269786
+[20:34:32.712] launch_bar(DP-1): starting waybar
+[20:34:32.715] launch_bar(DP-1): PID=1269813
+[20:34:33.018] launch_bar(DP-1): PID 1269813 died, retrying...
+[20:34:33.522] launch_bar(DP-1): retry PID=1269822
+[20:34:33.662] launch_bar(DP-1): starting waybar
+[20:34:33.665] launch_bar(DP-1): PID=1269849
+[20:34:33.968] launch_bar(DP-1): PID 1269849 died, retrying...
+[20:34:34.472] launch_bar(DP-1): retry PID=1269857
+[20:34:34.612] launch_bar(DP-1): starting waybar
+[20:34:34.615] launch_bar(DP-1): PID=1269884
+[20:34:34.918] launch_bar(DP-1): PID 1269884 died, retrying...
+[20:34:35.423] launch_bar(DP-1): retry PID=1269974
+[20:34:35.563] launch_bar(DP-1): starting waybar
+[20:34:35.566] launch_bar(DP-1): PID=1270030
+[20:34:36.505] === autohide-multi.sh started (PID=1270213) ===
+[20:34:36.506] Killing existing waybar/autohide processes...
+[20:34:36.935] Existing processes killed, starting monitor detection
+[20:34:36.949] launch_bar(DP-2): starting waybar
+[20:34:36.951] launch_bar(DP-2): PID=1270235
+[20:34:37.254] launch_bar(DP-2): PID 1270235 alive OK
+[20:34:37.556] launch_bar(DP-1): starting waybar
+[20:34:37.559] launch_bar(DP-1): PID=1270295
+[20:34:37.862] launch_bar(DP-1): PID 1270295 alive OK
+[20:34:43.003] launch_bar(DP-1): starting waybar
+[20:34:43.006] launch_bar(DP-1): PID=1271869
+[20:34:43.308] launch_bar(DP-1): PID 1271869 alive OK
+[20:34:44.040] launch_bar(DP-2): starting waybar
+[20:34:44.043] launch_bar(DP-2): PID=1272039
+[20:34:44.345] launch_bar(DP-2): PID 1272039 alive OK
+[20:35:23.835] launch_bar(DP-1): starting waybar
+[20:35:23.838] launch_bar(DP-1): PID=1279978
+[20:35:24.140] launch_bar(DP-1): PID 1279978 alive OK
+[20:35:25.723] launch_bar(DP-1): starting waybar
+[20:35:25.726] launch_bar(DP-1): PID=1280312
+[20:35:26.028] launch_bar(DP-1): PID 1280312 alive OK
+[20:36:02.011] launch_bar(DP-1): starting waybar
+[20:36:02.014] launch_bar(DP-1): PID=1288150
+[20:36:02.316] launch_bar(DP-1): PID 1288150 alive OK
+[20:36:05.931] launch_bar(DP-1): starting waybar
+[20:36:05.934] launch_bar(DP-1): PID=1288865
+[20:36:06.237] launch_bar(DP-1): PID 1288865 alive OK
+[20:36:07.400] launch_bar(DP-1): starting waybar
+[20:36:07.402] launch_bar(DP-1): PID=1289119
+[20:36:07.736] launch_bar(DP-1): PID 1289119 alive OK
+[20:36:45.195] launch_bar(DP-1): starting waybar
+[20:36:45.198] launch_bar(DP-1): PID=1296338
+[20:36:45.500] launch_bar(DP-1): PID 1296338 alive OK
+[20:36:49.549] launch_bar(DP-2): starting waybar
+[20:36:49.552] launch_bar(DP-2): PID=1297146
+[20:36:49.854] launch_bar(DP-2): PID 1297146 alive OK
+[20:38:21.776] launch_bar(DP-1): starting waybar
+[20:38:21.779] launch_bar(DP-1): PID=1314661
+[20:38:22.081] launch_bar(DP-1): PID 1314661 alive OK
+[20:39:33.958] launch_bar(DP-1): starting waybar
+[20:39:33.961] launch_bar(DP-1): PID=1328330
+[20:39:34.263] launch_bar(DP-1): PID 1328330 alive OK
+[20:39:38.735] launch_bar(DP-1): starting waybar
+[20:39:38.739] launch_bar(DP-1): PID=1329216
+[20:39:39.041] launch_bar(DP-1): PID 1329216 alive OK
+[20:39:44.811] launch_bar(DP-1): starting waybar
+[20:39:44.814] launch_bar(DP-1): PID=1330457
+[20:39:45.116] launch_bar(DP-1): PID 1330457 alive OK
+[20:39:46.279] launch_bar(DP-2): starting waybar
+[20:39:46.282] launch_bar(DP-2): PID=1330707
+[20:39:46.584] launch_bar(DP-2): PID 1330707 alive OK
+[20:39:47.614] launch_bar(DP-1): starting waybar
+[20:39:47.617] launch_bar(DP-1): PID=1330942
+[20:39:47.919] launch_bar(DP-1): PID 1330942 alive OK
+[20:40:30.336] === autohide-multi.sh started (PID=1331488) ===
+[20:40:30.337] Killing existing waybar/autohide processes...
+[20:40:30.766] Existing processes killed, starting monitor detection
+[20:40:30.781] launch_bar(DP-2): starting waybar
+[20:40:30.783] launch_bar(DP-2): PID=1331540
+[20:40:31.085] launch_bar(DP-2): PID 1331540 alive OK
+[20:40:31.387] launch_bar(DP-1): starting waybar
+[20:40:31.391] launch_bar(DP-1): PID=1331571
+[20:40:31.693] launch_bar(DP-1): PID 1331571 alive OK
+[20:40:33.241] launch_bar(DP-1): starting waybar
+[20:40:33.243] launch_bar(DP-1): PID=1331770
+[20:40:33.546] launch_bar(DP-1): PID 1331770 alive OK
+[20:40:36.158] launch_bar(DP-1): starting waybar
+[20:40:36.161] launch_bar(DP-1): PID=1332310
+[20:40:36.463] launch_bar(DP-1): PID 1332310 alive OK
+[20:40:51.563] launch_bar(DP-1): starting waybar
+[20:40:51.565] launch_bar(DP-1): PID=1335236
+[20:40:51.868] launch_bar(DP-1): PID 1335236 alive OK
+[20:41:04.926] launch_bar(DP-1): starting waybar
+[20:41:04.929] launch_bar(DP-1): PID=1337871
+[20:41:05.231] launch_bar(DP-1): PID 1337871 alive OK
+[20:41:09.383] launch_bar(DP-2): starting waybar
+[20:41:09.385] launch_bar(DP-2): PID=1338688
+[20:41:09.718] launch_bar(DP-2): PID 1338688 alive OK
+[20:41:52.599] launch_bar(DP-1): starting waybar
+[20:41:52.601] launch_bar(DP-1): PID=1346907
+[20:41:52.904] launch_bar(DP-1): PID 1346907 alive OK
+[20:43:00.523] === autohide-multi.sh started (PID=1359603) ===
+[20:43:00.524] Killing existing waybar/autohide processes...
+[20:43:00.955] Existing processes killed, starting monitor detection
+[20:43:00.971] launch_bar(DP-2): starting waybar
+[20:43:00.974] launch_bar(DP-2): PID=1359655
+[20:43:01.276] launch_bar(DP-2): PID 1359655 alive OK
+[20:43:01.579] launch_bar(DP-1): starting waybar
+[20:43:01.582] launch_bar(DP-1): PID=1359687
+[20:43:01.884] launch_bar(DP-1): PID 1359687 alive OK
+[20:43:03.433] launch_bar(DP-1): starting waybar
+[20:43:03.436] launch_bar(DP-1): PID=1359904
+[20:43:03.738] launch_bar(DP-1): PID 1359904 alive OK
+[20:43:05.910] launch_bar(DP-1): starting waybar
+[20:43:05.913] launch_bar(DP-1): PID=1360356
+[20:43:06.215] launch_bar(DP-1): PID 1360356 alive OK
+[20:43:08.511] launch_bar(DP-2): starting waybar
+[20:43:08.514] launch_bar(DP-2): PID=1360833
+[20:43:08.816] launch_bar(DP-2): PID 1360833 alive OK
+[20:43:26.613] launch_bar(DP-1): starting waybar
+[20:43:26.616] launch_bar(DP-1): PID=1364251
+[20:43:26.919] launch_bar(DP-1): PID 1364251 alive OK
+[20:44:12.032] launch_bar(DP-1): starting waybar
+[20:44:12.035] launch_bar(DP-1): PID=1372984
+[20:44:12.337] launch_bar(DP-1): PID 1372984 alive OK
+[20:44:13.786] launch_bar(DP-1): starting waybar
+[20:44:13.789] launch_bar(DP-1): PID=1373295
+[20:44:14.091] launch_bar(DP-1): PID 1373295 alive OK
+[20:44:19.146] launch_bar(DP-2): starting waybar
+[20:44:19.149] launch_bar(DP-2): PID=1374351
+[20:44:19.451] launch_bar(DP-2): PID 1374351 alive OK
+[20:44:21.904] launch_bar(DP-1): starting waybar
+[20:44:21.907] launch_bar(DP-1): PID=1374860
+[20:44:22.209] launch_bar(DP-1): PID 1374860 alive OK
+[20:44:30.514] launch_bar(DP-1): starting waybar
+[20:44:30.517] launch_bar(DP-1): PID=1376459
+[20:44:30.819] launch_bar(DP-1): PID 1376459 alive OK
+[20:44:47.982] launch_bar(DP-1): starting waybar
+[20:44:47.985] launch_bar(DP-1): PID=1379762
+[20:44:48.288] launch_bar(DP-1): PID 1379762 alive OK
+[20:45:16.236] launch_bar(DP-1): starting waybar
+[20:45:16.239] launch_bar(DP-1): PID=1385113
+[20:45:16.541] launch_bar(DP-1): PID 1385113 alive OK
+[20:50:12.942] === autohide-multi.sh started (PID=1441350) ===
+[20:50:12.943] Killing existing waybar/autohide processes...
+[20:50:13.372] Existing processes killed, starting monitor detection
+[20:50:13.387] launch_bar(DP-2): starting waybar
+[20:50:13.389] launch_bar(DP-2): PID=1441402
+[20:50:13.692] launch_bar(DP-2): PID 1441402 alive OK
+[20:50:13.994] launch_bar(DP-1): starting waybar
+[20:50:13.997] launch_bar(DP-1): PID=1441466
+[20:50:14.299] launch_bar(DP-1): PID 1441466 alive OK
+[20:50:15.852] launch_bar(DP-1): starting waybar
+[20:50:15.855] launch_bar(DP-1): PID=1441693
+[20:50:16.157] launch_bar(DP-1): PID 1441693 alive OK
+[20:50:52.925] launch_bar(DP-2): starting waybar
+[20:50:52.928] launch_bar(DP-2): PID=1448740
+[20:50:53.230] launch_bar(DP-2): PID 1448740 alive OK
+[20:50:57.814] launch_bar(DP-2): starting waybar
+[20:50:57.817] launch_bar(DP-2): PID=1449677
+[20:50:58.119] launch_bar(DP-2): PID 1449677 alive OK
+[20:51:00.990] launch_bar(DP-1): starting waybar
+[20:51:00.993] launch_bar(DP-1): PID=1450301
+[20:51:01.295] launch_bar(DP-1): PID 1450301 alive OK
+[20:51:05.454] launch_bar(DP-1): starting waybar
+[20:51:05.457] launch_bar(DP-1): PID=1451178
+[20:51:05.759] launch_bar(DP-1): PID 1451178 alive OK
+[20:51:11.077] launch_bar(DP-2): starting waybar
+[20:51:11.080] launch_bar(DP-2): PID=1452261
+[20:51:11.382] launch_bar(DP-2): PID 1452261 alive OK
+[20:53:05.246] launch_bar(DP-1): starting waybar
+[20:53:05.250] launch_bar(DP-1): PID=1474175
+[20:53:05.552] launch_bar(DP-1): PID 1474175 alive OK
+[20:53:07.145] launch_bar(DP-1): starting waybar
+[20:53:07.148] launch_bar(DP-1): PID=1474546
+[20:53:07.451] launch_bar(DP-1): PID 1474546 alive OK
+[20:53:09.932] launch_bar(DP-1): starting waybar
+[20:53:09.935] launch_bar(DP-1): PID=1475110
+[20:53:10.238] launch_bar(DP-1): PID 1475110 alive OK
+[20:53:11.561] launch_bar(DP-2): starting waybar
+[20:53:11.564] launch_bar(DP-2): PID=1475439
+[20:53:11.866] launch_bar(DP-2): PID 1475439 alive OK
+[20:53:15.923] launch_bar(DP-2): starting waybar
+[20:53:15.926] launch_bar(DP-2): PID=1476279
+[20:53:16.228] launch_bar(DP-2): PID 1476279 alive OK
+[20:53:25.149] === autohide-multi.sh started (PID=1477766) ===
+[20:53:25.150] Killing existing waybar/autohide processes...
+[20:53:25.578] Existing processes killed, starting monitor detection
+[20:53:25.594] launch_bar(DP-2): starting waybar
+[20:53:25.597] launch_bar(DP-2): PID=1477818
+[20:53:25.899] launch_bar(DP-2): PID 1477818 alive OK
+[20:53:26.201] launch_bar(DP-1): starting waybar
+[20:53:26.204] launch_bar(DP-1): PID=1477886
+[20:53:26.506] launch_bar(DP-1): PID 1477886 alive OK
+[20:53:28.051] launch_bar(DP-2): starting waybar
+[20:53:28.054] launch_bar(DP-2): PID=1478116
+[20:53:28.357] launch_bar(DP-2): PID 1478116 alive OK
+[20:54:44.728] launch_bar(DP-1): starting waybar
+[20:54:44.731] launch_bar(DP-1): PID=1492667
+[20:54:45.033] launch_bar(DP-1): PID 1492667 alive OK
+[20:54:46.647] launch_bar(DP-2): starting waybar
+[20:54:46.650] launch_bar(DP-2): PID=1493051
+[20:54:46.952] launch_bar(DP-2): PID 1493051 alive OK
+[20:56:09.292] launch_bar(DP-1): starting waybar
+[20:56:09.295] launch_bar(DP-1): PID=1508752
+[20:56:09.598] launch_bar(DP-1): PID 1508752 alive OK
+[20:56:10.615] launch_bar(DP-2): starting waybar
+[20:56:10.618] launch_bar(DP-2): PID=1508985
+[20:56:10.920] launch_bar(DP-2): PID 1508985 alive OK
+[20:56:46.189] launch_bar(DP-2): starting waybar
+[20:56:46.193] launch_bar(DP-2): PID=1515737
+[20:56:46.495] launch_bar(DP-2): PID 1515737 alive OK
+[20:56:59.800] launch_bar(DP-2): starting waybar
+[20:56:59.803] launch_bar(DP-2): PID=1518353
+[20:57:00.106] launch_bar(DP-2): PID 1518353 alive OK
+[20:57:26.817] launch_bar(DP-1): starting waybar
+[20:57:26.821] launch_bar(DP-1): PID=1523480
+[20:57:27.123] launch_bar(DP-1): PID 1523480 alive OK
+[20:57:57.814] launch_bar(DP-2): starting waybar
+[20:57:57.817] launch_bar(DP-2): PID=1529383
+[20:57:58.119] launch_bar(DP-2): PID 1529383 alive OK
+[20:58:01.013] launch_bar(DP-2): starting waybar
+[20:58:01.016] launch_bar(DP-2): PID=1529993
+[20:58:01.318] launch_bar(DP-2): PID 1529993 alive OK
+[20:58:40.956] launch_bar(DP-1): starting waybar
+[20:58:40.959] launch_bar(DP-1): PID=1537539
+[20:58:41.262] launch_bar(DP-1): PID 1537539 alive OK
+[21:00:29.686] launch_bar(DP-1): starting waybar
+[21:00:29.689] launch_bar(DP-1): PID=1558200
+[21:00:29.991] launch_bar(DP-1): PID 1558200 alive OK
+[21:00:31.873] launch_bar(DP-2): starting waybar
+[21:00:31.876] launch_bar(DP-2): PID=1558621
+[21:00:32.178] launch_bar(DP-2): PID 1558621 alive OK
+[21:00:53.442] launch_bar(DP-1): starting waybar
+[21:00:53.445] launch_bar(DP-1): PID=1562694
+[21:00:53.747] launch_bar(DP-1): PID 1562694 alive OK
+[21:00:59.897] === autohide-multi.sh started (PID=1563673) ===
+[21:00:59.898] Killing existing waybar/autohide processes...
+[21:01:00.325] Existing processes killed, starting monitor detection
+[21:01:00.341] launch_bar(DP-2): starting waybar
+[21:01:00.344] launch_bar(DP-2): PID=1563725
+[21:01:00.646] launch_bar(DP-2): PID 1563725 alive OK
+[21:01:00.949] launch_bar(DP-1): starting waybar
+[21:01:00.952] launch_bar(DP-1): PID=1563765
+[21:01:01.255] launch_bar(DP-1): PID 1563765 alive OK
+[21:01:08.830] launch_bar(DP-2): starting waybar
+[21:01:08.833] launch_bar(DP-2): PID=1565114
+[21:01:09.135] launch_bar(DP-2): PID 1565114 alive OK
+[21:02:46.407] launch_bar(DP-1): starting waybar
+[21:02:46.410] launch_bar(DP-1): PID=1583679
+[21:02:46.712] launch_bar(DP-1): PID 1583679 alive OK
+[21:03:38.613] launch_bar(DP-2): starting waybar
+[21:03:38.616] launch_bar(DP-2): PID=1593628
+[21:03:38.918] launch_bar(DP-2): PID 1593628 alive OK
+[21:04:19.096] launch_bar(DP-2): starting waybar
+[21:04:19.099] launch_bar(DP-2): PID=1601605
+[21:04:19.401] launch_bar(DP-2): PID 1601605 alive OK
+[21:06:18.097] launch_bar(DP-2): starting waybar
+[21:06:18.100] launch_bar(DP-2): PID=1624442
+[21:06:18.403] launch_bar(DP-2): PID 1624442 alive OK
+[21:06:19.717] launch_bar(DP-1): starting waybar
+[21:06:19.720] launch_bar(DP-1): PID=1624777
+[21:06:20.023] launch_bar(DP-1): PID 1624777 alive OK
+[21:12:50.185] launch_bar(DP-2): starting waybar
+[21:12:50.188] launch_bar(DP-2): PID=1701882
+[21:12:50.490] launch_bar(DP-2): PID 1701882 alive OK
+[21:35:30.767] launch_bar(DP-1): starting waybar
+[21:35:30.771] launch_bar(DP-1): PID=1963356
+[21:35:31.073] launch_bar(DP-1): PID 1963356 alive OK
+[21:35:33.114] launch_bar(DP-1): starting waybar
+[21:35:33.117] launch_bar(DP-1): PID=1963820
+[21:35:33.420] launch_bar(DP-1): PID 1963820 alive OK
+[21:35:34.885] launch_bar(DP-1): starting waybar
+[21:35:34.888] launch_bar(DP-1): PID=1964162
+[21:35:35.191] launch_bar(DP-1): PID 1964162 alive OK
+[21:42:22.859] launch_bar(DP-1): starting waybar
+[21:42:22.863] launch_bar(DP-1): PID=2043979
+[21:42:23.165] launch_bar(DP-1): PID 2043979 alive OK
+[21:53:04.331] launch_bar(DP-1): starting waybar
+[21:53:04.334] launch_bar(DP-1): PID=2164289
+[21:53:04.636] launch_bar(DP-1): PID 2164289 alive OK
+[21:53:06.393] launch_bar(DP-1): starting waybar
+[21:53:06.397] launch_bar(DP-1): PID=2164686
+[21:53:06.699] launch_bar(DP-1): PID 2164686 alive OK
+[21:57:45.155] launch_bar(DP-1): starting waybar
+[21:57:45.158] launch_bar(DP-1): PID=2217433
+[21:57:45.461] launch_bar(DP-1): PID 2217433 alive OK
+[21:57:46.472] launch_bar(DP-1): starting waybar
+[21:57:46.475] launch_bar(DP-1): PID=2217705
+[21:57:46.778] launch_bar(DP-1): PID 2217705 alive OK
+[21:57:50.034] === autohide-multi.sh started (PID=2218620) ===
+[21:57:50.035] Killing existing waybar/autohide processes...
+[21:57:50.468] Existing processes killed, starting monitor detection
+[21:57:50.484] launch_bar(DP-2): starting waybar
+[21:57:50.487] launch_bar(DP-2): PID=2218654
+[21:57:50.789] launch_bar(DP-2): PID 2218654 alive OK
+[21:57:51.091] launch_bar(DP-1): starting waybar
+[21:57:51.095] launch_bar(DP-1): PID=2218754
+[21:57:51.397] launch_bar(DP-1): PID 2218754 alive OK
+[21:58:01.664] launch_bar(DP-1): starting waybar
+[21:58:01.667] launch_bar(DP-1): PID=2220941
+[21:58:01.970] launch_bar(DP-1): PID 2220941 alive OK
+[21:58:03.983] === autohide-multi.sh started (PID=2221337) ===
+[21:58:03.984] Killing existing waybar/autohide processes...
+[21:58:04.415] Existing processes killed, starting monitor detection
+[21:58:04.430] launch_bar(DP-2): starting waybar
+[21:58:04.433] launch_bar(DP-2): PID=2221359
+[21:58:04.736] launch_bar(DP-2): PID 2221359 alive OK
+[21:58:05.038] launch_bar(DP-1): starting waybar
+[21:58:05.041] launch_bar(DP-1): PID=2221469
+[21:58:05.344] launch_bar(DP-1): PID 2221469 alive OK
+[21:58:11.224] === autohide-multi.sh started (PID=2222788) ===
+[21:58:11.225] Killing existing waybar/autohide processes...
+[21:58:11.654] Existing processes killed, starting monitor detection
+[21:58:11.669] launch_bar(DP-2): starting waybar
+[21:58:11.671] launch_bar(DP-2): PID=2222811
+[21:58:11.974] launch_bar(DP-2): PID 2222811 alive OK
+[21:58:12.276] launch_bar(DP-1): starting waybar
+[21:58:12.278] launch_bar(DP-1): PID=2222857
+[21:58:12.581] launch_bar(DP-1): PID 2222857 alive OK
+[21:58:14.692] === autohide-multi.sh started (PID=2223120) ===
+[21:58:14.693] Killing existing waybar/autohide processes...
+[21:58:15.123] Existing processes killed, starting monitor detection
+[21:58:15.137] launch_bar(DP-2): starting waybar
+[21:58:15.140] launch_bar(DP-2): PID=2223143
+[21:58:15.442] launch_bar(DP-2): PID 2223143 alive OK
+[21:58:15.745] launch_bar(DP-1): starting waybar
+[21:58:15.747] launch_bar(DP-1): PID=2223206
+[21:58:16.049] launch_bar(DP-1): PID 2223206 alive OK
+[21:58:17.896] === autohide-multi.sh started (PID=2223431) ===
+[21:58:17.897] Killing existing waybar/autohide processes...
+[21:58:18.326] Existing processes killed, starting monitor detection
+[21:58:18.340] launch_bar(DP-2): starting waybar
+[21:58:18.343] launch_bar(DP-2): PID=2223453
+[21:58:18.646] launch_bar(DP-2): PID 2223453 alive OK
+[21:58:18.948] launch_bar(DP-1): starting waybar
+[21:58:18.950] launch_bar(DP-1): PID=2223499
+[21:58:19.252] launch_bar(DP-1): PID 2223499 alive OK
+[21:58:20.837] === autohide-multi.sh started (PID=2223656) ===
+[21:58:20.838] Killing existing waybar/autohide processes...
+[21:58:21.267] Existing processes killed, starting monitor detection
+[21:58:21.281] launch_bar(DP-2): starting waybar
+[21:58:21.284] launch_bar(DP-2): PID=2223678
+[21:58:21.587] launch_bar(DP-2): PID 2223678 alive OK
+[21:58:21.889] launch_bar(DP-1): starting waybar
+[21:58:21.892] launch_bar(DP-1): PID=2223724
+[21:58:22.194] launch_bar(DP-1): PID 2223724 alive OK
+[21:58:24.230] === autohide-multi.sh started (PID=2223966) ===
+[21:58:24.231] Killing existing waybar/autohide processes...
+[21:58:24.661] Existing processes killed, starting monitor detection
+[21:58:24.675] launch_bar(DP-2): starting waybar
+[21:58:24.678] launch_bar(DP-2): PID=2223988
+[21:58:24.980] launch_bar(DP-2): PID 2223988 alive OK
+[21:58:25.282] launch_bar(DP-1): starting waybar
+[21:58:25.285] launch_bar(DP-1): PID=2224034
+[21:58:25.588] launch_bar(DP-1): PID 2224034 alive OK
+[21:58:33.890] === autohide-multi.sh started (PID=2225561) ===
+[21:58:33.891] Killing existing waybar/autohide processes...
+[21:58:34.319] Existing processes killed, starting monitor detection
+[21:58:34.334] launch_bar(DP-2): starting waybar
+[21:58:34.337] launch_bar(DP-2): PID=2225583
+[21:58:34.639] launch_bar(DP-2): PID 2225583 alive OK
+[21:58:34.942] launch_bar(DP-1): starting waybar
+[21:58:34.945] launch_bar(DP-1): PID=2225653
+[21:58:35.247] launch_bar(DP-1): PID 2225653 alive OK
+[21:58:39.352] === autohide-multi.sh started (PID=2226306) ===
+[21:58:39.352] Killing existing waybar/autohide processes...
+[21:58:39.781] Existing processes killed, starting monitor detection
+[21:58:39.796] launch_bar(DP-2): starting waybar
+[21:58:39.798] launch_bar(DP-2): PID=2226328
+[21:58:40.101] launch_bar(DP-2): PID 2226328 alive OK
+[21:58:40.403] launch_bar(DP-1): starting waybar
+[21:58:40.406] launch_bar(DP-1): PID=2226374
+[21:58:40.708] launch_bar(DP-1): PID 2226374 alive OK
+[21:58:46.765] === autohide-multi.sh started (PID=2227485) ===
+[21:58:46.766] Killing existing waybar/autohide processes...
+[21:58:47.195] Existing processes killed, starting monitor detection
+[21:58:47.210] launch_bar(DP-2): starting waybar
+[21:58:47.212] launch_bar(DP-2): PID=2227508
+[21:58:47.515] launch_bar(DP-2): PID 2227508 alive OK
+[21:58:47.817] launch_bar(DP-1): starting waybar
+[21:58:47.820] launch_bar(DP-1): PID=2227570
+[21:58:48.122] launch_bar(DP-1): PID 2227570 alive OK
+[21:58:55.652] launch_bar(DP-1): starting waybar
+[21:58:55.654] launch_bar(DP-1): PID=2229095
+[21:58:55.956] launch_bar(DP-1): PID 2229095 alive OK
+[21:58:59.427] launch_bar(DP-2): starting waybar
+[21:58:59.430] launch_bar(DP-2): PID=2229967
+[21:58:59.732] launch_bar(DP-2): PID 2229967 alive OK
+[21:59:00.194] launch_bar(DP-1): starting waybar
+[21:59:00.197] launch_bar(DP-1): PID=2230106
+[21:59:00.499] launch_bar(DP-1): PID 2230106 alive OK
+[21:59:03.451] === autohide-multi.sh started (PID=2230664) ===
+[21:59:03.452] Killing existing waybar/autohide processes...
+[21:59:03.882] Existing processes killed, starting monitor detection
+[21:59:03.897] launch_bar(DP-2): starting waybar
+[21:59:03.900] launch_bar(DP-2): PID=2230686
+[21:59:04.202] launch_bar(DP-2): PID 2230686 alive OK
+[21:59:04.504] launch_bar(DP-1): starting waybar
+[21:59:04.507] launch_bar(DP-1): PID=2230748
+[21:59:04.809] launch_bar(DP-1): PID 2230748 alive OK
+[21:59:07.633] === autohide-multi.sh started (PID=2231164) ===
+[21:59:07.634] Killing existing waybar/autohide processes...
+[21:59:08.064] Existing processes killed, starting monitor detection
+[21:59:08.079] launch_bar(DP-2): starting waybar
+[21:59:08.082] launch_bar(DP-2): PID=2231186
+[21:59:08.384] launch_bar(DP-2): PID 2231186 alive OK
+[21:59:08.686] launch_bar(DP-1): starting waybar
+[21:59:08.689] launch_bar(DP-1): PID=2231232
+[21:59:08.991] launch_bar(DP-1): PID 2231232 alive OK
+[21:59:10.670] === autohide-multi.sh started (PID=2231414) ===
+[21:59:10.671] Killing existing waybar/autohide processes...
+[21:59:11.100] Existing processes killed, starting monitor detection
+[21:59:11.115] launch_bar(DP-2): starting waybar
+[21:59:11.118] launch_bar(DP-2): PID=2231436
+[21:59:11.420] launch_bar(DP-2): PID 2231436 alive OK
+[21:59:11.722] launch_bar(DP-1): starting waybar
+[21:59:11.725] launch_bar(DP-1): PID=2231482
+[21:59:12.028] launch_bar(DP-1): PID 2231482 alive OK
+[21:59:13.666] === autohide-multi.sh started (PID=2231665) ===
+[21:59:13.667] Killing existing waybar/autohide processes...
+[21:59:14.098] Existing processes killed, starting monitor detection
+[21:59:14.113] launch_bar(DP-2): starting waybar
+[21:59:14.116] launch_bar(DP-2): PID=2231687
+[21:59:14.418] launch_bar(DP-2): PID 2231687 alive OK
+[21:59:14.721] launch_bar(DP-1): starting waybar
+[21:59:14.724] launch_bar(DP-1): PID=2231756
+[21:59:15.026] launch_bar(DP-1): PID 2231756 alive OK
+[21:59:16.603] === autohide-multi.sh started (PID=2231921) ===
+[21:59:16.604] Killing existing waybar/autohide processes...
+[21:59:17.033] Existing processes killed, starting monitor detection
+[21:59:17.048] launch_bar(DP-2): starting waybar
+[21:59:17.051] launch_bar(DP-2): PID=2231943
+[21:59:17.353] launch_bar(DP-2): PID 2231943 alive OK
+[21:59:17.655] launch_bar(DP-1): starting waybar
+[21:59:17.658] launch_bar(DP-1): PID=2231989
+[21:59:17.960] launch_bar(DP-1): PID 2231989 alive OK
+[21:59:20.323] === autohide-multi.sh started (PID=2232319) ===
+[21:59:20.324] Killing existing waybar/autohide processes...
+[21:59:20.753] Existing processes killed, starting monitor detection
+[21:59:20.768] launch_bar(DP-2): starting waybar
+[21:59:20.770] launch_bar(DP-2): PID=2232341
+[21:59:21.073] launch_bar(DP-2): PID 2232341 alive OK
+[21:59:21.375] launch_bar(DP-1): starting waybar
+[21:59:21.378] launch_bar(DP-1): PID=2232387
+[21:59:21.680] launch_bar(DP-1): PID 2232387 alive OK
+[21:59:24.473] === autohide-multi.sh started (PID=2232786) ===
+[21:59:24.474] Killing existing waybar/autohide processes...
+[21:59:24.903] Existing processes killed, starting monitor detection
+[21:59:24.917] launch_bar(DP-2): starting waybar
+[21:59:24.920] launch_bar(DP-2): PID=2232808
+[21:59:25.222] launch_bar(DP-2): PID 2232808 alive OK
+[21:59:25.525] launch_bar(DP-1): starting waybar
+[21:59:25.528] launch_bar(DP-1): PID=2232870
+[21:59:25.830] launch_bar(DP-1): PID 2232870 alive OK
+[21:59:27.350] === autohide-multi.sh started (PID=2233056) ===
+[21:59:27.351] Killing existing waybar/autohide processes...
+[21:59:27.780] Existing processes killed, starting monitor detection
+[21:59:27.795] launch_bar(DP-2): starting waybar
+[21:59:27.798] launch_bar(DP-2): PID=2233078
+[21:59:28.100] launch_bar(DP-2): PID 2233078 alive OK
+[21:59:28.403] launch_bar(DP-1): starting waybar
+[21:59:28.406] launch_bar(DP-1): PID=2233124
+[21:59:28.708] launch_bar(DP-1): PID 2233124 alive OK
+[21:59:30.516] === autohide-multi.sh started (PID=2233337) ===
+[21:59:30.516] Killing existing waybar/autohide processes...
+[21:59:30.948] Existing processes killed, starting monitor detection
+[21:59:30.962] launch_bar(DP-2): starting waybar
+[21:59:30.965] launch_bar(DP-2): PID=2233359
+[21:59:31.267] launch_bar(DP-2): PID 2233359 alive OK
+[21:59:31.570] launch_bar(DP-1): starting waybar
+[21:59:31.572] launch_bar(DP-1): PID=2233405
+[21:59:31.875] launch_bar(DP-1): PID 2233405 alive OK
+[21:59:34.268] === autohide-multi.sh started (PID=2233723) ===
+[21:59:34.269] Killing existing waybar/autohide processes...
+[21:59:34.699] Existing processes killed, starting monitor detection
+[21:59:34.713] launch_bar(DP-2): starting waybar
+[21:59:34.716] launch_bar(DP-2): PID=2233745
+[21:59:35.018] launch_bar(DP-2): PID 2233745 alive OK
+[21:59:35.320] launch_bar(DP-1): starting waybar
+[21:59:35.323] launch_bar(DP-1): PID=2233791
+[21:59:35.626] launch_bar(DP-1): PID 2233791 alive OK
+[21:59:37.327] === autohide-multi.sh started (PID=2233974) ===
+[21:59:37.328] Killing existing waybar/autohide processes...
+[21:59:37.758] Existing processes killed, starting monitor detection
+[21:59:37.773] launch_bar(DP-2): starting waybar
+[21:59:37.776] launch_bar(DP-2): PID=2233996
+[21:59:38.078] launch_bar(DP-2): PID 2233996 alive OK
+[21:59:38.381] launch_bar(DP-1): starting waybar
+[21:59:38.384] launch_bar(DP-1): PID=2234059
+[21:59:38.686] launch_bar(DP-1): PID 2234059 alive OK
+[21:59:40.696] === autohide-multi.sh started (PID=2234342) ===
+[21:59:40.697] Killing existing waybar/autohide processes...
+[21:59:41.127] Existing processes killed, starting monitor detection
+[21:59:41.142] launch_bar(DP-2): starting waybar
+[21:59:41.145] launch_bar(DP-2): PID=2234364
+[21:59:41.447] launch_bar(DP-2): PID 2234364 alive OK
+[21:59:41.749] launch_bar(DP-1): starting waybar
+[21:59:41.752] launch_bar(DP-1): PID=2234410
+[21:59:42.055] launch_bar(DP-1): PID 2234410 alive OK
+[21:59:46.856] === autohide-multi.sh started (PID=2235291) ===
+[21:59:46.857] Killing existing waybar/autohide processes...
+[21:59:47.288] Existing processes killed, starting monitor detection
+[21:59:47.304] launch_bar(DP-2): starting waybar
+[21:59:47.307] launch_bar(DP-2): PID=2235313
+[21:59:47.609] launch_bar(DP-2): PID 2235313 alive OK
+[21:59:47.912] launch_bar(DP-1): starting waybar
+[21:59:47.915] launch_bar(DP-1): PID=2235359
+[21:59:48.218] launch_bar(DP-1): PID 2235359 alive OK
+[21:59:49.676] === autohide-multi.sh started (PID=2235487) ===
+[21:59:49.677] Killing existing waybar/autohide processes...
+[21:59:50.108] Existing processes killed, starting monitor detection
+[21:59:50.122] launch_bar(DP-2): starting waybar
+[21:59:50.125] launch_bar(DP-2): PID=2235509
+[21:59:50.427] launch_bar(DP-2): PID 2235509 alive OK
+[21:59:50.729] launch_bar(DP-1): starting waybar
+[21:59:50.732] launch_bar(DP-1): PID=2235579
+[21:59:51.035] launch_bar(DP-1): PID 2235579 alive OK
+[21:59:53.528] === autohide-multi.sh started (PID=2235932) ===
+[21:59:53.529] Killing existing waybar/autohide processes...
+[21:59:53.960] Existing processes killed, starting monitor detection
+[21:59:53.975] launch_bar(DP-2): starting waybar
+[21:59:53.978] launch_bar(DP-2): PID=2235954
+[21:59:54.280] launch_bar(DP-2): PID 2235954 alive OK
+[21:59:54.582] launch_bar(DP-1): starting waybar
+[21:59:54.585] launch_bar(DP-1): PID=2236000
+[21:59:54.888] launch_bar(DP-1): PID 2236000 alive OK
+[21:59:57.597] === autohide-multi.sh started (PID=2236385) ===
+[21:59:57.598] Killing existing waybar/autohide processes...
+[21:59:58.028] Existing processes killed, starting monitor detection
+[21:59:58.043] launch_bar(DP-2): starting waybar
+[21:59:58.046] launch_bar(DP-2): PID=2236407
+[21:59:58.348] launch_bar(DP-2): PID 2236407 alive OK
+[21:59:58.650] launch_bar(DP-1): starting waybar
+[21:59:58.653] launch_bar(DP-1): PID=2236453
+[21:59:58.955] launch_bar(DP-1): PID 2236453 alive OK
+[22:00:13.460] launch_bar(DP-1): starting waybar
+[22:00:13.463] launch_bar(DP-1): PID=2239249
+[22:00:13.765] launch_bar(DP-1): PID 2239249 alive OK
+[22:00:16.938] === autohide-multi.sh started (PID=2239861) ===
+[22:00:16.939] Killing existing waybar/autohide processes...
+[22:00:17.371] Existing processes killed, starting monitor detection
+[22:00:17.386] launch_bar(DP-2): starting waybar
+[22:00:17.388] launch_bar(DP-2): PID=2239883
+[22:00:17.691] launch_bar(DP-2): PID 2239883 alive OK
+[22:00:17.993] launch_bar(DP-1): starting waybar
+[22:00:17.996] launch_bar(DP-1): PID=2239953
+[22:00:18.298] launch_bar(DP-1): PID 2239953 alive OK
+[22:00:20.592] === autohide-multi.sh started (PID=2240262) ===
+[22:00:20.593] Killing existing waybar/autohide processes...
+[22:00:21.025] Existing processes killed, starting monitor detection
+[22:00:21.039] launch_bar(DP-2): starting waybar
+[22:00:21.042] launch_bar(DP-2): PID=2240284
+[22:00:21.344] launch_bar(DP-2): PID 2240284 alive OK
+[22:00:21.646] launch_bar(DP-1): starting waybar
+[22:00:21.649] launch_bar(DP-1): PID=2240330
+[22:00:21.951] launch_bar(DP-1): PID 2240330 alive OK
+[22:00:24.757] === autohide-multi.sh started (PID=2240727) ===
+[22:00:24.758] Killing existing waybar/autohide processes...
+[22:00:25.188] Existing processes killed, starting monitor detection
+[22:00:25.204] launch_bar(DP-2): starting waybar
+[22:00:25.207] launch_bar(DP-2): PID=2240749
+[22:00:25.509] launch_bar(DP-2): PID 2240749 alive OK
+[22:00:25.811] launch_bar(DP-1): starting waybar
+[22:00:25.814] launch_bar(DP-1): PID=2240795
+[22:00:26.116] launch_bar(DP-1): PID 2240795 alive OK
+[22:00:29.061] === autohide-multi.sh started (PID=2241268) ===
+[22:00:29.062] Killing existing waybar/autohide processes...
+[22:00:29.492] Existing processes killed, starting monitor detection
+[22:00:29.507] launch_bar(DP-2): starting waybar
+[22:00:29.510] launch_bar(DP-2): PID=2241290
+[22:00:29.812] launch_bar(DP-2): PID 2241290 alive OK
+[22:00:30.114] launch_bar(DP-1): starting waybar
+[22:00:30.117] launch_bar(DP-1): PID=2241355
+[22:00:30.420] launch_bar(DP-1): PID 2241355 alive OK
+[22:00:31.209] === autohide-multi.sh started (PID=2241455) ===
+[22:00:31.210] Killing existing waybar/autohide processes...
+[22:00:31.642] Existing processes killed, starting monitor detection
+[22:00:31.656] launch_bar(DP-2): starting waybar
+[22:00:31.658] launch_bar(DP-2): PID=2241516
+[22:00:31.960] launch_bar(DP-2): PID 2241516 alive OK
+[22:00:32.262] launch_bar(DP-1): starting waybar
+[22:00:32.265] launch_bar(DP-1): PID=2241562
+[22:00:32.568] launch_bar(DP-1): PID 2241562 alive OK
+[22:00:36.429] === autohide-multi.sh started (PID=2242191) ===
+[22:00:36.430] Killing existing waybar/autohide processes...
+[22:00:36.862] Existing processes killed, starting monitor detection
+[22:00:36.877] launch_bar(DP-2): starting waybar
+[22:00:36.880] launch_bar(DP-2): PID=2242213
+[22:00:37.182] launch_bar(DP-2): PID 2242213 alive OK
+[22:00:37.484] launch_bar(DP-1): starting waybar
+[22:00:37.487] launch_bar(DP-1): PID=2242259
+[22:00:37.789] launch_bar(DP-1): PID 2242259 alive OK
+[22:00:41.641] === autohide-multi.sh started (PID=2242851) ===
+[22:00:41.642] Killing existing waybar/autohide processes...
+[22:00:42.071] Existing processes killed, starting monitor detection
+[22:00:42.085] launch_bar(DP-2): starting waybar
+[22:00:42.088] launch_bar(DP-2): PID=2242873
+[22:00:42.391] launch_bar(DP-2): PID 2242873 alive OK
+[22:00:42.693] launch_bar(DP-1): starting waybar
+[22:00:42.696] launch_bar(DP-1): PID=2242942
+[22:00:42.998] launch_bar(DP-1): PID 2242942 alive OK
+[22:00:44.425] === autohide-multi.sh started (PID=2243108) ===
+[22:00:44.426] Killing existing waybar/autohide processes...
+[22:00:44.857] Existing processes killed, starting monitor detection
+[22:00:44.872] launch_bar(DP-2): starting waybar
+[22:00:44.874] launch_bar(DP-2): PID=2243130
+[22:00:45.177] launch_bar(DP-2): PID 2243130 alive OK
+[22:00:45.479] launch_bar(DP-1): starting waybar
+[22:00:45.482] launch_bar(DP-1): PID=2243176
+[22:00:45.784] launch_bar(DP-1): PID 2243176 alive OK
+[22:00:49.400] === autohide-multi.sh started (PID=2243739) ===
+[22:00:49.400] Killing existing waybar/autohide processes...
+[22:00:49.831] Existing processes killed, starting monitor detection
+[22:00:49.846] launch_bar(DP-2): starting waybar
+[22:00:49.849] launch_bar(DP-2): PID=2243761
+[22:00:50.151] launch_bar(DP-2): PID 2243761 alive OK
+[22:00:50.453] launch_bar(DP-1): starting waybar
+[22:00:50.456] launch_bar(DP-1): PID=2243807
+[22:00:50.758] launch_bar(DP-1): PID 2243807 alive OK
+[22:00:54.880] === autohide-multi.sh started (PID=2244447) ===
+[22:00:54.881] Killing existing waybar/autohide processes...
+[22:00:55.310] Existing processes killed, starting monitor detection
+[22:00:55.325] launch_bar(DP-2): starting waybar
+[22:00:55.328] launch_bar(DP-2): PID=2244469
+[22:00:55.630] launch_bar(DP-2): PID 2244469 alive OK
+[22:00:55.932] launch_bar(DP-1): starting waybar
+[22:00:55.936] launch_bar(DP-1): PID=2244539
+[22:00:56.238] launch_bar(DP-1): PID 2244539 alive OK
+[22:00:58.977] === autohide-multi.sh started (PID=2244955) ===
+[22:00:58.978] Killing existing waybar/autohide processes...
+[22:00:59.407] Existing processes killed, starting monitor detection
+[22:00:59.422] launch_bar(DP-2): starting waybar
+[22:00:59.425] launch_bar(DP-2): PID=2244977
+[22:00:59.727] launch_bar(DP-2): PID 2244977 alive OK
+[22:01:00.030] launch_bar(DP-1): starting waybar
+[22:01:00.033] launch_bar(DP-1): PID=2245023
+[22:01:00.335] launch_bar(DP-1): PID 2245023 alive OK
+[22:01:04.652] === autohide-multi.sh started (PID=2245727) ===
+[22:01:04.653] Killing existing waybar/autohide processes...
+[22:01:05.082] Existing processes killed, starting monitor detection
+[22:01:05.097] launch_bar(DP-2): starting waybar
+[22:01:05.100] launch_bar(DP-2): PID=2245749
+[22:01:05.402] launch_bar(DP-2): PID 2245749 alive OK
+[22:01:05.704] launch_bar(DP-1): starting waybar
+[22:01:05.707] launch_bar(DP-1): PID=2245795
+[22:01:06.009] launch_bar(DP-1): PID 2245795 alive OK
+[22:01:10.133] === autohide-multi.sh started (PID=2246465) ===
+[22:01:10.134] Killing existing waybar/autohide processes...
+[22:01:10.564] Existing processes killed, starting monitor detection
+[22:01:10.579] launch_bar(DP-2): starting waybar
+[22:01:10.581] launch_bar(DP-2): PID=2246488
+[22:01:10.884] launch_bar(DP-2): PID 2246488 alive OK
+[22:01:11.186] launch_bar(DP-1): starting waybar
+[22:01:11.189] launch_bar(DP-1): PID=2246557
+[22:01:11.491] launch_bar(DP-1): PID 2246557 alive OK
+[22:01:14.255] === autohide-multi.sh started (PID=2246983) ===
+[22:01:14.255] Killing existing waybar/autohide processes...
+[22:01:14.686] Existing processes killed, starting monitor detection
+[22:01:14.701] launch_bar(DP-2): starting waybar
+[22:01:14.703] launch_bar(DP-2): PID=2247005
+[22:01:15.005] launch_bar(DP-2): PID 2247005 alive OK
+[22:01:15.307] launch_bar(DP-1): starting waybar
+[22:01:15.310] launch_bar(DP-1): PID=2247051
+[22:01:15.613] launch_bar(DP-1): PID 2247051 alive OK
+[22:01:20.020] === autohide-multi.sh started (PID=2247783) ===
+[22:01:20.020] Killing existing waybar/autohide processes...
+[22:01:20.451] Existing processes killed, starting monitor detection
+[22:01:20.466] launch_bar(DP-2): starting waybar
+[22:01:20.468] launch_bar(DP-2): PID=2247805
+[22:01:20.771] launch_bar(DP-2): PID 2247805 alive OK
+[22:01:21.073] launch_bar(DP-1): starting waybar
+[22:01:21.076] launch_bar(DP-1): PID=2247851
+[22:01:21.378] launch_bar(DP-1): PID 2247851 alive OK
+[22:01:24.668] === autohide-multi.sh started (PID=2248364) ===
+[22:01:24.668] Killing existing waybar/autohide processes...
+[22:01:25.098] Existing processes killed, starting monitor detection
+[22:01:25.112] launch_bar(DP-2): starting waybar
+[22:01:25.115] launch_bar(DP-2): PID=2248386
+[22:01:25.417] launch_bar(DP-2): PID 2248386 alive OK
+[22:01:25.719] launch_bar(DP-1): starting waybar
+[22:01:25.722] launch_bar(DP-1): PID=2248456
+[22:01:26.025] launch_bar(DP-1): PID 2248456 alive OK
+[22:01:29.619] === autohide-multi.sh started (PID=2249038) ===
+[22:01:29.620] Killing existing waybar/autohide processes...
+[22:01:30.050] Existing processes killed, starting monitor detection
+[22:01:30.065] launch_bar(DP-2): starting waybar
+[22:01:30.068] launch_bar(DP-2): PID=2249060
+[22:01:30.370] launch_bar(DP-2): PID 2249060 alive OK
+[22:01:30.672] launch_bar(DP-1): starting waybar
+[22:01:30.675] launch_bar(DP-1): PID=2249106
+[22:01:30.977] launch_bar(DP-1): PID 2249106 alive OK
+[22:01:34.013] === autohide-multi.sh started (PID=2249529) ===
+[22:01:34.014] Killing existing waybar/autohide processes...
+[22:01:34.444] Existing processes killed, starting monitor detection
+[22:01:34.460] launch_bar(DP-2): starting waybar
+[22:01:34.462] launch_bar(DP-2): PID=2249551
+[22:01:34.765] launch_bar(DP-2): PID 2249551 alive OK
+[22:01:35.067] launch_bar(DP-1): starting waybar
+[22:01:35.070] launch_bar(DP-1): PID=2249597
+[22:01:35.372] launch_bar(DP-1): PID 2249597 alive OK
+[22:01:37.107] === autohide-multi.sh started (PID=2249770) ===
+[22:01:37.108] Killing existing waybar/autohide processes...
+[22:01:37.539] Existing processes killed, starting monitor detection
+[22:01:37.554] launch_bar(DP-2): starting waybar
+[22:01:37.557] launch_bar(DP-2): PID=2249794
+[22:01:37.859] launch_bar(DP-2): PID 2249794 alive OK
+[22:01:38.161] launch_bar(DP-1): starting waybar
+[22:01:38.164] launch_bar(DP-1): PID=2249861
+[22:01:38.466] launch_bar(DP-1): PID 2249861 alive OK
+[22:01:44.039] === autohide-multi.sh started (PID=2250776) ===
+[22:01:44.040] Killing existing waybar/autohide processes...
+[22:01:44.469] Existing processes killed, starting monitor detection
+[22:01:44.484] launch_bar(DP-2): starting waybar
+[22:01:44.487] launch_bar(DP-2): PID=2250798
+[22:01:44.789] launch_bar(DP-2): PID 2250798 alive OK
+[22:01:45.092] launch_bar(DP-1): starting waybar
+[22:01:45.095] launch_bar(DP-1): PID=2250844
+[22:01:45.397] launch_bar(DP-1): PID 2250844 alive OK
+[23:02:13.208] launch_bar(DP-2): starting waybar
+[23:02:13.210] launch_bar(DP-2): PID=2939974
+[23:02:13.513] launch_bar(DP-2): PID 2939974 alive OK
+[23:02:16.438] launch_bar(DP-2): starting waybar
+[23:02:16.441] launch_bar(DP-2): PID=2940612
+[23:02:16.743] launch_bar(DP-2): PID 2940612 alive OK
+[23:02:18.654] launch_bar(DP-2): starting waybar
+[23:02:18.657] launch_bar(DP-2): PID=2941031
+[23:02:18.959] launch_bar(DP-2): PID 2941031 alive OK
+[23:07:55.716] launch_bar(DP-1): starting waybar
+[23:07:55.719] launch_bar(DP-1): PID=3005125
+[23:07:56.021] launch_bar(DP-1): PID 3005125 alive OK
+[23:10:46.210] launch_bar(DP-2): starting waybar
+[23:10:46.214] launch_bar(DP-2): PID=3038153
+[23:10:46.516] launch_bar(DP-2): PID 3038153 alive OK
+[23:11:01.419] launch_bar(DP-2): starting waybar
+[23:11:01.422] launch_bar(DP-2): PID=3041358
+[23:11:01.724] launch_bar(DP-2): PID 3041358 alive OK
+[23:12:46.766] launch_bar(DP-2): starting waybar
+[23:12:46.770] launch_bar(DP-2): PID=3061349
+[23:12:47.072] launch_bar(DP-2): PID 3061349 alive OK
+[23:13:30.003] launch_bar(DP-2): starting waybar
+[23:13:30.006] launch_bar(DP-2): PID=3070179
+[23:13:30.308] launch_bar(DP-2): PID 3070179 alive OK
+[23:17:24.103] launch_bar(DP-2): starting waybar
+[23:17:24.105] launch_bar(DP-2): PID=3121037
+[23:17:24.408] launch_bar(DP-2): PID 3121037 alive OK
+[23:17:24.862] launch_bar(DP-1): starting waybar
+[23:17:24.865] launch_bar(DP-1): PID=3121201
+[23:17:25.167] launch_bar(DP-1): PID 3121201 alive OK
+[23:17:28.050] launch_bar(DP-1): starting waybar
+[23:17:28.053] launch_bar(DP-1): PID=3121780
+[23:17:28.355] launch_bar(DP-1): PID 3121780 alive OK
+[23:17:55.537] === autohide-multi.sh started (PID=3127271) ===
+[23:17:55.537] Killing existing waybar/autohide processes...
+[23:17:55.969] Existing processes killed, starting monitor detection
+[23:17:55.984] launch_bar(DP-2): starting waybar
+[23:17:55.987] launch_bar(DP-2): PID=3127293
+[23:17:56.289] launch_bar(DP-2): PID 3127293 alive OK
+[23:17:56.591] launch_bar(DP-1): starting waybar
+[23:17:56.594] launch_bar(DP-1): PID=3127358
+[23:17:56.896] launch_bar(DP-1): PID 3127358 alive OK
+[23:17:57.768] === autohide-multi.sh started (PID=3127456) ===
+[23:17:57.769] Killing existing waybar/autohide processes...
+[23:17:58.201] Existing processes killed, starting monitor detection
+[23:17:58.217] launch_bar(DP-2): starting waybar
+[23:17:58.219] launch_bar(DP-2): PID=3127517
+[23:17:58.521] launch_bar(DP-2): PID 3127517 alive OK
+[23:17:58.823] launch_bar(DP-1): starting waybar
+[23:17:58.826] launch_bar(DP-1): PID=3127563
+[23:17:59.128] launch_bar(DP-1): PID 3127563 alive OK
+[23:18:04.105] launch_bar(DP-1): starting waybar
+[23:18:04.108] launch_bar(DP-1): PID=3128577
+[23:18:04.410] launch_bar(DP-1): PID 3128577 alive OK
+[23:18:05.572] launch_bar(DP-1): starting waybar
+[23:18:05.575] launch_bar(DP-1): PID=3128834
+[23:18:05.877] launch_bar(DP-1): PID 3128834 alive OK
+[23:18:21.919] launch_bar(DP-2): starting waybar
+[23:18:21.922] launch_bar(DP-2): PID=3132322
+[23:18:22.224] launch_bar(DP-2): PID 3132322 alive OK
+[23:18:23.385] launch_bar(DP-2): starting waybar
+[23:18:23.387] launch_bar(DP-2): PID=3132582
+[23:18:23.689] launch_bar(DP-2): PID 3132582 alive OK
+[23:18:45.402] launch_bar(DP-1): starting waybar
+[23:18:45.405] launch_bar(DP-1): PID=3137926
+[23:18:45.707] launch_bar(DP-1): PID 3137926 alive OK
+[23:18:48.000] launch_bar(DP-2): starting waybar
+[23:18:48.003] launch_bar(DP-2): PID=3138389
+[23:18:48.305] launch_bar(DP-2): PID 3138389 alive OK
+[23:18:52.999] === autohide-multi.sh started (PID=3139290) ===
+[23:18:53.000] Killing existing waybar/autohide processes...
+[23:18:53.431] Existing processes killed, starting monitor detection
+[23:18:53.446] launch_bar(DP-2): starting waybar
+[23:18:53.449] launch_bar(DP-2): PID=3139314
+[23:18:53.752] launch_bar(DP-2): PID 3139314 alive OK
+[23:18:54.531] === autohide-multi.sh started (PID=3139440) ===
+[23:18:54.532] Killing existing waybar/autohide processes...
+[23:18:54.964] Existing processes killed, starting monitor detection
+[23:18:54.979] launch_bar(DP-2): starting waybar
+[23:18:54.982] launch_bar(DP-2): PID=3139463
+[23:18:55.284] launch_bar(DP-2): PID 3139463 alive OK
+[23:18:55.587] launch_bar(DP-1): starting waybar
+[23:18:55.590] launch_bar(DP-1): PID=3139547
+[23:18:55.892] launch_bar(DP-1): PID 3139547 alive OK
+[23:19:01.669] === autohide-multi.sh started (PID=3140540) ===
+[23:19:01.670] Killing existing waybar/autohide processes...
+[23:19:02.101] Existing processes killed, starting monitor detection
+[23:19:02.116] launch_bar(DP-2): starting waybar
+[23:19:02.119] launch_bar(DP-2): PID=3140566
+[23:19:02.421] launch_bar(DP-2): PID 3140566 alive OK
+[23:19:02.724] launch_bar(DP-1): starting waybar
+[23:19:02.727] launch_bar(DP-1): PID=3140612
+[23:19:03.029] launch_bar(DP-1): PID 3140612 alive OK
+[23:19:14.774] === autohide-multi.sh started (PID=3142682) ===
+[23:19:14.775] Killing existing waybar/autohide processes...
+[23:19:15.206] Existing processes killed, starting monitor detection
+[23:19:15.220] launch_bar(DP-2): starting waybar
+[23:19:15.223] launch_bar(DP-2): PID=3142704
+[23:19:15.525] launch_bar(DP-2): PID 3142704 alive OK
+[23:19:15.828] launch_bar(DP-1): starting waybar
+[23:19:15.830] launch_bar(DP-1): PID=3142768
+[23:19:16.504] === autohide-multi.sh started (PID=3142830) ===
+[23:19:16.505] Killing existing waybar/autohide processes...
+[23:19:16.935] Existing processes killed, starting monitor detection
+[23:19:16.950] launch_bar(DP-2): starting waybar
+[23:19:16.953] launch_bar(DP-2): PID=3142852
+[23:19:17.255] launch_bar(DP-2): PID 3142852 alive OK
+[23:19:17.557] launch_bar(DP-1): starting waybar
+[23:19:17.560] launch_bar(DP-1): PID=3142938
+[23:19:17.863] launch_bar(DP-1): PID 3142938 alive OK
+[23:19:34.723] launch_bar(DP-2): starting waybar
+[23:19:34.726] launch_bar(DP-2): PID=3146140
+[23:19:35.028] launch_bar(DP-2): PID 3146140 alive OK
+[23:22:43.086] === autohide-multi.sh started (PID=3183593) ===
+[23:22:43.087] Killing existing waybar/autohide processes...
+[23:22:43.517] Existing processes killed, starting monitor detection
+[23:22:43.533] launch_bar(DP-2): starting waybar
+[23:22:43.535] launch_bar(DP-2): PID=3183615
+[23:22:43.838] launch_bar(DP-2): PID 3183615 alive OK
+[23:22:44.140] launch_bar(DP-1): starting waybar
+[23:22:44.144] launch_bar(DP-1): PID=3183680
+[23:22:44.446] launch_bar(DP-1): PID 3183680 alive OK
+[23:22:45.623] === autohide-multi.sh started (PID=3183778) ===
+[23:22:45.624] Killing existing waybar/autohide processes...
+[23:22:46.055] Existing processes killed, starting monitor detection
+[23:22:46.070] launch_bar(DP-2): starting waybar
+[23:22:46.073] launch_bar(DP-2): PID=3183840
+[23:22:46.375] launch_bar(DP-2): PID 3183840 alive OK
+[23:22:46.677] launch_bar(DP-1): starting waybar
+[23:22:46.680] launch_bar(DP-1): PID=3183886
+[23:22:46.983] launch_bar(DP-1): PID 3183886 alive OK
+[23:22:49.849] === autohide-multi.sh started (PID=3184277) ===
+[23:22:49.850] Killing existing waybar/autohide processes...
+[23:22:50.282] Existing processes killed, starting monitor detection
+[23:22:50.296] launch_bar(DP-2): starting waybar
+[23:22:50.299] launch_bar(DP-2): PID=3184299
+[23:22:50.601] launch_bar(DP-2): PID 3184299 alive OK
+[23:22:50.903] launch_bar(DP-1): starting waybar
+[23:22:50.907] launch_bar(DP-1): PID=3184345
+[23:22:51.209] launch_bar(DP-1): PID 3184345 alive OK
+[23:22:53.974] === autohide-multi.sh started (PID=3184716) ===
+[23:22:53.975] Killing existing waybar/autohide processes...
+[23:22:54.404] Existing processes killed, starting monitor detection
+[23:22:54.419] launch_bar(DP-2): starting waybar
+[23:22:54.422] launch_bar(DP-2): PID=3184738
+[23:22:54.724] launch_bar(DP-2): PID 3184738 alive OK
+[23:22:55.027] launch_bar(DP-1): starting waybar
+[23:22:55.030] launch_bar(DP-1): PID=3184800
+[23:22:55.333] launch_bar(DP-1): PID 3184800 alive OK
+[23:22:56.885] launch_bar(DP-1): starting waybar
+[23:22:56.888] launch_bar(DP-1): PID=3185062
+[23:22:57.190] launch_bar(DP-1): PID 3185062 alive OK
+[23:22:58.806] launch_bar(DP-1): starting waybar
+[23:22:58.809] launch_bar(DP-1): PID=3185414
+[23:22:59.111] launch_bar(DP-1): PID 3185414 alive OK
+[23:23:00.132] launch_bar(DP-1): starting waybar
+[23:23:00.134] launch_bar(DP-1): PID=3185646
+[23:23:00.436] launch_bar(DP-1): PID 3185646 alive OK
+[23:23:01.303] launch_bar(DP-2): starting waybar
+[23:23:01.305] launch_bar(DP-2): PID=3185845
+[23:23:01.608] launch_bar(DP-2): PID 3185845 alive OK
+[23:24:03.171] === autohide-multi.sh started (PID=3201804) ===
+[23:24:03.172] Killing existing waybar/autohide processes...
+[23:24:03.602] Existing processes killed, starting monitor detection
+[23:24:03.617] launch_bar(DP-2): starting waybar
+[23:24:03.620] launch_bar(DP-2): PID=3201826
+[23:24:03.922] launch_bar(DP-2): PID 3201826 alive OK
+[23:24:04.225] launch_bar(DP-1): starting waybar
+[23:24:04.228] launch_bar(DP-1): PID=3201897
+[23:24:04.531] launch_bar(DP-1): PID 3201897 alive OK
+[23:24:12.730] launch_bar(DP-1): starting waybar
+[23:24:12.733] launch_bar(DP-1): PID=3203504
+[23:24:13.035] launch_bar(DP-1): PID 3203504 alive OK
+[23:24:16.722] === autohide-multi.sh started (PID=3204146) ===
+[23:24:16.723] Killing existing waybar/autohide processes...
+[23:24:17.156] Existing processes killed, starting monitor detection
+[23:24:17.171] launch_bar(DP-2): starting waybar
+[23:24:17.174] launch_bar(DP-2): PID=3204168
+[23:24:17.476] launch_bar(DP-2): PID 3204168 alive OK
+[23:24:17.779] launch_bar(DP-1): starting waybar
+[23:24:17.782] launch_bar(DP-1): PID=3204230
+[23:24:18.084] launch_bar(DP-1): PID 3204230 alive OK
+[23:24:44.792] launch_bar(DP-2): starting waybar
+[23:24:44.795] launch_bar(DP-2): PID=3209267
+[23:24:45.097] launch_bar(DP-2): PID 3209267 alive OK
+[23:25:58.426] launch_bar(DP-2): starting waybar
+[23:25:58.429] launch_bar(DP-2): PID=3223307
+[23:25:58.731] launch_bar(DP-2): PID 3223307 alive OK
+[23:30:55.333] launch_bar(DP-2): starting waybar
+[23:30:55.336] launch_bar(DP-2): PID=3280223
+[23:30:55.638] launch_bar(DP-2): PID 3280223 alive OK
+[23:32:48.980] launch_bar(DP-1): starting waybar
+[23:32:48.983] launch_bar(DP-1): PID=3303228
+[23:32:49.285] launch_bar(DP-1): PID 3303228 alive OK
+[23:33:41.719] launch_bar(DP-1): starting waybar
+[23:33:41.722] launch_bar(DP-1): PID=3315409
+[23:33:42.024] launch_bar(DP-1): PID 3315409 alive OK
+[23:36:06.862] launch_bar(DP-1): starting waybar
+[23:36:06.866] launch_bar(DP-1): PID=3343906
+[23:36:07.168] launch_bar(DP-1): PID 3343906 alive OK
+[23:36:09.911] launch_bar(DP-1): starting waybar
+[23:36:09.914] launch_bar(DP-1): PID=3344465
+[23:36:10.217] launch_bar(DP-1): PID 3344465 alive OK
+[23:36:31.931] launch_bar(DP-1): starting waybar
+[23:36:31.934] launch_bar(DP-1): PID=3348717
+[23:36:32.237] launch_bar(DP-1): PID 3348717 alive OK
+[23:36:33.397] launch_bar(DP-1): starting waybar
+[23:36:33.400] launch_bar(DP-1): PID=3349152
+[23:36:33.702] launch_bar(DP-1): PID 3349152 alive OK
+[23:36:36.013] launch_bar(DP-2): starting waybar
+[23:36:36.016] launch_bar(DP-2): PID=3349625
+[23:36:36.319] launch_bar(DP-2): PID 3349625 alive OK
+[23:36:46.170] launch_bar(DP-2): starting waybar
+[23:36:46.173] launch_bar(DP-2): PID=3351562
+[23:36:46.475] launch_bar(DP-2): PID 3351562 alive OK
+[23:36:54.849] launch_bar(DP-2): starting waybar
+[23:36:54.852] launch_bar(DP-2): PID=3353261
+[23:36:55.154] launch_bar(DP-2): PID 3353261 alive OK
+[23:36:56.177] launch_bar(DP-1): starting waybar
+[23:36:56.180] launch_bar(DP-1): PID=3353499
+[23:36:56.482] launch_bar(DP-1): PID 3353499 alive OK
+[23:36:58.649] launch_bar(DP-2): starting waybar
+[23:36:58.652] launch_bar(DP-2): PID=3353943
+[23:36:58.954] launch_bar(DP-2): PID 3353943 alive OK
+[23:38:02.953] launch_bar(DP-2): starting waybar
+[23:38:02.956] launch_bar(DP-2): PID=3366087
+[23:38:03.258] launch_bar(DP-2): PID 3366087 alive OK
+[23:38:19.671] launch_bar(DP-2): starting waybar
+[23:38:19.674] launch_bar(DP-2): PID=3369330
+[23:38:19.976] launch_bar(DP-2): PID 3369330 alive OK
+[23:38:24.868] launch_bar(DP-2): starting waybar
+[23:38:24.871] launch_bar(DP-2): PID=3370288
+[23:38:25.174] launch_bar(DP-2): PID 3370288 alive OK
+[23:39:06.256] launch_bar(DP-1): starting waybar
+[23:39:06.259] launch_bar(DP-1): PID=3378093
+[23:39:06.562] launch_bar(DP-1): PID 3378093 alive OK
+[23:39:08.471] launch_bar(DP-2): starting waybar
+[23:39:08.474] launch_bar(DP-2): PID=3378496
+[23:39:08.777] launch_bar(DP-2): PID 3378496 alive OK
+[23:39:09.795] launch_bar(DP-1): starting waybar
+[23:39:09.798] launch_bar(DP-1): PID=3378730
+[23:39:10.100] launch_bar(DP-1): PID 3378730 alive OK
+[23:39:40.162] launch_bar(DP-1): starting waybar
+[23:39:40.165] launch_bar(DP-1): PID=3384488
+[23:39:40.468] launch_bar(DP-1): PID 3384488 alive OK
+[23:50:22.300] launch_bar(DP-1): starting waybar
+[23:50:22.302] launch_bar(DP-1): PID=3506800
+[23:50:22.605] launch_bar(DP-1): PID 3506800 alive OK
+[23:54:37.896] launch_bar(DP-1): starting waybar
+[23:54:37.899] launch_bar(DP-1): PID=3555035
+[23:54:38.202] launch_bar(DP-1): PID 3555035 alive OK
+[23:54:40.780] launch_bar(DP-1): starting waybar
+[23:54:40.782] launch_bar(DP-1): PID=3555563
+[23:54:41.085] launch_bar(DP-1): PID 3555563 alive OK
+[23:54:45.384] launch_bar(DP-1): starting waybar
+[23:54:45.387] launch_bar(DP-1): PID=3556429
+[23:54:45.689] launch_bar(DP-1): PID 3556429 alive OK
+[23:54:52.554] launch_bar(DP-1): starting waybar
+[23:54:52.557] launch_bar(DP-1): PID=3557768
+[23:54:52.860] launch_bar(DP-1): PID 3557768 alive OK
+[23:55:13.600] launch_bar(DP-1): starting waybar
+[23:55:13.603] launch_bar(DP-1): PID=3561736
+[23:55:13.906] launch_bar(DP-1): PID 3561736 alive OK
+[23:55:15.201] launch_bar(DP-1): starting waybar
+[23:55:15.204] launch_bar(DP-1): PID=3562020
+[23:55:15.507] launch_bar(DP-1): PID 3562020 alive OK
+[23:55:42.556] launch_bar(DP-1): starting waybar
+[23:55:42.559] launch_bar(DP-1): PID=3567202
+[23:55:42.861] launch_bar(DP-1): PID 3567202 alive OK
+[00:00:41.146] launch_bar(DP-2): starting waybar
+[00:00:41.149] launch_bar(DP-2): PID=3623755
+[00:00:41.452] launch_bar(DP-2): PID 3623755 alive OK
+[00:00:51.202] launch_bar(DP-1): starting waybar
+[00:00:51.205] launch_bar(DP-1): PID=3625753
+[00:00:51.507] launch_bar(DP-1): PID 3625753 alive OK
+[00:21:45.752] launch_bar(DP-2): starting waybar
+[00:21:45.755] launch_bar(DP-2): PID=3862571
+[00:21:46.058] launch_bar(DP-2): PID 3862571 alive OK
+[00:22:00.343] launch_bar(DP-2): starting waybar
+[00:22:00.346] launch_bar(DP-2): PID=3865362
+[00:22:00.649] launch_bar(DP-2): PID 3865362 alive OK
+[00:22:03.259] launch_bar(DP-1): starting waybar
+[00:22:03.262] launch_bar(DP-1): PID=3865901
+[00:22:03.564] launch_bar(DP-1): PID 3865901 alive OK
+[00:33:23.402] launch_bar(DP-1): starting waybar
+[00:33:23.405] launch_bar(DP-1): PID=3995735
+[00:33:23.708] launch_bar(DP-1): PID 3995735 alive OK
+[00:59:48.546] launch_bar(DP-1): starting waybar
+[00:59:48.549] launch_bar(DP-1): PID=101763
+[00:59:48.851] launch_bar(DP-1): PID 101763 alive OK
+[00:59:52.883] launch_bar(DP-1): starting waybar
+[00:59:52.886] launch_bar(DP-1): PID=102582
+[00:59:53.189] launch_bar(DP-1): PID 102582 alive OK
+[00:59:55.152] === autohide-multi.sh started (PID=102909) ===
+[00:59:55.153] Killing existing waybar/autohide processes...
+[00:59:55.583] Existing processes killed, starting monitor detection
+[00:59:55.598] launch_bar(DP-2): starting waybar
+[00:59:55.600] launch_bar(DP-2): PID=102931
+[00:59:55.903] launch_bar(DP-2): PID 102931 alive OK
+[00:59:56.205] launch_bar(DP-1): starting waybar
+[00:59:56.208] launch_bar(DP-1): PID=103000
+[00:59:56.510] launch_bar(DP-1): PID 103000 alive OK
+[01:12:49.618] launch_bar(DP-2): starting waybar
+[01:12:49.620] launch_bar(DP-2): PID=251350
+[01:12:49.923] launch_bar(DP-2): PID 251350 alive OK
+[01:14:22.929] launch_bar(DP-1): starting waybar
+[01:14:22.932] launch_bar(DP-1): PID=270604
+[01:14:23.234] launch_bar(DP-1): PID 270604 alive OK
+[01:17:44.749] launch_bar(DP-2): starting waybar
+[01:17:44.752] launch_bar(DP-2): PID=313407
+[01:17:45.054] launch_bar(DP-2): PID 313407 alive OK
+[01:21:36.721] launch_bar(DP-1): starting waybar
+[01:21:36.724] launch_bar(DP-1): PID=360581
+[01:21:37.027] launch_bar(DP-1): PID 360581 alive OK
+[01:30:53.257] launch_bar(DP-2): starting waybar
+[01:30:53.260] launch_bar(DP-2): PID=472946
+[01:30:53.563] launch_bar(DP-2): PID 472946 alive OK
+[01:35:39.246] launch_bar(DP-2): starting waybar
+[01:35:39.248] launch_bar(DP-2): PID=530579
+[01:35:39.551] launch_bar(DP-2): PID 530579 alive OK
+[01:39:19.658] launch_bar(DP-2): starting waybar
+[01:39:19.661] launch_bar(DP-2): PID=574270
+[01:39:19.963] launch_bar(DP-2): PID 574270 alive OK
+[01:41:26.438] launch_bar(DP-1): starting waybar
+[01:41:26.441] launch_bar(DP-1): PID=599924
+[01:41:26.744] launch_bar(DP-1): PID 599924 alive OK
+[01:41:34.045] launch_bar(DP-1): starting waybar
+[01:41:34.048] launch_bar(DP-1): PID=601341
+[01:41:34.350] launch_bar(DP-1): PID 601341 alive OK
+[01:54:18.390] launch_bar(DP-1): starting waybar
+[01:54:18.393] launch_bar(DP-1): PID=747531
+[01:54:18.696] launch_bar(DP-1): PID 747531 alive OK
+[01:57:17.414] launch_bar(DP-2): starting waybar
+[01:57:17.417] launch_bar(DP-2): PID=781398
+[01:57:17.719] launch_bar(DP-2): PID 781398 alive OK
+[01:57:35.498] launch_bar(DP-2): starting waybar
+[01:57:35.501] launch_bar(DP-2): PID=784798
+[01:57:35.804] launch_bar(DP-2): PID 784798 alive OK
+[01:58:39.025] launch_bar(DP-1): starting waybar
+[01:58:39.028] launch_bar(DP-1): PID=796904
+[01:58:39.331] launch_bar(DP-1): PID 796904 alive OK
+[02:00:05.661] launch_bar(DP-1): starting waybar
+[02:00:05.664] launch_bar(DP-1): PID=813270
+[02:00:05.966] launch_bar(DP-1): PID 813270 alive OK
+[02:00:21.210] launch_bar(DP-1): starting waybar
+[02:00:21.213] launch_bar(DP-1): PID=816202
+[02:00:21.515] launch_bar(DP-1): PID 816202 alive OK
+[02:02:17.934] launch_bar(DP-1): starting waybar
+[02:02:17.937] launch_bar(DP-1): PID=839052
+[02:02:18.239] launch_bar(DP-1): PID 839052 alive OK
+[02:02:40.579] launch_bar(DP-1): starting waybar
+[02:02:40.582] launch_bar(DP-1): PID=843309
+[02:02:40.884] launch_bar(DP-1): PID 843309 alive OK
+[02:02:43.777] launch_bar(DP-1): starting waybar
+[02:02:43.780] launch_bar(DP-1): PID=844024
+[02:02:44.082] launch_bar(DP-1): PID 844024 alive OK
+[02:02:44.795] launch_bar(DP-1): starting waybar
+[02:02:44.798] launch_bar(DP-1): PID=844268
+[02:02:45.101] launch_bar(DP-1): PID 844268 died, retrying...
+[09:46:09.802] === autohide-multi.sh started (PID=1989) ===
+[09:46:09.803] Killing existing waybar/autohide processes...
+[09:46:10.232] Existing processes killed, starting monitor detection
+[09:46:10.251] launch_bar(DP-2): starting waybar
+[09:46:10.254] launch_bar(DP-2): PID=2017
+[09:46:10.556] launch_bar(DP-2): PID 2017 alive OK
+[09:46:10.858] launch_bar(DP-1): starting waybar
+[09:46:10.861] launch_bar(DP-1): PID=2088
+[09:46:11.163] launch_bar(DP-1): PID 2088 alive OK
+[09:52:05.809] launch_bar(DP-1): starting waybar
+[09:52:05.812] launch_bar(DP-1): PID=69661
+[09:52:06.115] launch_bar(DP-1): PID 69661 alive OK
+[09:52:08.694] launch_bar(DP-1): starting waybar
+[09:52:08.697] launch_bar(DP-1): PID=70237
+[09:52:08.999] launch_bar(DP-1): PID 70237 alive OK
+[09:52:57.224] launch_bar(DP-1): starting waybar
+[09:52:57.227] launch_bar(DP-1): PID=79409
+[09:52:57.529] launch_bar(DP-1): PID 79409 alive OK
+[09:53:00.386] launch_bar(DP-1): starting waybar
+[09:53:00.389] launch_bar(DP-1): PID=79991
+[09:53:00.692] launch_bar(DP-1): PID 79991 alive OK
+[09:55:57.800] launch_bar(DP-1): starting waybar
+[09:55:57.803] launch_bar(DP-1): PID=113620
+[09:55:58.105] launch_bar(DP-1): PID 113620 alive OK
+[09:56:09.065] === autohide-multi.sh started (PID=115608) ===
+[09:56:09.066] Killing existing waybar/autohide processes...
+[09:56:09.491] Existing processes killed, starting monitor detection
+[09:56:09.505] launch_bar(DP-2): starting waybar
+[09:56:09.508] launch_bar(DP-2): PID=115660
+[09:56:09.810] launch_bar(DP-2): PID 115660 alive OK
+[09:56:10.113] launch_bar(DP-1): starting waybar
+[09:56:10.116] launch_bar(DP-1): PID=115696
+[09:56:10.418] launch_bar(DP-1): PID 115696 alive OK
+[09:56:12.428] launch_bar(DP-2): starting waybar
+[09:56:12.431] launch_bar(DP-2): PID=115876
+[09:56:12.733] launch_bar(DP-2): PID 115876 alive OK
+[09:56:15.233] launch_bar(DP-1): starting waybar
+[09:56:15.236] launch_bar(DP-1): PID=116169
+[09:56:15.539] launch_bar(DP-1): PID 116169 alive OK
+[09:56:15.682] launch_bar(DP-2): starting waybar
+[09:56:15.685] launch_bar(DP-2): PID=116225
+[09:56:15.988] launch_bar(DP-2): PID 116225 alive OK
+[09:56:19.673] launch_bar(DP-2): starting waybar
+[09:56:19.676] launch_bar(DP-2): PID=116644
+[09:56:19.978] launch_bar(DP-2): PID 116644 alive OK
+[09:57:13.174] launch_bar(DP-1): starting waybar
+[09:57:13.176] launch_bar(DP-1): PID=131656
+[09:57:13.479] launch_bar(DP-1): PID 131656 alive OK
+[09:58:12.226] launch_bar(DP-2): starting waybar
+[09:58:12.229] launch_bar(DP-2): PID=142000
+[09:58:12.532] launch_bar(DP-2): PID 142000 alive OK
+[10:01:00.242] launch_bar(DP-2): starting waybar
+[10:01:00.247] launch_bar(DP-2): PID=162932
+[10:01:00.549] launch_bar(DP-2): PID 162932 alive OK
+[10:01:01.784] launch_bar(DP-1): starting waybar
+[10:01:01.787] launch_bar(DP-1): PID=163096
+[10:01:02.090] launch_bar(DP-1): PID 163096 alive OK
+[10:05:58.327] launch_bar(DP-2): starting waybar
+[10:05:58.330] launch_bar(DP-2): PID=198126
+[10:05:58.632] launch_bar(DP-2): PID 198126 alive OK
+[10:14:52.749] launch_bar(DP-1): starting waybar
+[10:14:52.752] launch_bar(DP-1): PID=253121
+[10:14:53.054] launch_bar(DP-1): PID 253121 alive OK
+[10:16:16.266] === autohide-multi.sh started (PID=262152) ===
+[10:16:16.267] Killing existing waybar/autohide processes...
+[10:16:16.696] Existing processes killed, starting monitor detection
+[10:16:16.710] launch_bar(DP-2): starting waybar
+[10:16:16.713] launch_bar(DP-2): PID=262174
+[10:16:17.015] launch_bar(DP-2): PID 262174 alive OK
+[10:16:17.317] launch_bar(DP-1): starting waybar
+[10:16:17.320] launch_bar(DP-1): PID=262251
+[10:16:17.623] launch_bar(DP-1): PID 262251 alive OK
+[10:19:42.612] launch_bar(DP-1): starting waybar
+[10:19:42.614] launch_bar(DP-1): PID=283322
+[10:19:42.917] launch_bar(DP-1): PID 283322 alive OK
+[10:20:35.467] === autohide-multi.sh started (PID=289149) ===
+[10:20:35.468] Killing existing waybar/autohide processes...
+[10:20:35.896] Existing processes killed, starting monitor detection
+[10:20:35.911] launch_bar(DP-2): starting waybar
+[10:20:35.913] launch_bar(DP-2): PID=289171
+[10:20:36.216] launch_bar(DP-2): PID 289171 alive OK
+[10:20:36.518] launch_bar(DP-1): starting waybar
+[10:20:36.521] launch_bar(DP-1): PID=289234
+[10:20:36.823] launch_bar(DP-1): PID 289234 alive OK
+[10:22:06.998] launch_bar(DP-1): starting waybar
+[10:22:07.001] launch_bar(DP-1): PID=298236
+[10:22:07.304] launch_bar(DP-1): PID 298236 alive OK
+[10:22:08.613] launch_bar(DP-1): starting waybar
+[10:22:08.616] launch_bar(DP-1): PID=298406
+[10:22:08.918] launch_bar(DP-1): PID 298406 alive OK
+[10:24:03.566] launch_bar(DP-1): starting waybar
+[10:24:03.568] launch_bar(DP-1): PID=311421
+[10:24:03.871] launch_bar(DP-1): PID 311421 alive OK
+[10:24:05.053] launch_bar(DP-1): starting waybar
+[10:24:05.056] launch_bar(DP-1): PID=311580
+[10:24:05.358] launch_bar(DP-1): PID 311580 alive OK
+[10:24:06.675] launch_bar(DP-1): starting waybar
+[10:24:06.678] launch_bar(DP-1): PID=311751
+[10:24:06.980] launch_bar(DP-1): PID 311751 alive OK
+[10:31:58.963] launch_bar(DP-1): starting waybar
+[10:31:58.966] launch_bar(DP-1): PID=362627
+[10:31:59.268] launch_bar(DP-1): PID 362627 alive OK
+[10:34:19.738] launch_bar(DP-2): starting waybar
+[10:34:19.741] launch_bar(DP-2): PID=376929
+[10:34:20.043] launch_bar(DP-2): PID 376929 alive OK
+[10:34:28.977] launch_bar(DP-1): starting waybar
+[10:34:28.980] launch_bar(DP-1): PID=377928
+[10:34:29.282] launch_bar(DP-1): PID 377928 alive OK
+[10:35:58.717] launch_bar(DP-2): starting waybar
+[10:35:58.719] launch_bar(DP-2): PID=387397
+[10:35:59.021] launch_bar(DP-2): PID 387397 alive OK
+[10:38:18.699] launch_bar(DP-1): starting waybar
+[10:38:18.701] launch_bar(DP-1): PID=401820
+[10:38:19.004] launch_bar(DP-1): PID 401820 alive OK
+[10:40:00.228] launch_bar(DP-2): starting waybar
+[10:40:00.231] launch_bar(DP-2): PID=412588
+[10:40:00.534] launch_bar(DP-2): PID 412588 alive OK
+[10:40:55.160] launch_bar(DP-2): starting waybar
+[10:40:55.163] launch_bar(DP-2): PID=418350
+[10:40:55.465] launch_bar(DP-2): PID 418350 alive OK
+[10:40:57.044] launch_bar(DP-2): starting waybar
+[10:40:57.047] launch_bar(DP-2): PID=418549
+[10:40:57.349] launch_bar(DP-2): PID 418549 alive OK
+[10:40:58.534] launch_bar(DP-2): starting waybar
+[10:40:58.537] launch_bar(DP-2): PID=418709
+[10:40:58.839] launch_bar(DP-2): PID 418709 alive OK
+[10:41:00.938] launch_bar(DP-2): starting waybar
+[10:41:00.941] launch_bar(DP-2): PID=418963
+[10:41:01.243] launch_bar(DP-2): PID 418963 alive OK
+[10:41:02.296] launch_bar(DP-2): starting waybar
+[10:41:02.299] launch_bar(DP-2): PID=419110
+[10:41:02.601] launch_bar(DP-2): PID 419110 alive OK
+[10:41:07.045] launch_bar(DP-2): starting waybar
+[10:41:07.047] launch_bar(DP-2): PID=419595
+[10:41:07.350] launch_bar(DP-2): PID 419595 alive OK
+[10:41:11.014] launch_bar(DP-2): starting waybar
+[10:41:11.016] launch_bar(DP-2): PID=420001
+[10:41:11.318] launch_bar(DP-2): PID 420001 alive OK
+[10:42:03.035] launch_bar(DP-2): starting waybar
+[10:42:03.038] launch_bar(DP-2): PID=428525
+[10:42:03.340] launch_bar(DP-2): PID 428525 alive OK
+[10:55:12.867] launch_bar(DP-2): starting waybar
+[10:55:12.870] launch_bar(DP-2): PID=510853
+[10:55:13.173] launch_bar(DP-2): PID 510853 alive OK
+[10:55:53.632] launch_bar(DP-2): starting waybar
+[10:55:53.634] launch_bar(DP-2): PID=515011
+[10:55:53.936] launch_bar(DP-2): PID 515011 alive OK
+[10:55:55.380] launch_bar(DP-2): starting waybar
+[10:55:55.383] launch_bar(DP-2): PID=515199
+[10:55:55.685] launch_bar(DP-2): PID 515199 alive OK
+[10:56:12.718] launch_bar(DP-2): starting waybar
+[10:56:12.721] launch_bar(DP-2): PID=517111
+[10:56:13.024] launch_bar(DP-2): PID 517111 alive OK
+[11:00:19.388] launch_bar(DP-2): starting waybar
+[11:00:19.391] launch_bar(DP-2): PID=546311
+[11:00:19.693] launch_bar(DP-2): PID 546311 alive OK
+[11:02:27.608] launch_bar(DP-2): starting waybar
+[11:02:27.611] launch_bar(DP-2): PID=559507
+[11:02:27.913] launch_bar(DP-2): PID 559507 alive OK
+[11:03:57.198] launch_bar(DP-1): starting waybar
+[11:03:57.201] launch_bar(DP-1): PID=569038
+[11:03:57.504] launch_bar(DP-1): PID 569038 alive OK
+[11:05:19.697] launch_bar(DP-2): starting waybar
+[11:05:19.700] launch_bar(DP-2): PID=577352
+[11:05:20.002] launch_bar(DP-2): PID 577352 alive OK
+[11:17:13.749] launch_bar(DP-1): starting waybar
+[11:17:13.752] launch_bar(DP-1): PID=682206
+[11:17:14.054] launch_bar(DP-1): PID 682206 alive OK
+[11:23:51.521] launch_bar(DP-1): starting waybar
+[11:23:51.524] launch_bar(DP-1): PID=724003
+[11:23:51.826] launch_bar(DP-1): PID 724003 alive OK
+[11:37:35.621] launch_bar(DP-1): starting waybar
+[11:37:35.624] launch_bar(DP-1): PID=812772
+[11:37:35.926] launch_bar(DP-1): PID 812772 alive OK
+[11:37:37.110] launch_bar(DP-1): starting waybar
+[11:37:37.113] launch_bar(DP-1): PID=812931
+[11:37:37.415] launch_bar(DP-1): PID 812931 alive OK
+[11:37:38.472] launch_bar(DP-1): starting waybar
+[11:37:38.475] launch_bar(DP-1): PID=813076
+[11:37:38.777] launch_bar(DP-1): PID 813076 alive OK
+[12:31:05.820] launch_bar(DP-1): starting waybar
+[12:31:05.823] launch_bar(DP-1): PID=1138651
+[12:31:06.125] launch_bar(DP-1): PID 1138651 alive OK
+[12:31:07.592] launch_bar(DP-1): starting waybar
+[12:31:07.595] launch_bar(DP-1): PID=1138843
+[12:31:07.898] launch_bar(DP-1): PID 1138843 alive OK
+[12:35:56.425] launch_bar(DP-1): starting waybar
+[12:35:56.427] launch_bar(DP-1): PID=1168014
+[12:35:56.730] launch_bar(DP-1): PID 1168014 alive OK
+[12:35:57.793] launch_bar(DP-1): starting waybar
+[12:35:57.796] launch_bar(DP-1): PID=1168161
+[12:35:58.099] launch_bar(DP-1): PID 1168161 alive OK
+[12:36:10.456] launch_bar(DP-1): starting waybar
+[12:36:10.459] launch_bar(DP-1): PID=1169470
+[12:36:10.762] launch_bar(DP-1): PID 1169470 alive OK
+[12:38:22.957] launch_bar(DP-1): starting waybar
+[12:38:22.960] launch_bar(DP-1): PID=1182828
+[12:38:23.263] launch_bar(DP-1): PID 1182828 alive OK
+[12:38:24.972] launch_bar(DP-1): starting waybar
+[12:38:24.974] launch_bar(DP-1): PID=1183038
+[12:38:25.277] launch_bar(DP-1): PID 1183038 alive OK
+[12:38:26.897] launch_bar(DP-2): starting waybar
+[12:38:26.900] launch_bar(DP-2): PID=1183260
+[12:38:27.202] launch_bar(DP-2): PID 1183260 alive OK
+[12:54:27.408] launch_bar(DP-1): starting waybar
+[12:54:27.412] launch_bar(DP-1): PID=1279877
+[12:54:27.715] launch_bar(DP-1): PID 1279877 alive OK
+[12:54:44.054] launch_bar(DP-1): starting waybar
+[12:54:44.057] launch_bar(DP-1): PID=1281578
+[12:54:44.359] launch_bar(DP-1): PID 1281578 alive OK
+[12:56:27.054] launch_bar(DP-1): starting waybar
+[12:56:27.057] launch_bar(DP-1): PID=1291933
+[12:56:27.359] launch_bar(DP-1): PID 1291933 alive OK
+[12:56:41.955] launch_bar(DP-1): starting waybar
+[12:56:41.958] launch_bar(DP-1): PID=1293466
+[12:56:42.260] launch_bar(DP-1): PID 1293466 alive OK
+[12:56:43.457] launch_bar(DP-1): starting waybar
+[12:56:43.460] launch_bar(DP-1): PID=1293626
+[12:56:43.762] launch_bar(DP-1): PID 1293626 alive OK
+[12:56:46.251] launch_bar(DP-1): starting waybar
+[12:56:46.254] launch_bar(DP-1): PID=1293945
+[12:56:46.556] launch_bar(DP-1): PID 1293945 alive OK
+[12:56:47.615] launch_bar(DP-1): starting waybar
+[12:56:47.618] launch_bar(DP-1): PID=1294091
+[12:56:47.921] launch_bar(DP-1): PID 1294091 alive OK
+[12:56:48.731] launch_bar(DP-2): starting waybar
+[12:56:48.735] launch_bar(DP-2): PID=1294221
+[12:56:49.037] launch_bar(DP-2): PID 1294221 alive OK
+[12:56:50.090] launch_bar(DP-2): starting waybar
+[12:56:50.093] launch_bar(DP-2): PID=1294366
+[12:56:50.395] launch_bar(DP-2): PID 1294366 alive OK
+[12:56:52.251] launch_bar(DP-2): starting waybar
+[12:56:52.254] launch_bar(DP-2): PID=1294600
+[12:56:52.556] launch_bar(DP-2): PID 1294600 alive OK
+[12:58:45.047] launch_bar(DP-1): starting waybar
+[12:58:45.050] launch_bar(DP-1): PID=1306017
+[12:58:45.352] launch_bar(DP-1): PID 1306017 alive OK
+[13:10:29.675] launch_bar(DP-1): starting waybar
+[13:10:29.678] launch_bar(DP-1): PID=1377427
+[13:10:29.981] launch_bar(DP-1): PID 1377427 alive OK
+[13:12:14.915] launch_bar(DP-1): starting waybar
+[13:12:14.918] launch_bar(DP-1): PID=1388056
+[13:12:15.220] launch_bar(DP-1): PID 1388056 alive OK
+[13:14:00.318] launch_bar(DP-1): starting waybar
+[13:14:00.321] launch_bar(DP-1): PID=1398714
+[13:14:00.623] launch_bar(DP-1): PID 1398714 alive OK
+[13:14:15.077] launch_bar(DP-1): starting waybar
+[13:14:15.080] launch_bar(DP-1): PID=1400315
+[13:14:15.382] launch_bar(DP-1): PID 1400315 alive OK
+[13:14:18.140] launch_bar(DP-1): starting waybar
+[13:14:18.143] launch_bar(DP-1): PID=1400629
+[13:14:18.446] launch_bar(DP-1): PID 1400629 alive OK
+[13:22:40.873] launch_bar(DP-1): starting waybar
+[13:22:40.876] launch_bar(DP-1): PID=1451249
+[13:22:41.179] launch_bar(DP-1): PID 1451249 alive OK
+[13:23:23.326] launch_bar(DP-1): starting waybar
+[13:23:23.329] launch_bar(DP-1): PID=1455546
+[13:23:23.631] launch_bar(DP-1): PID 1455546 alive OK
+[18:46:58.390] === autohide-multi.sh started (PID=2012) ===
+[18:46:58.391] Killing existing waybar/autohide processes...
+[18:46:58.818] Existing processes killed, starting monitor detection
+[18:46:58.837] launch_bar(DP-2): starting waybar
+[18:46:58.840] launch_bar(DP-2): PID=2042
+[18:46:59.142] launch_bar(DP-2): PID 2042 alive OK
+[18:46:59.445] launch_bar(DP-1): starting waybar
+[18:46:59.447] launch_bar(DP-1): PID=2113
+[18:46:59.749] launch_bar(DP-1): PID 2113 alive OK
+[18:47:06.072] launch_bar(DP-1): starting waybar
+[18:47:06.074] launch_bar(DP-1): PID=2783
+[18:47:06.377] launch_bar(DP-1): PID 2783 alive OK
+[18:53:02.248] launch_bar(DP-1): starting waybar
+[18:53:02.251] launch_bar(DP-1): PID=39762
+[18:53:02.553] launch_bar(DP-1): PID 39762 alive OK
+[18:53:04.005] launch_bar(DP-1): starting waybar
+[18:53:04.008] launch_bar(DP-1): PID=39947
+[18:53:04.310] launch_bar(DP-1): PID 39947 alive OK
+[18:53:05.372] launch_bar(DP-2): starting waybar
+[18:53:05.374] launch_bar(DP-2): PID=40096
+[18:53:05.677] launch_bar(DP-2): PID 40096 alive OK
+[18:53:07.380] launch_bar(DP-2): starting waybar
+[18:53:07.383] launch_bar(DP-2): PID=40306
+[18:53:07.685] launch_bar(DP-2): PID 40306 alive OK
+[18:53:10.300] launch_bar(DP-2): starting waybar
+[18:53:10.303] launch_bar(DP-2): PID=40607
+[18:53:10.605] launch_bar(DP-2): PID 40607 alive OK
+[18:55:57.444] launch_bar(DP-2): starting waybar
+[18:55:57.447] launch_bar(DP-2): PID=57933
+[18:55:57.749] launch_bar(DP-2): PID 57933 alive OK
+[18:57:51.663] launch_bar(DP-1): starting waybar
+[18:57:51.666] launch_bar(DP-1): PID=70481
+[18:57:51.968] launch_bar(DP-1): PID 70481 alive OK
+[19:02:38.973] launch_bar(DP-1): starting waybar
+[19:02:38.976] launch_bar(DP-1): PID=99764
+[19:02:39.278] launch_bar(DP-1): PID 99764 alive OK
+[19:02:43.622] launch_bar(DP-1): starting waybar
+[19:02:43.624] launch_bar(DP-1): PID=100259
+[19:02:43.926] launch_bar(DP-1): PID 100259 alive OK
+[19:02:46.087] === autohide-multi.sh started (PID=100473) ===
+[19:02:46.088] Killing existing waybar/autohide processes...
+[19:02:46.515] Existing processes killed, starting monitor detection
+[19:02:46.529] launch_bar(DP-2): starting waybar
+[19:02:46.532] launch_bar(DP-2): PID=100495
+[19:02:46.834] launch_bar(DP-2): PID 100495 alive OK
+[19:02:47.136] launch_bar(DP-1): starting waybar
+[19:02:47.139] launch_bar(DP-1): PID=100558
+[19:02:47.442] launch_bar(DP-1): PID 100558 alive OK
+[19:02:49.149] === autohide-multi.sh started (PID=100722) ===
+[19:02:49.149] Killing existing waybar/autohide processes...
+[19:02:49.576] Existing processes killed, starting monitor detection
+[19:02:49.591] launch_bar(DP-2): starting waybar
+[19:02:49.594] launch_bar(DP-2): PID=100744
+[19:02:49.896] launch_bar(DP-2): PID 100744 alive OK
+[19:02:50.199] launch_bar(DP-1): starting waybar
+[19:02:50.202] launch_bar(DP-1): PID=100790
+[19:02:50.504] launch_bar(DP-1): PID 100790 alive OK
+[19:02:52.418] === autohide-multi.sh started (PID=100966) ===
+[19:02:52.418] Killing existing waybar/autohide processes...
+[19:02:52.846] Existing processes killed, starting monitor detection
+[19:02:52.860] launch_bar(DP-2): starting waybar
+[19:02:52.863] launch_bar(DP-2): PID=100988
+[19:02:53.165] launch_bar(DP-2): PID 100988 alive OK
+[19:02:53.468] launch_bar(DP-1): starting waybar
+[19:02:53.471] launch_bar(DP-1): PID=101034
+[19:02:53.773] launch_bar(DP-1): PID 101034 alive OK
+[19:02:55.138] === autohide-multi.sh started (PID=101116) ===
+[19:02:55.139] Killing existing waybar/autohide processes...
+[19:02:55.567] Existing processes killed, starting monitor detection
+[19:02:55.581] launch_bar(DP-2): starting waybar
+[19:02:55.584] launch_bar(DP-2): PID=101179
+[19:02:55.887] launch_bar(DP-2): PID 101179 alive OK
+[19:02:56.189] launch_bar(DP-1): starting waybar
+[19:02:56.192] launch_bar(DP-1): PID=101225
+[19:02:56.494] launch_bar(DP-1): PID 101225 alive OK
+[19:03:02.186] launch_bar(DP-1): starting waybar
+[19:03:02.189] launch_bar(DP-1): PID=101846
+[19:03:02.491] launch_bar(DP-1): PID 101846 alive OK
+[19:03:04.358] === autohide-multi.sh started (PID=102110) ===
+[19:03:04.359] Killing existing waybar/autohide processes...
+[19:03:04.787] Existing processes killed, starting monitor detection
+[19:03:04.802] launch_bar(DP-2): starting waybar
+[19:03:04.805] launch_bar(DP-2): PID=102132
+[19:03:05.108] launch_bar(DP-2): PID 102132 alive OK
+[19:03:05.410] launch_bar(DP-1): starting waybar
+[19:03:05.413] launch_bar(DP-1): PID=102194
+[19:03:05.715] launch_bar(DP-1): PID 102194 alive OK
+[19:03:07.246] === autohide-multi.sh started (PID=102341) ===
+[19:03:07.247] Killing existing waybar/autohide processes...
+[19:03:07.675] Existing processes killed, starting monitor detection
+[19:03:07.690] launch_bar(DP-2): starting waybar
+[19:03:07.692] launch_bar(DP-2): PID=102380
+[19:03:07.995] launch_bar(DP-2): PID 102380 alive OK
+[19:03:08.297] launch_bar(DP-1): starting waybar
+[19:03:08.300] launch_bar(DP-1): PID=102426
+[19:03:08.602] launch_bar(DP-1): PID 102426 alive OK
+[19:03:13.360] === autohide-multi.sh started (PID=102893) ===
+[19:03:13.361] Killing existing waybar/autohide processes...
+[19:03:13.790] Existing processes killed, starting monitor detection
+[19:03:13.805] launch_bar(DP-2): starting waybar
+[19:03:13.807] launch_bar(DP-2): PID=102915
+[19:03:14.109] launch_bar(DP-2): PID 102915 alive OK
+[19:03:14.412] launch_bar(DP-1): starting waybar
+[19:03:14.415] launch_bar(DP-1): PID=102961
+[19:03:14.717] launch_bar(DP-1): PID 102961 alive OK
+[19:03:16.205] launch_bar(DP-2): starting waybar
+[19:03:16.208] launch_bar(DP-2): PID=103100
+[19:03:16.511] launch_bar(DP-2): PID 103100 alive OK
+[19:03:26.995] launch_bar(DP-1): starting waybar
+[19:03:26.997] launch_bar(DP-1): PID=104237
+[19:03:27.300] launch_bar(DP-1): PID 104237 alive OK
+[19:03:44.735] === autohide-multi.sh started (PID=106044) ===
+[19:03:44.736] Killing existing waybar/autohide processes...
+[19:03:45.165] Existing processes killed, starting monitor detection
+[19:03:45.180] launch_bar(DP-2): starting waybar
+[19:03:45.182] launch_bar(DP-2): PID=106066
+[19:03:45.485] launch_bar(DP-2): PID 106066 alive OK
+[19:03:45.787] launch_bar(DP-1): starting waybar
+[19:03:45.790] launch_bar(DP-1): PID=106135
+[19:03:46.092] launch_bar(DP-1): PID 106135 alive OK
+[19:03:48.224] launch_bar(DP-1): starting waybar
+[19:03:48.226] launch_bar(DP-1): PID=106380
+[19:03:48.529] launch_bar(DP-1): PID 106380 alive OK
+[19:05:15.685] === autohide-multi.sh started (PID=115339) ===
+[19:05:15.686] Killing existing waybar/autohide processes...
+[19:05:16.114] Existing processes killed, starting monitor detection
+[19:05:16.129] launch_bar(DP-2): starting waybar
+[19:05:16.132] launch_bar(DP-2): PID=115361
+[19:05:16.434] launch_bar(DP-2): PID 115361 alive OK
+[19:05:16.736] launch_bar(DP-1): starting waybar
+[19:05:16.739] launch_bar(DP-1): PID=115426
+[19:05:17.041] launch_bar(DP-1): PID 115426 alive OK
+[19:05:20.857] === autohide-multi.sh started (PID=115820) ===
+[19:05:20.858] Killing existing waybar/autohide processes...
+[19:05:21.286] Existing processes killed, starting monitor detection
+[19:05:21.301] launch_bar(DP-2): starting waybar
+[19:05:21.304] launch_bar(DP-2): PID=115842
+[19:05:21.606] launch_bar(DP-2): PID 115842 alive OK
+[19:05:21.908] launch_bar(DP-1): starting waybar
+[19:05:21.911] launch_bar(DP-1): PID=115888
+[19:05:22.213] launch_bar(DP-1): PID 115888 alive OK
+[19:05:25.343] === autohide-multi.sh started (PID=116174) ===
+[19:05:25.344] Killing existing waybar/autohide processes...
+[19:05:25.772] Existing processes killed, starting monitor detection
+[19:05:25.787] launch_bar(DP-2): starting waybar
+[19:05:25.790] launch_bar(DP-2): PID=116196
+[19:05:26.092] launch_bar(DP-2): PID 116196 alive OK
+[19:05:26.395] launch_bar(DP-1): starting waybar
+[19:05:26.398] launch_bar(DP-1): PID=116242
+[19:05:26.700] launch_bar(DP-1): PID 116242 alive OK
+[19:05:28.305] launch_bar(DP-1): starting waybar
+[19:05:28.308] launch_bar(DP-1): PID=116431
+[19:05:28.610] launch_bar(DP-1): PID 116431 alive OK
+[19:05:47.342] === autohide-multi.sh started (PID=118333) ===
+[19:05:47.343] Killing existing waybar/autohide processes...
+[19:05:47.772] Existing processes killed, starting monitor detection
+[19:05:47.786] launch_bar(DP-2): starting waybar
+[19:05:47.789] launch_bar(DP-2): PID=118355
+[19:05:48.091] launch_bar(DP-2): PID 118355 alive OK
+[19:05:48.394] launch_bar(DP-1): starting waybar
+[19:05:48.397] launch_bar(DP-1): PID=118418
+[19:05:48.699] launch_bar(DP-1): PID 118418 alive OK
+[19:05:50.693] launch_bar(DP-1): starting waybar
+[19:05:50.696] launch_bar(DP-1): PID=118655
+[19:05:50.998] launch_bar(DP-1): PID 118655 alive OK
+[19:06:09.888] === autohide-multi.sh started (PID=120542) ===
+[19:06:09.889] Killing existing waybar/autohide processes...
+[19:06:10.316] Existing processes killed, starting monitor detection
+[19:06:10.835] === autohide-multi.sh started (PID=120602) ===
+[19:06:10.836] Killing existing waybar/autohide processes...
+[19:06:11.264] Existing processes killed, starting monitor detection
+[19:06:11.279] launch_bar(DP-2): starting waybar
+[19:06:11.282] launch_bar(DP-2): PID=120639
+[19:06:12.029] === autohide-multi.sh started (PID=120706) ===
+[19:06:12.030] Killing existing waybar/autohide processes...
+[19:06:12.457] Existing processes killed, starting monitor detection
+[19:06:12.472] launch_bar(DP-2): starting waybar
+[19:06:12.475] launch_bar(DP-2): PID=120730
+[19:06:12.777] launch_bar(DP-2): PID 120730 alive OK
+[19:06:13.081] launch_bar(DP-1): starting waybar
+[19:06:13.085] launch_bar(DP-1): PID=120842
+[19:06:13.610] === autohide-multi.sh started (PID=120859) ===
+[19:06:13.611] Killing existing waybar/autohide processes...
+[19:06:14.039] Existing processes killed, starting monitor detection
+[19:06:14.055] launch_bar(DP-2): starting waybar
+[19:06:14.058] launch_bar(DP-2): PID=120925
+[19:06:14.360] launch_bar(DP-2): PID 120925 alive OK
+[19:06:14.662] launch_bar(DP-1): starting waybar
+[19:06:14.665] launch_bar(DP-1): PID=120971
+[19:06:14.968] launch_bar(DP-1): PID 120971 alive OK
+[19:06:32.280] launch_bar(DP-1): starting waybar
+[19:06:32.283] launch_bar(DP-1): PID=122771
+[19:06:32.585] launch_bar(DP-1): PID 122771 alive OK
+[19:08:13.248] === autohide-multi.sh started (PID=134199) ===
+[19:08:13.249] Killing existing waybar/autohide processes...
+[19:08:13.680] Existing processes killed, starting monitor detection
+[19:08:13.696] launch_bar(DP-2): starting waybar
+[19:08:13.699] launch_bar(DP-2): PID=134221
+[19:08:14.002] launch_bar(DP-2): PID 134221 alive OK
+[19:08:14.304] launch_bar(DP-1): starting waybar
+[19:08:14.307] launch_bar(DP-1): PID=134292
+[19:08:14.610] launch_bar(DP-1): PID 134292 alive OK
+[19:08:24.864] launch_bar(DP-1): starting waybar
+[19:08:24.867] launch_bar(DP-1): PID=135344
+[19:08:25.170] launch_bar(DP-1): PID 135344 alive OK
+[19:08:27.663] launch_bar(DP-1): starting waybar
+[19:08:27.666] launch_bar(DP-1): PID=135629
+[19:08:27.968] launch_bar(DP-1): PID 135629 alive OK
+[19:09:55.084] === autohide-multi.sh started (PID=144707) ===
+[19:09:55.085] Killing existing waybar/autohide processes...
+[19:09:55.514] Existing processes killed, starting monitor detection
+[19:09:55.529] launch_bar(DP-2): starting waybar
+[19:09:55.532] launch_bar(DP-2): PID=144729
+[19:09:55.834] launch_bar(DP-2): PID 144729 alive OK
+[19:09:56.137] launch_bar(DP-1): starting waybar
+[19:09:56.139] launch_bar(DP-1): PID=144792
+[19:09:56.442] launch_bar(DP-1): PID 144792 alive OK
+[19:14:14.243] launch_bar(DP-1): starting waybar
+[19:14:14.246] launch_bar(DP-1): PID=171081
+[19:14:14.548] launch_bar(DP-1): PID 171081 alive OK
+[19:14:17.437] launch_bar(DP-1): starting waybar
+[19:14:17.440] launch_bar(DP-1): PID=171413
+[19:14:17.742] launch_bar(DP-1): PID 171413 alive OK
+[19:14:22.368] launch_bar(DP-1): starting waybar
+[19:14:22.371] launch_bar(DP-1): PID=171937
+[19:14:22.673] launch_bar(DP-1): PID 171937 alive OK
+[19:20:17.660] launch_bar(DP-1): starting waybar
+[19:20:17.663] launch_bar(DP-1): PID=208379
+[19:20:17.965] launch_bar(DP-1): PID 208379 alive OK
+[19:20:20.736] === autohide-multi.sh started (PID=208737) ===
+[19:20:20.737] Killing existing waybar/autohide processes...
+[19:20:21.169] Existing processes killed, starting monitor detection
+[19:20:21.184] launch_bar(DP-2): starting waybar
+[19:20:21.186] launch_bar(DP-2): PID=208759
+[19:20:21.488] launch_bar(DP-2): PID 208759 alive OK
+[19:20:21.790] launch_bar(DP-1): starting waybar
+[19:20:21.794] launch_bar(DP-1): PID=208860
+[19:20:22.096] launch_bar(DP-1): PID 208860 alive OK
+[19:20:26.481] launch_bar(DP-1): starting waybar
+[19:20:26.484] launch_bar(DP-1): PID=209368
+[19:20:26.786] launch_bar(DP-1): PID 209368 alive OK
+[19:20:28.619] === autohide-multi.sh started (PID=209555) ===
+[19:20:28.620] Killing existing waybar/autohide processes...
+[19:20:29.049] Existing processes killed, starting monitor detection
+[19:20:29.064] launch_bar(DP-2): starting waybar
+[19:20:29.066] launch_bar(DP-2): PID=209577
+[19:20:29.369] launch_bar(DP-2): PID 209577 alive OK
+[19:20:29.671] launch_bar(DP-1): starting waybar
+[19:20:29.674] launch_bar(DP-1): PID=209625
+[19:20:29.976] launch_bar(DP-1): PID 209625 alive OK
+[19:21:03.326] launch_bar(DP-2): starting waybar
+[19:21:03.328] launch_bar(DP-2): PID=213057
+[19:21:03.631] launch_bar(DP-2): PID 213057 alive OK
+[19:24:27.637] launch_bar(DP-1): starting waybar
+[19:24:27.640] launch_bar(DP-1): PID=234159
+[19:24:27.942] launch_bar(DP-1): PID 234159 alive OK
+[19:25:11.027] launch_bar(DP-2): starting waybar
+[19:25:11.030] launch_bar(DP-2): PID=238560
+[19:25:11.332] launch_bar(DP-2): PID 238560 alive OK
+[19:25:12.011] launch_bar(DP-1): starting waybar
+[19:25:12.014] launch_bar(DP-1): PID=238699
+[19:25:12.316] launch_bar(DP-1): PID 238699 alive OK
+[19:28:29.289] launch_bar(DP-1): starting waybar
+[19:28:29.292] launch_bar(DP-1): PID=259000
+[19:28:29.594] launch_bar(DP-1): PID 259000 alive OK
+[19:28:35.748] launch_bar(DP-1): starting waybar
+[19:28:35.751] launch_bar(DP-1): PID=259698
+[19:28:36.053] launch_bar(DP-1): PID 259698 alive OK
+[19:30:15.071] launch_bar(DP-2): starting waybar
+[19:30:15.074] launch_bar(DP-2): PID=269890
+[19:30:15.376] launch_bar(DP-2): PID 269890 alive OK
+[19:30:31.299] launch_bar(DP-1): starting waybar
+[19:30:31.302] launch_bar(DP-1): PID=271795
+[19:30:31.604] launch_bar(DP-1): PID 271795 alive OK
+[19:42:49.325] launch_bar(DP-1): starting waybar
+[19:42:49.328] launch_bar(DP-1): PID=350063
+[19:42:49.630] launch_bar(DP-1): PID 350063 alive OK
+[19:42:51.707] === autohide-multi.sh started (PID=350266) ===
+[19:42:51.708] Killing existing waybar/autohide processes...
+[19:42:52.138] Existing processes killed, starting monitor detection
+[19:42:52.154] launch_bar(DP-2): starting waybar
+[19:42:52.157] launch_bar(DP-2): PID=350288
+[19:42:52.459] launch_bar(DP-2): PID 350288 alive OK
+[19:42:52.762] launch_bar(DP-1): starting waybar
+[19:42:52.765] launch_bar(DP-1): PID=350351
+[19:42:53.067] launch_bar(DP-1): PID 350351 alive OK
+[19:43:45.363] launch_bar(DP-2): starting waybar
+[19:43:45.366] launch_bar(DP-2): PID=355776
+[19:43:45.668] launch_bar(DP-2): PID 355776 alive OK
+[19:44:51.194] launch_bar(DP-1): starting waybar
+[19:44:51.197] launch_bar(DP-1): PID=362394
+[19:44:51.499] launch_bar(DP-1): PID 362394 alive OK
+[19:48:18.066] launch_bar(DP-1): starting waybar
+[19:48:18.069] launch_bar(DP-1): PID=383523
+[19:48:18.371] launch_bar(DP-1): PID 383523 alive OK
+[19:48:23.876] launch_bar(DP-1): starting waybar
+[19:48:23.879] launch_bar(DP-1): PID=384148
+[19:48:24.181] launch_bar(DP-1): PID 384148 alive OK
+[19:48:25.766] === autohide-multi.sh started (PID=384311) ===
+[19:48:25.767] Killing existing waybar/autohide processes...
+[19:48:26.198] Existing processes killed, starting monitor detection
+[19:48:26.217] launch_bar(DP-2): starting waybar
+[19:48:26.220] launch_bar(DP-2): PID=384366
+[19:48:26.523] launch_bar(DP-2): PID 384366 alive OK
+[19:48:26.825] launch_bar(DP-1): starting waybar
+[19:48:26.828] launch_bar(DP-1): PID=384435
+[19:48:27.131] launch_bar(DP-1): PID 384435 alive OK
+[19:55:02.061] launch_bar(DP-1): starting waybar
+[19:55:02.064] launch_bar(DP-1): PID=425095
+[19:55:02.366] launch_bar(DP-1): PID 425095 alive OK
+[19:55:03.551] launch_bar(DP-1): starting waybar
+[19:55:03.554] launch_bar(DP-1): PID=425252
+[19:55:03.856] launch_bar(DP-1): PID 425252 alive OK
+[19:55:05.178] launch_bar(DP-1): starting waybar
+[19:55:05.181] launch_bar(DP-1): PID=425427
+[19:55:05.483] launch_bar(DP-1): PID 425427 alive OK
+[19:58:27.017] launch_bar(DP-1): starting waybar
+[19:58:27.020] launch_bar(DP-1): PID=446371
+[19:58:27.322] launch_bar(DP-1): PID 446371 alive OK
+[19:58:29.030] === autohide-multi.sh started (PID=446548) ===
+[19:58:29.030] Killing existing waybar/autohide processes...
+[19:58:29.463] Existing processes killed, starting monitor detection
+[19:58:29.478] launch_bar(DP-2): starting waybar
+[19:58:29.481] launch_bar(DP-2): PID=446570
+[19:58:29.783] launch_bar(DP-2): PID 446570 alive OK
+[19:58:30.085] launch_bar(DP-1): starting waybar
+[19:58:30.088] launch_bar(DP-1): PID=446639
+[19:58:30.390] launch_bar(DP-1): PID 446639 alive OK
+[20:00:05.566] launch_bar(DP-1): starting waybar
+[20:00:05.569] launch_bar(DP-1): PID=455939
+[20:00:05.871] launch_bar(DP-1): PID 455939 alive OK
+[20:00:15.225] launch_bar(DP-1): starting waybar
+[20:00:15.228] launch_bar(DP-1): PID=456933
+[20:00:15.530] launch_bar(DP-1): PID 456933 alive OK
+[20:02:00.407] launch_bar(DP-1): starting waybar
+[20:02:00.411] launch_bar(DP-1): PID=469166
+[20:02:00.713] launch_bar(DP-1): PID 469166 alive OK
+[20:02:02.610] === autohide-multi.sh started (PID=469374) ===
+[20:02:02.611] Killing existing waybar/autohide processes...
+[20:02:03.045] Existing processes killed, starting monitor detection
+[20:02:03.059] launch_bar(DP-2): starting waybar
+[20:02:03.062] launch_bar(DP-2): PID=469396
+[20:02:03.364] launch_bar(DP-2): PID 469396 alive OK
+[20:02:03.666] launch_bar(DP-1): starting waybar
+[20:02:03.669] launch_bar(DP-1): PID=469458
+[20:02:03.971] launch_bar(DP-1): PID 469458 alive OK
+[20:03:49.662] launch_bar(DP-1): starting waybar
+[20:03:49.665] launch_bar(DP-1): PID=480632
+[20:03:49.967] launch_bar(DP-1): PID 480632 alive OK
+[20:03:51.409] launch_bar(DP-1): starting waybar
+[20:03:51.412] launch_bar(DP-1): PID=480815
+[20:03:51.714] launch_bar(DP-1): PID 480815 alive OK
+[20:04:03.148] === autohide-multi.sh started (PID=482015) ===
+[20:04:03.148] Killing existing waybar/autohide processes...
+[20:04:03.583] Existing processes killed, starting monitor detection
+[20:04:03.598] launch_bar(DP-2): starting waybar
+[20:04:03.600] launch_bar(DP-2): PID=482067
+[20:04:03.902] launch_bar(DP-2): PID 482067 alive OK
+[20:04:04.204] launch_bar(DP-1): starting waybar
+[20:04:04.208] launch_bar(DP-1): PID=482103
+[20:04:04.510] launch_bar(DP-1): PID 482103 alive OK
+[20:04:05.988] launch_bar(DP-2): starting waybar
+[20:04:05.991] launch_bar(DP-2): PID=482223
+[20:04:06.293] launch_bar(DP-2): PID 482223 alive OK
+[20:04:07.868] launch_bar(DP-2): starting waybar
+[20:04:07.871] launch_bar(DP-2): PID=482418
+[20:04:08.174] launch_bar(DP-2): PID 482418 alive OK
+[20:04:10.403] launch_bar(DP-2): starting waybar
+[20:04:10.405] launch_bar(DP-2): PID=482677
+[20:04:10.708] launch_bar(DP-2): PID 482677 alive OK
+[20:04:11.771] launch_bar(DP-1): starting waybar
+[20:04:11.774] launch_bar(DP-1): PID=482841
+[20:04:12.076] launch_bar(DP-1): PID 482841 alive OK
+[20:04:14.177] launch_bar(DP-1): starting waybar
+[20:04:14.180] launch_bar(DP-1): PID=483089
+[20:04:14.482] launch_bar(DP-1): PID 483089 alive OK
+[20:06:34.350] launch_bar(DP-2): starting waybar
+[20:06:34.353] launch_bar(DP-2): PID=497298
+[20:06:34.655] launch_bar(DP-2): PID 497298 alive OK
+[20:08:20.612] launch_bar(DP-1): starting waybar
+[20:08:20.615] launch_bar(DP-1): PID=508111
+[20:08:20.917] launch_bar(DP-1): PID 508111 alive OK
+[20:08:23.150] === autohide-multi.sh started (PID=508362) ===
+[20:08:23.150] Killing existing waybar/autohide processes...
+[20:08:23.579] Existing processes killed, starting monitor detection
+[20:08:23.596] launch_bar(DP-2): starting waybar
+[20:08:23.599] launch_bar(DP-2): PID=508398
+[20:08:23.901] launch_bar(DP-2): PID 508398 alive OK
+[20:08:24.203] launch_bar(DP-1): starting waybar
+[20:08:24.206] launch_bar(DP-1): PID=508473
+[20:08:24.509] launch_bar(DP-1): PID 508473 alive OK
+[20:08:26.348] === autohide-multi.sh started (PID=508651) ===
+[20:08:26.349] Killing existing waybar/autohide processes...
+[20:08:26.776] Existing processes killed, starting monitor detection
+[20:08:26.791] launch_bar(DP-2): starting waybar
+[20:08:26.794] launch_bar(DP-2): PID=508673
+[20:08:27.096] launch_bar(DP-2): PID 508673 alive OK
+[20:08:27.398] launch_bar(DP-1): starting waybar
+[20:08:27.401] launch_bar(DP-1): PID=508719
+[20:08:27.704] launch_bar(DP-1): PID 508719 alive OK
+[20:08:31.310] === autohide-multi.sh started (PID=509063) ===
+[20:08:31.310] Killing existing waybar/autohide processes...
+[20:08:31.738] Existing processes killed, starting monitor detection
+[20:08:31.753] launch_bar(DP-2): starting waybar
+[20:08:31.756] launch_bar(DP-2): PID=509085
+[20:08:32.058] launch_bar(DP-2): PID 509085 alive OK
+[20:08:32.360] launch_bar(DP-1): starting waybar
+[20:08:32.363] launch_bar(DP-1): PID=509159
+[20:08:32.666] launch_bar(DP-1): PID 509159 alive OK
+[20:08:39.927] launch_bar(DP-1): starting waybar
+[20:08:39.930] launch_bar(DP-1): PID=509977
+[20:08:40.232] launch_bar(DP-1): PID 509977 alive OK
+[20:08:42.129] === autohide-multi.sh started (PID=510168) ===
+[20:08:42.130] Killing existing waybar/autohide processes...
+[20:08:42.559] Existing processes killed, starting monitor detection
+[20:08:42.575] launch_bar(DP-2): starting waybar
+[20:08:42.578] launch_bar(DP-2): PID=510202
+[20:08:42.881] launch_bar(DP-2): PID 510202 alive OK
+[20:08:43.183] launch_bar(DP-1): starting waybar
+[20:08:43.186] launch_bar(DP-1): PID=510264
+[20:08:43.488] launch_bar(DP-1): PID 510264 alive OK
+[20:09:13.077] === autohide-multi.sh started (PID=513961) ===
+[20:09:13.078] Killing existing waybar/autohide processes...
+[20:09:13.507] Existing processes killed, starting monitor detection
+[20:09:13.521] launch_bar(DP-2): starting waybar
+[20:09:13.524] launch_bar(DP-2): PID=513983
+[20:09:13.827] launch_bar(DP-2): PID 513983 alive OK
+[20:09:14.129] launch_bar(DP-1): starting waybar
+[20:09:14.132] launch_bar(DP-1): PID=514054
+[20:09:14.434] launch_bar(DP-1): PID 514054 alive OK
+[20:09:15.916] launch_bar(DP-1): starting waybar
+[20:09:15.918] launch_bar(DP-1): PID=514193
+[20:09:16.220] launch_bar(DP-1): PID 514193 alive OK
+[20:09:17.662] launch_bar(DP-1): starting waybar
+[20:09:17.665] launch_bar(DP-1): PID=514416
+[20:09:17.968] launch_bar(DP-1): PID 514416 alive OK
+[20:09:45.138] launch_bar(DP-1): starting waybar
+[20:09:45.141] launch_bar(DP-1): PID=517855
+[20:09:45.443] launch_bar(DP-1): PID 517855 alive OK
+[20:12:13.789] launch_bar(DP-2): starting waybar
+[20:12:13.792] launch_bar(DP-2): PID=533050
+[20:12:14.094] launch_bar(DP-2): PID 533050 alive OK
+[20:12:16.153] === autohide-multi.sh started (PID=533253) ===
+[20:12:16.154] Killing existing waybar/autohide processes...
+[20:12:16.581] Existing processes killed, starting monitor detection
+[20:12:16.596] launch_bar(DP-2): starting waybar
+[20:12:16.599] launch_bar(DP-2): PID=533275
+[20:12:16.901] launch_bar(DP-2): PID 533275 alive OK
+[20:12:17.203] launch_bar(DP-1): starting waybar
+[20:12:17.206] launch_bar(DP-1): PID=533337
+[20:12:17.508] launch_bar(DP-1): PID 533337 alive OK
+[20:12:32.926] launch_bar(DP-2): starting waybar
+[20:12:32.929] launch_bar(DP-2): PID=535132
+[20:12:33.231] launch_bar(DP-2): PID 535132 alive OK
+[20:12:34.921] === autohide-multi.sh started (PID=535307) ===
+[20:12:34.922] Killing existing waybar/autohide processes...
+[20:12:35.351] Existing processes killed, starting monitor detection
+[20:12:35.366] launch_bar(DP-2): starting waybar
+[20:12:35.368] launch_bar(DP-2): PID=535329
+[20:12:35.670] launch_bar(DP-2): PID 535329 alive OK
+[20:12:35.973] launch_bar(DP-1): starting waybar
+[20:12:35.976] launch_bar(DP-1): PID=535391
+[20:12:36.278] launch_bar(DP-1): PID 535391 alive OK
+[20:12:39.447] launch_bar(DP-2): starting waybar
+[20:12:39.450] launch_bar(DP-2): PID=535851
+[20:12:39.752] launch_bar(DP-2): PID 535851 alive OK
+[20:12:41.263] === autohide-multi.sh started (PID=536008) ===
+[20:12:41.264] Killing existing waybar/autohide processes...
+[20:12:41.692] Existing processes killed, starting monitor detection
+[20:12:41.705] launch_bar(DP-2): starting waybar
+[20:12:41.708] launch_bar(DP-2): PID=536030
+[20:12:42.010] launch_bar(DP-2): PID 536030 alive OK
+[20:12:42.312] launch_bar(DP-1): starting waybar
+[20:12:42.315] launch_bar(DP-1): PID=536076
+[20:12:42.618] launch_bar(DP-1): PID 536076 alive OK
+[20:12:44.743] launch_bar(DP-2): starting waybar
+[20:12:44.746] launch_bar(DP-2): PID=536416
+[20:12:45.048] launch_bar(DP-2): PID 536416 alive OK
+[20:12:46.735] === autohide-multi.sh started (PID=536590) ===
+[20:12:46.736] Killing existing waybar/autohide processes...
+[20:12:47.164] Existing processes killed, starting monitor detection
+[20:12:47.179] launch_bar(DP-2): starting waybar
+[20:12:47.182] launch_bar(DP-2): PID=536627
+[20:12:47.484] launch_bar(DP-2): PID 536627 alive OK
+[20:12:47.786] launch_bar(DP-1): starting waybar
+[20:12:47.789] launch_bar(DP-1): PID=536715
+[20:12:48.092] launch_bar(DP-1): PID 536715 alive OK
+[20:12:50.445] === autohide-multi.sh started (PID=536979) ===
+[20:12:50.446] Killing existing waybar/autohide processes...
+[20:12:50.875] Existing processes killed, starting monitor detection
+[20:12:50.890] launch_bar(DP-2): starting waybar
+[20:12:50.893] launch_bar(DP-2): PID=537001
+[20:12:51.195] launch_bar(DP-2): PID 537001 alive OK
+[20:12:51.497] launch_bar(DP-1): starting waybar
+[20:12:51.500] launch_bar(DP-1): PID=537047
+[20:12:51.803] launch_bar(DP-1): PID 537047 alive OK
+[20:12:53.414] === autohide-multi.sh started (PID=537196) ===
+[20:12:53.414] Killing existing waybar/autohide processes...
+[20:12:53.843] Existing processes killed, starting monitor detection
+[20:12:53.858] launch_bar(DP-2): starting waybar
+[20:12:53.860] launch_bar(DP-2): PID=537218
+[20:12:54.162] launch_bar(DP-2): PID 537218 alive OK
+[20:12:54.465] launch_bar(DP-1): starting waybar
+[20:12:54.467] launch_bar(DP-1): PID=537264
+[20:12:54.770] launch_bar(DP-1): PID 537264 alive OK
+[20:17:04.269] launch_bar(DP-1): starting waybar
+[20:17:04.272] launch_bar(DP-1): PID=562770
+[20:17:04.575] launch_bar(DP-1): PID 562770 alive OK
+[20:18:01.123] launch_bar(DP-1): starting waybar
+[20:18:01.126] launch_bar(DP-1): PID=568743
+[20:18:01.428] launch_bar(DP-1): PID 568743 alive OK
+[20:21:15.287] launch_bar(DP-1): starting waybar
+[20:21:15.289] launch_bar(DP-1): PID=588322
+[20:21:15.592] launch_bar(DP-1): PID 588322 alive OK
+[22:48:02.861] launch_bar(DP-1): starting waybar
+[22:48:02.863] launch_bar(DP-1): PID=606960
+[22:48:03.166] launch_bar(DP-1): PID 606960 alive OK
+[22:48:56.119] launch_bar(DP-1): starting waybar
+[22:48:56.122] launch_bar(DP-1): PID=612304
+[22:48:56.425] launch_bar(DP-1): PID 612304 alive OK
+[22:48:58.357] === autohide-multi.sh started (PID=612495) ===
+[22:48:58.358] Killing existing waybar/autohide processes...
+[22:48:58.791] Existing processes killed, starting monitor detection
+[22:48:58.806] launch_bar(DP-2): starting waybar
+[22:48:58.809] launch_bar(DP-2): PID=612517
+[22:48:59.112] launch_bar(DP-2): PID 612517 alive OK
+[22:48:59.414] launch_bar(DP-1): starting waybar
+[22:48:59.417] launch_bar(DP-1): PID=612584
+[22:48:59.719] launch_bar(DP-1): PID 612584 alive OK
+[22:49:01.198] launch_bar(DP-1): starting waybar
+[22:49:01.200] launch_bar(DP-1): PID=612725
+[22:49:01.503] launch_bar(DP-1): PID 612725 alive OK
+[22:49:05.304] launch_bar(DP-1): starting waybar
+[22:49:05.307] launch_bar(DP-1): PID=613204
+[22:49:05.610] launch_bar(DP-1): PID 613204 alive OK
+[22:49:07.188] launch_bar(DP-1): starting waybar
+[22:49:07.191] launch_bar(DP-1): PID=613401
+[22:49:07.494] launch_bar(DP-1): PID 613401 alive OK
+[22:49:19.791] launch_bar(DP-1): starting waybar
+[22:49:19.794] launch_bar(DP-1): PID=614687
+[22:49:20.096] launch_bar(DP-1): PID 614687 alive OK
+[22:50:02.032] launch_bar(DP-1): starting waybar
+[22:50:02.035] launch_bar(DP-1): PID=619178
+[22:50:02.337] launch_bar(DP-1): PID 619178 alive OK
+[22:57:14.418] launch_bar(DP-1): starting waybar
+[22:57:14.421] launch_bar(DP-1): PID=664369
+[22:57:14.723] launch_bar(DP-1): PID 664369 alive OK
+[22:57:16.782] === autohide-multi.sh started (PID=664572) ===
+[22:57:16.783] Killing existing waybar/autohide processes...
+[22:57:17.211] Existing processes killed, starting monitor detection
+[22:57:17.226] launch_bar(DP-2): starting waybar
+[22:57:17.229] launch_bar(DP-2): PID=664594
+[22:57:17.531] launch_bar(DP-2): PID 664594 alive OK
+[22:57:17.833] launch_bar(DP-1): starting waybar
+[22:57:17.836] launch_bar(DP-1): PID=664656
+[22:57:18.138] launch_bar(DP-1): PID 664656 alive OK
+[22:57:20.482] === autohide-multi.sh started (PID=664894) ===
+[22:57:20.483] Killing existing waybar/autohide processes...
+[22:57:20.910] Existing processes killed, starting monitor detection
+[22:57:20.924] launch_bar(DP-2): starting waybar
+[22:57:20.927] launch_bar(DP-2): PID=664916
+[22:57:21.229] launch_bar(DP-2): PID 664916 alive OK
+[22:57:21.531] launch_bar(DP-1): starting waybar
+[22:57:21.534] launch_bar(DP-1): PID=664962
+[22:57:21.836] launch_bar(DP-1): PID 664962 alive OK
+[22:57:26.495] === autohide-multi.sh started (PID=665487) ===
+[22:57:26.495] Killing existing waybar/autohide processes...
+[22:57:26.924] Existing processes killed, starting monitor detection
+[22:57:26.938] launch_bar(DP-2): starting waybar
+[22:57:26.941] launch_bar(DP-2): PID=665509
+[22:57:27.243] launch_bar(DP-2): PID 665509 alive OK
+[22:57:27.545] launch_bar(DP-1): starting waybar
+[22:57:27.548] launch_bar(DP-1): PID=665555
+[22:57:27.851] launch_bar(DP-1): PID 665555 alive OK
+[23:10:13.482] launch_bar(DP-1): starting waybar
+[23:10:13.484] launch_bar(DP-1): PID=742959
+[23:10:13.786] launch_bar(DP-1): PID 742959 alive OK
+[23:16:51.996] launch_bar(DP-1): starting waybar
+[23:16:51.999] launch_bar(DP-1): PID=783219
+[23:16:52.302] launch_bar(DP-1): PID 783219 alive OK
+[17:26:07.500] === autohide-multi.sh started (PID=1992) ===
+[17:26:07.502] Killing existing waybar/autohide processes...
+[17:26:07.930] Existing processes killed, starting monitor detection
+[17:26:07.949] launch_bar(DP-2): starting waybar
+[17:26:07.952] launch_bar(DP-2): PID=2020
+[17:26:08.254] launch_bar(DP-2): PID 2020 alive OK
+[17:26:08.556] launch_bar(DP-1): starting waybar
+[17:26:08.559] launch_bar(DP-1): PID=2091
+[17:26:08.861] launch_bar(DP-1): PID 2091 alive OK
+[14:27:25.277] launch_bar(DP-1): starting waybar
+[14:27:25.280] launch_bar(DP-1): PID=11463
+[14:27:25.582] launch_bar(DP-1): PID 11463 alive OK
+[14:30:10.735] launch_bar(DP-1): starting waybar
+[14:30:10.738] launch_bar(DP-1): PID=30553
+[14:30:11.040] launch_bar(DP-1): PID 30553 alive OK
+[15:27:40.494] launch_bar(DP-1): starting waybar
+[15:27:40.497] launch_bar(DP-1): PID=376630
+[15:27:40.799] launch_bar(DP-1): PID 376630 alive OK
+[15:27:45.652] launch_bar(DP-1): starting waybar
+[15:27:45.655] launch_bar(DP-1): PID=377160
+[15:27:45.957] launch_bar(DP-1): PID 377160 alive OK
+[15:27:48.183] launch_bar(DP-1): starting waybar
+[15:27:48.186] launch_bar(DP-1): PID=377420
+[15:27:48.488] launch_bar(DP-1): PID 377420 alive OK
+[15:27:49.033] launch_bar(DP-2): starting waybar
+[15:27:49.036] launch_bar(DP-2): PID=377519
+[15:27:49.338] launch_bar(DP-2): PID 377519 alive OK
+[15:32:21.207] launch_bar(DP-1): starting waybar
+[15:32:21.210] launch_bar(DP-1): PID=405121
+[15:32:21.513] launch_bar(DP-1): PID 405121 alive OK
+[15:51:23.782] launch_bar(DP-1): starting waybar
+[15:51:23.785] launch_bar(DP-1): PID=520264
+[15:51:24.087] launch_bar(DP-1): PID 520264 alive OK
+[15:51:27.105] launch_bar(DP-2): starting waybar
+[15:51:27.107] launch_bar(DP-2): PID=520631
+[15:51:27.410] launch_bar(DP-2): PID 520631 alive OK
+[15:51:31.862] launch_bar(DP-1): starting waybar
+[15:51:31.865] launch_bar(DP-1): PID=521154
+[15:51:32.167] launch_bar(DP-1): PID 521154 alive OK
+[16:12:04.567] launch_bar(DP-1): starting waybar
+[16:12:04.570] launch_bar(DP-1): PID=645817
+[16:12:04.872] launch_bar(DP-1): PID 645817 alive OK
+[18:06:38.019] launch_bar(DP-1): starting waybar
+[18:06:38.021] launch_bar(DP-1): PID=1338476
+[18:06:38.323] launch_bar(DP-1): PID 1338476 alive OK
+[18:14:38.855] launch_bar(DP-1): starting waybar
+[18:14:38.858] launch_bar(DP-1): PID=1386608
+[18:14:39.160] launch_bar(DP-1): PID 1386608 alive OK
+[18:14:46.886] launch_bar(DP-1): starting waybar
+[18:14:46.889] launch_bar(DP-1): PID=1387605
+[18:14:47.192] launch_bar(DP-1): PID 1387605 alive OK
+[18:15:00.634] launch_bar(DP-2): starting waybar
+[18:15:00.637] launch_bar(DP-2): PID=1389226
+[18:15:00.939] launch_bar(DP-2): PID 1389226 alive OK
+[18:15:05.954] launch_bar(DP-2): starting waybar
+[18:15:05.958] launch_bar(DP-2): PID=1389784
+[18:15:06.260] launch_bar(DP-2): PID 1389784 alive OK
+[18:25:13.386] launch_bar(DP-2): starting waybar
+[18:25:13.389] launch_bar(DP-2): PID=1460523
+[18:25:13.691] launch_bar(DP-2): PID 1460523 alive OK
+[19:12:45.677] launch_bar(DP-1): starting waybar
+[19:12:45.680] launch_bar(DP-1): PID=1744735
+[19:12:45.982] launch_bar(DP-1): PID 1744735 alive OK
+[21:37:07.571] launch_bar(DP-2): starting waybar
+[21:37:07.573] launch_bar(DP-2): PID=1929950
+[21:37:07.876] launch_bar(DP-2): PID 1929950 alive OK
+[21:37:11.273] launch_bar(DP-2): starting waybar
+[21:37:11.276] launch_bar(DP-2): PID=1930354
+[21:37:11.578] launch_bar(DP-2): PID 1930354 alive OK
+[21:37:44.976] launch_bar(DP-1): starting waybar
+[21:37:44.979] launch_bar(DP-1): PID=1933716
+[21:37:45.281] launch_bar(DP-1): PID 1933716 alive OK
+[21:37:50.249] launch_bar(DP-1): starting waybar
+[21:37:50.252] launch_bar(DP-1): PID=1934293
+[21:37:50.554] launch_bar(DP-1): PID 1934293 alive OK
+[21:42:47.958] launch_bar(DP-1): starting waybar
+[21:42:47.961] launch_bar(DP-1): PID=1966468
+[21:42:48.263] launch_bar(DP-1): PID 1966468 alive OK
+[21:42:50.628] launch_bar(DP-1): starting waybar
+[21:42:50.631] launch_bar(DP-1): PID=1966744
+[21:42:50.933] launch_bar(DP-1): PID 1966744 alive OK
+[21:46:14.571] launch_bar(DP-1): starting waybar
+[21:46:14.574] launch_bar(DP-1): PID=1987103
+[21:46:14.876] launch_bar(DP-1): PID 1987103 alive OK

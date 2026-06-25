@@ -1,0 +1,100 @@
+{
+  "group/distro-group": {
+    "orientation": "horizontal",
+    "drawer": {
+      "transition-duration": 650,
+      "transition-left-to-right": true,
+      "click-to-reveal": true
+    },
+    "modules": [
+      "custom/distro",
+      "custom/kitty",
+      "custom/antigravity",
+      "custom/thunar",
+      "custom/chrome",
+      "custom/whatsapp",
+      "custom/spotify"
+    ]
+  },
+  "group/resources": {
+    "orientation": "horizontal",
+    "drawer": {
+      "transition-duration": 650,
+      "transition-left-to-right": true,
+      "click-to-reveal": true
+    },
+    "modules": [
+      "custom/resources",
+      "cpu",
+      "custom/gpu",
+      "temperature",
+      "memory",
+      "disk"
+    ]
+  },
+  "group/audio": {
+    "orientation": "horizontal",
+    "drawer": {
+      "transition-duration": 650,
+      "transition-left-to-right": false
+    },
+    "modules": [
+      "pulseaudio",
+      "pulseaudio/slider",
+      "pulseaudio#microphone"
+    ]
+  },
+  "group/connections": {
+    "orientation": "horizontal",
+    "drawer": {
+      "transition-duration": 500,
+      "transition-left-to-right": false
+    },
+    "modules": [
+      "network",
+      "bluetooth"
+    ]
+  },
+  "group/tray-group": {
+    "orientation": "horizontal",
+    "drawer": {
+      "transition-duration": 500,
+      "transition-left-to-right": false
+    },
+    "modules": [
+      "custom/tray-arrow",
+      "tray"
+    ]
+  },
+  "group/waypaper": {
+    "orientation": "horizontal",
+    "drawer": {
+      "transition-duration": 650,
+      "transition-left-to-right": false
+    },
+    "modules": [
+      "custom/waypaper",
+      "custom/waypaper-random"
+    ]
+  },
+  "group/backlight-dp1": {
+    "orientation": "horizontal",
+    "drawer": {
+      "transition-duration": 650,
+      "transition-left-to-right": false
+    },
+    "modules": [
+      "custom/brightness-dp1"
+    ]
+  },
+  "group/backlight-dp2": {
+    "orientation": "horizontal",
+    "drawer": {
+      "transition-duration": 650,
+      "transition-left-to-right": false
+    },
+    "modules": [
+      "custom/brightness-dp2"
+    ]
+  }
+}
