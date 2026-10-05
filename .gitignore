@@ -52,3 +52,4 @@
 
 # Üst düzey izinlerin altındaki kendi .git dizinleri (varsa) asla eklenmesin
 **/.git/
+!/quickshell/
